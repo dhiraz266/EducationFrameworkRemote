@@ -16,7 +16,7 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 2,
+      "latestVersion": 1,
       "minimumVersion": 1,
       "forceUpdate": false,
       "title": "New Update Available",
