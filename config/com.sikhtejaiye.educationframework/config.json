@@ -15,16 +15,22 @@
       "requiredVideos": 2
     },
     "update": {
-      "enabled": true,
-      "latestVersion": 3,
-      "minimumVersion": 2,
-      "forceUpdate": false,
-      "title": "New Update Available",
-      "message": "We've improved performance and fixed bugs for a better learning experience.",
-      "positiveButton": "Update Now",
-      "negativeButton": "Later",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.educationframework"
-    },
+  "enabled": true,
+  "latestVersion": 3,
+  "latestVersionName": "2.1.0",
+  "minimumVersion": 2,
+  "title": "New Update Available",
+  "message": "A better version of the app is now available.",
+  "releaseNotes": [
+    "Faster Search",
+    "Better Reader",
+    "Reward Improvements",
+    "Performance Optimizations"
+  ],
+  "positiveButton": "Update Now",
+  "negativeButton": "Later",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.educationframework"
+}
     "interstitial": {
       "enabled": true,
       "testMode": false,
