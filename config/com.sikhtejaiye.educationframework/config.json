@@ -14,6 +14,17 @@
       "rewardDays": 2,
       "requiredVideos": 2
     },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "minimumVersion": 1,
+      "forceUpdate": false,
+      "title": "New Update Available",
+      "message": "We've improved performance and fixed bugs for a better learning experience.",
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.educationframework"
+    },
     "interstitial": {
       "enabled": true,
       "testMode": false,
