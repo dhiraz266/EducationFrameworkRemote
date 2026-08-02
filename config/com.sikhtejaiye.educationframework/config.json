@@ -16,8 +16,8 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 3,
-      "minimumVersion": 2,
+      "latestVersion": 2,
+      "minimumVersion": 1,
       "forceUpdate": false,
       "title": "New Update Available",
       "message": "We've improved performance and fixed bugs for a better learning experience.",
