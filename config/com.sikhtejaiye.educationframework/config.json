@@ -11,8 +11,8 @@
     "showBannerOnReader": true,
     "reward": {
       "enabled": true,
-      "rewardDays": 2,
-      "requiredVideos": 5
+      "rewardDays": 3,
+      "requiredVideos": 2
     },
     "interstitial": {
       "enabled": true,
