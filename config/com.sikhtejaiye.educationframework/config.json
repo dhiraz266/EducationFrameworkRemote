@@ -16,12 +16,13 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 2,
+      "latestVersion": 3,
       "latestVersionName": "2.0.0",
-      "minimumVersion": 1,
+      "minimumVersion": 2,
       "title": "New Update Available",
       "message": "A better version of the app is now available.",
       "releaseNotes": [
+        "Added In-App Promotion",
         "Faster Search",
         "Better Reader",
         "Reward Improvements",
@@ -29,7 +30,7 @@
       ],
       "positiveButton": "Update Now",
       "negativeButton": "Later",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.educationframework"
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12computerscience"
     },
     "interstitial": {
       "enabled": true,
