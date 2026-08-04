@@ -18,7 +18,7 @@
       "enabled": true,
       "latestVersion": 2,
       "latestVersionName": "1.0.0",
-      "minimumVersion": 2,
+      "minimumVersion": 1,
       "title": "New Update Available",
       "message": "A better version of the app is now available.",
       "releaseNotes": [
