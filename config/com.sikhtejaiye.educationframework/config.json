@@ -1,6 +1,5 @@
 {
   "appName": "Class 12 Computer Science",
-
   "settings": {
     "themeColor": "#009688",
     "internetRequired": true,
@@ -14,7 +13,7 @@
       "requiredVideos": 2,
       "duration": {
         "value": 2,
-        "unit": "minutes"
+        "unit": "days"
       }
     },
     "update": {
@@ -56,9 +55,7 @@
       "afterToast": "Remove Ads from the Menu"
     }
   },
-
   "subjects": [
-
     {
       "title": "C++ Solution",
       "chapters": [
@@ -134,7 +131,6 @@
         }
       ]
     },
-
     {
       "title": "Python Solution",
       "chapters": [
@@ -170,7 +166,6 @@
         }
       ]
     },
-
     {
       "title": "MCQs",
       "chapters": [
@@ -236,6 +231,5 @@
         }
       ]
     }
-
   ]
 }
