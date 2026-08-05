@@ -16,7 +16,7 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 2,
+      "latestVersion": 1,
       "latestVersionName": "1.0.0",
       "minimumVersion": 1,
       "title": "New Update Available",
