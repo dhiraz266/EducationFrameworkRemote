@@ -13,8 +13,8 @@
       "enabled": true,
       "requiredVideos": 2,
       "duration": {
-        "value": 2,
-        "unit": "days"
+        "value": 10,
+        "unit": "minutes"
       }
     },
     "update": {
