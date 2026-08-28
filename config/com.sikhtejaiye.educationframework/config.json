@@ -5,14 +5,14 @@
     "internetRequired": true,
     "showTopPromotion": false,
     "showBottomPromotion": false,
-    "showBannerOnHome": false,
+    "showBannerOnHome": true,
     "showBannerOnChapter": true,
-    "showBannerOnReader": false,
+    "showBannerOnReader": true,
     "reward": {
       "enabled": true,
-      "requiredVideos": 2,
+      "requiredVideos": 3,
       "duration": {
-        "value": 2,
+        "value": 1,
         "unit": "days"
       }
     },
