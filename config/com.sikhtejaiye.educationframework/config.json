@@ -7,7 +7,7 @@
     "showBottomPromotion": false,
     "showBannerOnHome": true,
     "showBannerOnChapter": false,
-    "showBannerOnReader": false,
+    "showBannerOnReader": true,
     "reward": {
       "enabled": true,
       "requiredVideos": 2,
