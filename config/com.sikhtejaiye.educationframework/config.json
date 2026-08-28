@@ -3,11 +3,11 @@
   "settings": {
     "themeColor": "#009688",
     "internetRequired": true,
-    "showTopPromotion": true,
-    "showBottomPromotion": true,
-    "showBannerOnHome": true,
-    "showBannerOnChapter": true,
-    "showBannerOnReader": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
     "reward": {
       "enabled": true,
       "requiredVideos": 2,
