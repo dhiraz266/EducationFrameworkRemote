@@ -37,8 +37,8 @@
       "enabled": true,
       "testMode": false,
       "production": {
-        "backPressMinutes": 1,
-        "readingMinutes": 2,
+        "backPressMinutes": 5,
+        "readingMinutes": 10,
         "beforeDelaySeconds": 1,
         "globalCooldownSeconds": 60
       },
