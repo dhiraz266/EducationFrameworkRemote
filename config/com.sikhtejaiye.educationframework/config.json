@@ -3,8 +3,8 @@
   "settings": {
     "themeColor": "#009688",
     "internetRequired": true,
-    "showTopPromotion": false,
-    "showBottomPromotion": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": false,
     "showBannerOnHome": true,
     "showBannerOnChapter": true,
     "showBannerOnReader": true,
