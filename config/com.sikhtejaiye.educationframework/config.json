@@ -5,9 +5,9 @@
     "internetRequired": true,
     "showTopPromotion": false,
     "showBottomPromotion": false,
-    "showBannerOnHome": true,
-    "showBannerOnChapter": false,
-    "showBannerOnReader": true,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": false,
     "reward": {
       "enabled": true,
       "requiredVideos": 2,
@@ -37,8 +37,8 @@
       "enabled": true,
       "testMode": false,
       "production": {
-        "backPressMinutes": 5,
-        "readingMinutes": 10,
+        "backPressMinutes": 1,
+        "readingMinutes": 2,
         "beforeDelaySeconds": 1,
         "globalCooldownSeconds": 60
       },
