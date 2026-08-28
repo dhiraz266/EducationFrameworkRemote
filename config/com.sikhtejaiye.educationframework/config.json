@@ -10,9 +10,9 @@
     "showBannerOnReader": true,
     "reward": {
       "enabled": true,
-      "requiredVideos": 3,
+      "requiredVideos": 2,
       "duration": {
-        "value": 1,
+        "value": 2,
         "unit": "days"
       }
     },
