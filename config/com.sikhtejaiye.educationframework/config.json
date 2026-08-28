@@ -5,7 +5,7 @@
     "internetRequired": true,
     "showTopPromotion": false,
     "showBottomPromotion": false,
-    "showBannerOnHome": false,
+    "showBannerOnHome": true,
     "showBannerOnChapter": false,
     "showBannerOnReader": false,
     "reward": {
