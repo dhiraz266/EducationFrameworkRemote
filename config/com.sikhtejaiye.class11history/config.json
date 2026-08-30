@@ -1,5 +1,5 @@
 {
-  "appName": "Class 9 All Subject Objective",
+  "appName": "Class 11 History Solutions",
   "settings": {
     "themeColor": "#009688",
     "internetRequired": true,
@@ -31,14 +31,14 @@
       ],
       "positiveButton": "Update Now",
       "negativeButton": "Later",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class9objective"
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11history"
     },
     "interstitial": {
       "enabled": true,
       "testMode": false,
       "production": {
-        "backPressMinutes": 10,
-        "readingMinutes": 20,
+        "backPressMinutes": 5,
+        "readingMinutes": 10,
         "beforeDelaySeconds": 1,
         "globalCooldownSeconds": 60
       },
@@ -56,487 +56,177 @@
   },
   "subjects": [
     {
-      "title": "Hindi (हिन्दी)",
+      "title": "C++ Solution",
       "chapters": [
         {
-          "title": "1. दो बैलों की कथा",
-          "type": "html",
-          "file": "html/hindi1.1.html"
+          "title": "Chapter 1: C++ Revision Tour",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
         },
         {
-          "title": "2. ल्हासा की ओर",
-          "type": "html",
-          "file": "html/hindi1.2.html"
+          "title": "Chapter 2: Object-Oriented Programming in C++",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
         },
         {
-          "title": "3. उपभोक्तावाद की संस्कृति",
-          "type": "html",
-          "file": "html/hindi1.3.html"
+          "title": "Chapter 3: Implementation of OOP Concepts in C++",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
         },
         {
-          "title": "4. साँवले सपनों की याद",
-          "type": "html",
-          "file": "html/hindi1.4.html"
+          "title": "Chapter 4: Constructor and Destructor",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
         },
         {
-          "title": "5. नाना साहब की पुत्री देवी मैना को भस्म कर दिया गया",
-          "type": "html",
-          "file": "html/hindi1.5.html"
+          "title": "Chapter 5: Inheritance",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
         },
         {
-          "title": "6. प्रेमचंद के फटे जूते",
-          "type": "html",
-          "file": "html/hindi1.6.html"
+          "title": "Chapter 6: Data File Handling",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
         },
         {
-          "title": "7. मेरे बचपन के दिन",
-          "type": "html",
-          "file": "html/hindi1.7.html"
+          "title": "Chapter 7: Pointers",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
         },
         {
-          "title": "8. एक कुत्ता और एक मैना",
-          "type": "html",
-          "file": "html/hindi1.8.html"
+          "title": "Chapter 8: Arrays",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
         },
         {
-          "title": "9. साखियाँ एवं सबद",
-          "type": "html",
-          "file": "html/hindi1.9.html"
+          "title": "Chapter 9: Stack",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
         },
         {
-          "title": "10. वाख",
-          "type": "html",
-          "file": "html/hindi1.10.html"
+          "title": "Chapter 10: Queue",
+          "type": "pdf",
+          "file": "pdf/Part0.pdf"
         },
         {
-          "title": "11. सवैये",
-          "type": "html",
-          "file": "html/hindi1.11.html"
+          "title": "Chapter 11: Database Concepts",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
         },
         {
-          "title": "12. कैदी और कोकिला",
-          "type": "html",
-          "file": "html/hindi1.12.html"
+          "title": "Chapter 12: Structured Query Language",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
         },
         {
-          "title": "13. ग्राम श्री",
-          "type": "html",
-          "file": "html/hindi1.13.html"
+          "title": "Chapter 13: Boolean Algebra",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
         },
         {
-          "title": "14. चंद्र गहना से लौटती बेर",
-          "type": "html",
-          "file": "html/hindi1.14.html"
-        },
-        {
-          "title": "15. मेघ आए",
-          "type": "html",
-          "file": "html/hindi1.15.html"
-        },
-        {
-          "title": "16. यमराज की दिशा",
-          "type": "html",
-          "file": "html/hindi1.16.html"
-        },
-        {
-          "title": "17. बच्चे काम पर जा रहे हैं",
-          "type": "html",
-          "file": "html/hindi1.17.html"
+          "title": "Chapter 14: Networking and Open Source Concepts",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
         }
       ]
     },
     {
-      "title": "English (अंग्रेज़ी)",
+      "title": "Python Solution",
       "chapters": [
         {
-          "title": "1. The Fun They Had",
-          "type": "html",
-          "file": "html/english1.1.html"
+          "title": "Chapter 1: Review of Python",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
         },
         {
-          "title": "2. The Sound of Music",
-          "type": "html",
-          "file": "html/english1.2.html"
+          "title": "Chapter 2: Object-Oriented Programming Concepts",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
         },
         {
-          "title": "3. The Little Girl",
-          "type": "html",
-          "file": "html/english1.3.html"
+          "title": "Chapter 3: Lists Manipulation and Implementation",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
         },
         {
-          "title": "4. A Truly Beautiful Mind",
-          "type": "html",
-          "file": "html/english1.4.html"
+          "title": "Chapter 4: Database Concepts",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
         },
         {
-          "title": "5. The Snake and the Mirror",
-          "type": "html",
-          "file": "html/english1.5.html"
+          "title": "Chapter 5: Structured Query Language",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
         },
         {
-          "title": "6. My Childhood",
-          "type": "html",
-          "file": "html/english1.6.html"
-        },
-        {
-          "title": "7. Packing",
-          "type": "html",
-          "file": "html/english1.7.html"
-        },
-        {
-          "title": "8. Reach for the Top",
-          "type": "html",
-          "file": "html/english1.8.html"
-        },
-        {
-          "title": "9. The Bond of Love",
-          "type": "html",
-          "file": "html/english1.9.html"
-        },
-        {
-          "title": "10. Kathmandu",
-          "type": "html",
-          "file": "html/english1.10.html"
-        },
-        {
-          "title": "11. If I Were You",
-          "type": "html",
-          "file": "html/english1.11.html"
-        },
-        {
-          "title": "12. The Road Not Taken",
-          "type": "html",
-          "file": "html/english2.1.html"
-        },
-        {
-          "title": "13. Wind",
-          "type": "html",
-          "file": "html/english2.2.html"
-        },
-        {
-          "title": "14. Rain on the Roof",
-          "type": "html",
-          "file": "html/english2.3.html"
-        },
-        {
-          "title": "15. The Lake Isle of Innisfree",
-          "type": "html",
-          "file": "html/english2.4.html"
-        },
-        {
-          "title": "16. A Legend of the Northland",
-          "type": "html",
-          "file": "html/english2.5.html"
-        },
-        {
-          "title": "17. No Men Are Foreign",
-          "type": "html",
-          "file": "html/english2.6.html"
-        },
-        {
-          "title": "18. The Duck and the Kangaroo",
-          "type": "html",
-          "file": "html/english2.7.html"
-        },
-        {
-          "title": "19. On Killing a Tree",
-          "type": "html",
-          "file": "html/english2.8.html"
-        },
-        {
-          "title": "20. The Snake Trying",
-          "type": "html",
-          "file": "html/english2.9.html"
-        },
-        {
-          "title": "21. A Slumber Did My Spirit Seal",
-          "type": "html",
-          "file": "html/english2.10.html"
+          "title": "Chapter 6: Boolean Algebra",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
         }
       ]
     },
     {
-      "title": "Math (गणित)",
+      "title": "MCQs",
       "chapters": [
         {
-          "title": "1. संख्या पद्धति",
+          "title": "1. Cascading Style Sheets and JavaScript MCQs",
           "type": "html",
-          "file": "html/math1.html"
+          "file": "html/mcq1.html"
         },
         {
-          "title": "2. बहुपद",
+          "title": "2. Classes and Objects In Java MCQs",
           "type": "html",
-          "file": "html/math2.html"
+          "file": "html/mcq2.html"
         },
         {
-          "title": "3. निर्देशांक ज्यामिति",
+          "title": "3. Creating HTML Forms Using KompoZer MCQs",
           "type": "html",
-          "file": "html/math3.html"
+          "file": "html/mcq3.html"
         },
         {
-          "title": "4. दो चरों वाले रैखिक समीकरण",
+          "title": "4. Designing Simple Website Using KompoZer MCQs",
           "type": "html",
-          "file": "html/math4.html"
+          "file": "html/mcq4.html"
         },
         {
-          "title": "5. यूक्लिड की ज्यामिति का परिचय",
+          "title": "5. Exception Handling In Java MCQs",
           "type": "html",
-          "file": "html/math5.html"
+          "file": "html/mcq5.html"
         },
         {
-          "title": "6. रेखाएँ और कोण",
+          "title": "6. File Handling MCQs",
           "type": "html",
-          "file": "html/math6.html"
+          "file": "html/mcq6.html"
         },
         {
-          "title": "7. त्रिभुज",
+          "title": "7. File System MCQs",
           "type": "html",
-          "file": "html/math7.html"
+          "file": "html/mcq7.html"
         },
         {
-          "title": "8. चतुर्भुज",
+          "title": "8. Introduction To eCommerce MCQs",
           "type": "html",
-          "file": "html/math8.html"
+          "file": "html/mcq8.html"
         },
         {
-          "title": "9. समांतर चतुर्भुजों और त्रिभुजों के क्षेत्रफल",
+          "title": "9. Introduction To mCommerce MCQs",
           "type": "html",
-          "file": "html/math9.html"
+          "file": "html/mcq9.html"
         },
         {
-          "title": "10. वृत",
+          "title": "10. Java Basics MCQs",
           "type": "html",
-          "file": "html/math10.html"
+          "file": "html/mcq10.html"
         },
         {
-          "title": "11. रचनाएँ",
+          "title": "11. Object Oriented Concepts MCQs",
           "type": "html",
-          "file": "html/math11.html"
+          "file": "html/mcq11.html"
         },
         {
-          "title": "12. हीरोन का सूत्र",
+          "title": "12. Publishing Documents Using Latex MCQs",
           "type": "html",
-          "file": "html/math12.html"
-        },
-        {
-          "title": "13. पृष्ठीय क्षेत्रफल और आयतन",
-          "type": "html",
-          "file": "html/math13.html"
-        },
-        {
-          "title": "14. सांख्यिकी",
-          "type": "html",
-          "file": "html/math14.html"
-        },
-        {
-          "title": "15. प्रायिकता",
-          "type": "html",
-          "file": "html/math15.html"
-        }
-      ]
-    },
-    {
-      "title": "Science (विज्ञान)",
-      "chapters": [
-        {
-          "title": "1. हमारे आस – पास के पदार्थ",
-          "type": "html",
-          "file": "html/science1.html"
-        },
-        {
-          "title": "2. क्या हमारे आस – पास के पदार्थ शुद्ध हैं",
-          "type": "html",
-          "file": "html/science2.html"
-        },
-        {
-          "title": "3. परमाणु एवं अणु",
-          "type": "html",
-          "file": "html/science3.html"
-        },
-        {
-          "title": "4. परमाणु की संरचना",
-          "type": "html",
-          "file": "html/science4.html"
-        },
-        {
-          "title": "5. जीवन की मौलिक इकाई",
-          "type": "html",
-          "file": "html/science5.html"
-        },
-        {
-          "title": "6. ऊतक",
-          "type": "html",
-          "file": "html/science6.html"
-        },
-        {
-          "title": "7. जीवों में विविधता",
-          "type": "html",
-          "file": "html/science7.html"
-        },
-        {
-          "title": "8. गति",
-          "type": "html",
-          "file": "html/science8.html"
-        },
-        {
-          "title": "9. बल तथा गति के नियम",
-          "type": "html",
-          "file": "html/science9.html"
-        },
-        {
-          "title": "10. गुरुत्वाकर्षण",
-          "type": "html",
-          "file": "html/science10.html"
-        },
-        {
-          "title": "11. कार्य तथा ऊर्जा",
-          "type": "html",
-          "file": "html/science11.html"
-        },
-        {
-          "title": "12. ध्वनि",
-          "type": "html",
-          "file": "html/science12.html"
-        },
-        {
-          "title": "13. हम बीमार क्यों होते हैं",
-          "type": "html",
-          "file": "html/science13.html"
-        },
-        {
-          "title": "14. प्राकृतिक संपदा",
-          "type": "html",
-          "file": "html/science14.html"
-        },
-        {
-          "title": "15. खाद्य संसाधनों में सुधार",
-          "type": "html",
-          "file": "html/science15.html"
-        }
-      ]
-    },
-    {
-      "title": "Social Science (सामाजिक विज्ञान)",
-      "chapters": [
-        {
-          "title": "1. फ्राँसीसी क्रांति",
-          "type": "html",
-          "file": "html/sst1.1.html"
-        },
-        {
-          "title": "2. यूरोप में समाजवाद एवं रूसी क्रांति",
-          "type": "html",
-          "file": "html/sst1.2.html"
-        },
-        {
-          "title": "3. नात्सीवाद और हिटलर का उदय",
-          "type": "html",
-          "file": "html/sst1.3.html"
-        },
-        {
-          "title": "4. वन्य – समाज एवं उपनिवेशवाद",
-          "type": "html",
-          "file": "html/sst1.4.html"
-        },
-        {
-          "title": "5. आधुनिक विश्व में चरवाहे",
-          "type": "html",
-          "file": "html/sst1.5.html"
-        },
-        {
-          "title": "6. किसान और काश्तकार",
-          "type": "html",
-          "file": "html/sst1.6.html"
-        },
-        {
-          "title": "7. इतिहास और खेल : क्रिकेट की कहानी",
-          "type": "html",
-          "file": "html/sst1.7.html"
-        },
-        {
-          "title": "8. पहनावे का सामाजिक इतिहास",
-          "type": "html",
-          "file": "html/sst1.8.html"
-        },
-        {
-          "title": "9. भारत- आकार और स्थिति",
-          "type": "html",
-          "file": "html/sst2.1.html"
-        },
-        {
-          "title": "10. भारत का भौतिक स्वरूप",
-          "type": "html",
-          "file": "html/sst2.2.html"
-        },
-        {
-          "title": "11. अपवाह",
-          "type": "html",
-          "file": "html/sst2.3.html"
-        },
-        {
-          "title": "12. जलवायु",
-          "type": "html",
-          "file": "html/sst2.4.html"
-        },
-        {
-          "title": "13. प्राकृतिक वनस्पति तथा वन्य प्राणी",
-          "type": "html",
-          "file": "html/sst2.5.html"
-        },
-        {
-          "title": "14. जनसंख्या",
-          "type": "html",
-          "file": "html/sst2.6.html"
-        },
-        {
-          "title": "15. समकालीन विश्व में लोकतंत्र",
-          "type": "html",
-          "file": "html/sst3.1.html"
-        },
-        {
-          "title": "16. लोकतंत्र क्या? लोकतंत्र क्यों?",
-          "type": "html",
-          "file": "html/sst3.2.html"
-        },
-        {
-          "title": "17. संविधान निर्माण",
-          "type": "html",
-          "file": "html/sst3.3.html"
-        },
-        {
-          "title": "18. चुनावी राजनीति",
-          "type": "html",
-          "file": "html/sst3.4.html"
-        },
-        {
-          "title": "19. संस्थाओं का कामकाज",
-          "type": "html",
-          "file": "html/sst3.5.html"
-        },
-        {
-          "title": "20. लोकतांत्रिक अधिकार",
-          "type": "html",
-          "file": "html/sst3.6.html"
-        },
-        {
-          "title": "21. पालमपुर गाँव की कहानी",
-          "type": "html",
-          "file": "html/sst4.1.html"
-        },
-        {
-          "title": "22. संसाधन के रूप में लोग",
-          "type": "html",
-          "file": "html/sst4.2.html"
-        },
-        {
-          "title": "23. निर्धनता : एक चुनौती",
-          "type": "html",
-          "file": "html/sst4.3.html"
-        },
-        {
-          "title": "24. भारत में खाद्य सुरक्षा",
-          "type": "html",
-          "file": "html/sst4.4.html"
+          "file": "html/mcq12.html"
         }
       ]
     }
