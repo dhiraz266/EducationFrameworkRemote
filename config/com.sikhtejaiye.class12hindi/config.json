@@ -1,0 +1,404 @@
+{
+  "appName": "Class 12 Hindi NCERT Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12hindi"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "अंतरा",
+      "chapters": [
+        {
+          "title": "1) जयशंकर प्रसाद (देवसेना का गीत, कार्नेलिया का गीत)",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "2) सूर्यकांत त्रिपाठी 'निराला' (गीत गाने दो मुझे, सरोज स्मृति)",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "3) सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' (यह दिप अकेला, मैंने देखा, एक बूँद)",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "4) केदारनाथ सिंह (बनारस, दिशा)",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "5) विष्णु खरे (एक कम, सत्य)",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "6) रघुवीर सहाय (वसंत आया, तोड़ो)",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "7) तुलसीदास (भरत-राम का प्रेम, पद)",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "8) मलिक मुहम्मद जायसी (बरहमासा)",
+          "type": "html",
+          "file": "html/part1.8.html"
+        },
+        {
+          "title": "9) विद्यापति (पद)",
+          "type": "html",
+          "file": "html/part1.9.html"
+        },
+        {
+          "title": "10) केशवदास (रामचंद्रिका)",
+          "type": "html",
+          "file": "html/part1.10.html"
+        },
+        {
+          "title": "11) घनानंद (कवित्त/सवैया)",
+          "type": "html",
+          "file": "html/part1.11.html"
+        },
+        {
+          "title": "12) रामचंद्र शुक्ल (प्रेमघन की छाया-स्मृति)",
+          "type": "html",
+          "file": "html/part1.12.html"
+        },
+        {
+          "title": "13) पंडित चंद्रधर शर्मा गुलेरी (सुमिरिनी के मनके)",
+          "type": "html",
+          "file": "html/part1.13.html"
+        },
+        {
+          "title": "14) ब्रजमोहन व्यास (कच्चा चिट्ठा)",
+          "type": "html",
+          "file": "html/part1.14.html"
+        },
+        {
+          "title": "15) फणीश्वरनाथ 'रेणु' (संवदिया)",
+          "type": "html",
+          "file": "html/part1.15.html"
+        },
+        {
+          "title": "16) भीष्म साहनी (गांधी, नेहरू और यास्सेर अराफ़ात)",
+          "type": "html",
+          "file": "html/part1.16.html"
+        },
+        {
+          "title": "17) असगर वजाहत (शेर, पहचान, चार हाथ. साझा)",
+          "type": "html",
+          "file": "html/part1.17.html"
+        },
+        {
+          "title": "18) निर्मल वर्मा (जँहा कोई वापसी नहीं)",
+          "type": "html",
+          "file": "html/part1.18.html"
+        },
+        {
+          "title": "19) रामविलास शर्मा (यथास्मै रोचते विश्वम्)",
+          "type": "html",
+          "file": "html/part1.19.html"
+        },
+        {
+          "title": "20) ममता कालिया (दूसरा देवदास)",
+          "type": "html",
+          "file": "html/part1.20.html"
+        },
+        {
+          "title": "21) हजारी प्रसाद द्विवेदी (कुटज)",
+          "type": "html",
+          "file": "html/part1.21.html"
+        }
+      ]
+    },
+    {
+      "title": "अंतराल",
+      "chapters": [
+        {
+          "title": "1) सूरदास की झोंपड़ी",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "2) आरोहण",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "3) बिस्कोहर की माटी",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "4) अपना मालवा-खाऊ-उजाड़ू सभ्यता में",
+          "type": "html",
+          "file": "html/part2.4.html"
+        }
+      ]
+    },
+    {
+      "title": "अभिव्यक्ति और माध्यम",
+      "chapters": [
+        {
+          "title": "1) विभिन्न माध्यमों के लिए लेखन",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "2) पत्रकारिता लेखन के विभिन्न रूप और लेखन प्रक्रिया",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "3) विशेष लेखन - स्वरूप और प्रकार",
+          "type": "html",
+          "file": "html/part3.3.html"
+        },
+        {
+          "title": "4) सृजनात्मक लेखन : कैसे बनती है कविता",
+          "type": "html",
+          "file": "html/part3.4.html"
+        },
+        {
+          "title": "5) नाटक लिखने का व्याकरण",
+          "type": "html",
+          "file": "html/part3.5.html"
+        }
+      ]
+    },
+    {
+      "title": "कक्षा 12 - सामान्य हिन्दी",
+      "chapters": [
+        {
+          "title": "गद्य गरिमा:- Chapter 1 राष्ट्र को स्वरूप (डॉ० वासुदेवशरण अग्रवाल)",
+          "type": "html",
+          "file": "html/partup1.1.html"
+        },
+        {
+          "title": "गद्य गरिमा:- Chapter 2 राबर्ट नर्सिंग होम में (कन्हैयालाल मिश्र ‘प्रभाकर’)",
+          "type": "html",
+          "file": "html/partup1.2.html"
+        },
+        {
+          "title": "गद्य गरिमा:- Chapter 3 अशोक के फूल (आचार्य हजारीप्रसाद द्विवेदी)",
+          "type": "html",
+          "file": "html/partup1.3.html"
+        },
+        {
+          "title": "गद्य गरिमा:- Chapter 4 भाषा और आधुनिकता (जी० सुन्दर रेड्डी)",
+          "type": "html",
+          "file": "html/partup1.4.html"
+        },
+        {
+          "title": "गद्य गरिमा:- Chapter 5 निन्दा रस (हरिशंकर परसाई)",
+          "type": "html",
+          "file": "html/partup1.5.html"
+        },
+        {
+          "title": "गद्य गरिमा:- Chapter 6 हम और हमारा आदर्श (डॉ० ए०पी०जे० अब्दुल कलाम)",
+          "type": "html",
+          "file": "html/partup1.6.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 1 अयोध्यासिंह उपाध्याय ‘हरिऔध’",
+          "type": "html",
+          "file": "html/partup2.1.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 2 मैथिलीशरण गुप्त",
+          "type": "html",
+          "file": "html/partup2.2.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 3 जयशंकर प्रसाद",
+          "type": "html",
+          "file": "html/partup2.3.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 4 सुमित्रानन्दन पन्त",
+          "type": "html",
+          "file": "html/partup2.4.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 5 महादेवी वर्मा",
+          "type": "html",
+          "file": "html/partup2.5.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 6 रामधारी सिंह दिनकर",
+          "type": "html",
+          "file": "html/partup2.6.html"
+        },
+        {
+          "title": "काव्यांजलि:- Chapter 7 सच्चिदानन्द हीरानन्द वात्स्यायन’ अज्ञेय’",
+          "type": "html",
+          "file": "html/partup2.7.html"
+        },
+        {
+          "title": "कथा भारती:- Chapter 1 धुवयात्रा (जैनेन्द्र कुमार)",
+          "type": "html",
+          "file": "html/partup3.1.html"
+        },
+        {
+          "title": "कथा भारती:- Chapter 2 पंचलाइट (फणीश्वरनाथ ‘रेणु’)",
+          "type": "html",
+          "file": "html/partup3.2.html"
+        },
+        {
+          "title": "कथा भारती:- Chapter 3 लाटी (शिवानी)",
+          "type": "html",
+          "file": "html/partup3.3.html"
+        },
+        {
+          "title": "कथा भारती:- Chapter 4 बहादुर (अमरकान्त)",
+          "type": "html",
+          "file": "html/partup3.4.html"
+        },
+        {
+          "title": "नाटक:- Chapter 1 कुहासा और किरण (विष्णु प्रभाकर)",
+          "type": "html",
+          "file": "html/partup4.1.html"
+        },
+        {
+          "title": "नाटक:- Chapter 2 आन का मान (हरिकृष्ण प्रेमी)",
+          "type": "html",
+          "file": "html/partup4.2.html"
+        },
+        {
+          "title": "नाटक:- Chapter 3 गरुड़ध्वज (लक्ष्मीनारायण मिश्र)",
+          "type": "html",
+          "file": "html/partup4.3.html"
+        },
+        {
+          "title": "नाटक:- Chapter 4 सूत-पुत्र (डॉ० गंगासहाय प्रेमी)",
+          "type": "html",
+          "file": "html/partup4.4.html"
+        },
+        {
+          "title": "नाटक:- Chapter 5 राजमुकुट (व्यथित हृदय)",
+          "type": "html",
+          "file": "html/partup4.5.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 1 मुक्तियज्ञ (सुमित्रानन्दन पन्त)",
+          "type": "html",
+          "file": "html/partup5.1.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 2 सत्य की जीत (द्वारिकाप्रसाद माहेश्वरी)",
+          "type": "html",
+          "file": "html/partup5.2.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 3 रश्मिरथी (रामधारी सिंह दिनकर)",
+          "type": "html",
+          "file": "html/partup5.3.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 4 आलोकवृत्त (गुलाब खण्डेलवाल)",
+          "type": "html",
+          "file": "html/partup5.4.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 5 त्यागपथी (रामेश्वर शुक्ल अञ्चल)",
+          "type": "html",
+          "file": "html/partup5.5.html"
+        },
+        {
+          "title": "खण्डकाव्य:- Chapter 6 श्रवणकुमार (डॉ० शिवबालक शुक्ल)",
+          "type": "html",
+          "file": "html/partup5.6.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 1 भोजस्यौदार्यम्",
+          "type": "html",
+          "file": "html/partup6.1.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 2 आत्मज्ञः एव सर्वज्ञः",
+          "type": "html",
+          "file": "html/partup6.2.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 3 संस्कृतभाषायाः महत्त्वम्",
+          "type": "html",
+          "file": "html/partup6.3.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 4 जातक-कथा",
+          "type": "html",
+          "file": "html/partup6.4.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 5 सुभाषितरत्नानि",
+          "type": "html",
+          "file": "html/partup6.5.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 6 महामना मालवीयः",
+          "type": "html",
+          "file": "html/partup6.6.html"
+        },
+        {
+          "title": "(खण्ड – ख):- Chapter 7 पञ्चशील-सिद्धान्ताः",
+          "type": "html",
+          "file": "html/partup6.7.html"
+        }
+      ]
+    }
+  ]
+}
