@@ -1,0 +1,489 @@
+{
+  "appName": "Class 11 Political Science",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11politicalscience"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "I. भारतीय संविधानः सिद्धांत और व्यवहार.",
+      "chapters": [
+        {
+          "title": "1) संविधान क्यों और कैसे, संविधान का राजनीतिक दर्शन",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "2) भारतीय संविधान में अधिकार",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "3) चुनाव और प्रतिनिधित्व",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "4) कार्यपालिका",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "5) विधायिका",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "6) न्यायपालिका",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "7) संघवाद",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "8) स्थानीय शासन",
+          "type": "html",
+          "file": "html/part1.8.html"
+        },
+        {
+          "title": "9) भारतीय संविधानः एक जीवंत दस्तावेज",
+          "type": "html",
+          "file": "html/part1.9.html"
+        },
+        {
+          "title": "10) संविधान का राजनीतिक दर्शन",
+          "type": "html",
+          "file": "html/part1.10.html"
+        }
+      ]
+    },
+    {
+      "title": "II. राजनीतिक सिद्धांत",
+      "chapters": [
+        {
+          "title": "1) राजनीतिक सिद्धांतः एक परिचय",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "2) स्वतंत्रता",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "3) समानता.",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "4) सामाजिक न्याय",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "5) अधिकार",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "6) नागरिकता",
+          "type": "html",
+          "file": "html/part2.6.html"
+        },
+        {
+          "title": "7) राष्ट्रवाद",
+          "type": "html",
+          "file": "html/part2.7.html"
+        },
+        {
+          "title": "8) धर्म निरपेक्षता",
+          "type": "html",
+          "file": "html/part2.8.html"
+        },
+        {
+          "title": "9) शांति",
+          "type": "html",
+          "file": "html/part2.9.html"
+        },
+        {
+          "title": "10) विकास",
+          "type": "html",
+          "file": "html/part2.10.html"
+        }
+      ]
+    },
+    {
+      "title": "Indian Constitution at Work",
+      "chapters": [
+        {
+          "title": "Chapter 1 Constitution: Why and How?",
+          "type": "pdf",
+          "file": "pdf/part1.pdf"
+        },
+        {
+          "title": "Chapter 2 Rights and Duties in the Indian Constitution",
+          "type": "pdf",
+          "file": "pdf/part2.pdf"
+        },
+        {
+          "title": "Chapter 3 Election and Representation",
+          "type": "pdf",
+          "file": "pdf/part3.pdf"
+        },
+        {
+          "title": "Chapter 4 Executive",
+          "type": "pdf",
+          "file": "pdf/part4.pdf"
+        },
+        {
+          "title": "Chapter 5 Legislature",
+          "type": "pdf",
+          "file": "pdf/part5.pdf"
+        },
+        {
+          "title": "Chapter 6 Judiciary",
+          "type": "pdf",
+          "file": "pdf/part6.pdf"
+        },
+        {
+          "title": "Chapter 7 Federalism",
+          "type": "pdf",
+          "file": "pdf/part7.pdf"
+        },
+        {
+          "title": "Chapter 8 Local Governments",
+          "type": "pdf",
+          "file": "pdf/part8.pdf"
+        },
+        {
+          "title": "Chapter 9 Constitution as a Living Document",
+          "type": "pdf",
+          "file": "pdf/part9.pdf"
+        },
+        {
+          "title": "Chapter 10 The Philosophy of the Constitution",
+          "type": "pdf",
+          "file": "pdf/part10.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Political Theory",
+      "chapters": [
+        {
+          "title": "Chapter 1 Political Theory: An Introduction",
+          "type": "pdf",
+          "file": "pdf/part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2 Freedom",
+          "type": "pdf",
+          "file": "pdf/part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3 Equality",
+          "type": "pdf",
+          "file": "pdf/part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4 Social Justice",
+          "type": "pdf",
+          "file": "pdf/part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5 Rights",
+          "type": "pdf",
+          "file": "pdf/part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6 Citizenship",
+          "type": "pdf",
+          "file": "pdf/part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7 Nationalism",
+          "type": "pdf",
+          "file": "pdf/part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8 Secularism",
+          "type": "pdf",
+          "file": "pdf/part2.8.pdf"
+        },
+        {
+          "title": "Chapter 9 Peace",
+          "type": "pdf",
+          "file": "pdf/part2.9.pdf"
+        },
+        {
+          "title": "Chapter 10 Development",
+          "type": "pdf",
+          "file": "pdf/part2.10.pdf"
+        }
+      ]
+    },
+    {
+      "title": "राजनीति विज्ञान हिन्दी MCQs",
+      "chapters": [
+        {
+          "title": "1) संविधान क्यों और कैसे, संविधान का राजनीतिक दर्शन MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "2) भारतीय संविधान में अधिकार MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "3) चुनाव और प्रतिनिधित्व MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "4) कार्यपालिका MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "5) विधायिका MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "6) न्यायपालिका MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "7) संघवाद MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "8) स्थानीय शासन MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "9) भारतीय संविधानः एक जीवंत दस्तावेज MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "10) संविधान का राजनीतिक दर्शन MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "1) राजनीतिक सिद्धांतः एक परिचय MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "2) स्वतंत्रता MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "3) समानता. MCQs",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "4) सामाजिक न्याय MCQs",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "5) अधिकार MCQs",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "6) नागरिकता MCQs",
+          "type": "html",
+          "file": "html/mcq16.html"
+        },
+        {
+          "title": "7) राष्ट्रवाद MCQs",
+          "type": "html",
+          "file": "html/mcq17.html"
+        },
+        {
+          "title": "8) धर्म निरपेक्षता MCQs",
+          "type": "html",
+          "file": "html/mcq18.html"
+        },
+        {
+          "title": "9) शांति MCQs",
+          "type": "html",
+          "file": "html/mcq19.html"
+        },
+        {
+          "title": "10) विकास MCQs",
+          "type": "html",
+          "file": "html/mcq20.html"
+        }
+      ]
+    },
+    {
+      "title": "Political Science English MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1 Constitution: Why and How? MCQs",
+          "type": "html",
+          "file": "html/mcq2.1.html"
+        },
+        {
+          "title": "Chapter 2 Rights and Duties in the Indian Constitution MCQs",
+          "type": "html",
+          "file": "html/mcq2.2.html"
+        },
+        {
+          "title": "Chapter 3 Election and Representation MCQs",
+          "type": "html",
+          "file": "html/mcq2.3.html"
+        },
+        {
+          "title": "Chapter 4 Executive MCQs",
+          "type": "html",
+          "file": "html/mcq2.4.html"
+        },
+        {
+          "title": "Chapter 5 Legislature MCQs",
+          "type": "html",
+          "file": "html/mcq2.5.html"
+        },
+        {
+          "title": "Chapter 6 Judiciary MCQs",
+          "type": "html",
+          "file": "html/mcq2.6.html"
+        },
+        {
+          "title": "Chapter 7 Federalism MCQs",
+          "type": "html",
+          "file": "html/mcq2.7.html"
+        },
+        {
+          "title": "Chapter 8 Local Governments MCQs",
+          "type": "html",
+          "file": "html/mcq2.8.html"
+        },
+        {
+          "title": "Chapter 9 Constitution as a Living Document MCQs",
+          "type": "html",
+          "file": "html/mcq2.9.html"
+        },
+        {
+          "title": "Chapter 10 The Philosophy of the Constitution MCQs",
+          "type": "html",
+          "file": "html/mcq2.10.html"
+        },
+        {
+          "title": "Chapter 1 Political Theory: An Introduction MCQs",
+          "type": "html",
+          "file": "html/mcq2.11.html"
+        },
+        {
+          "title": "Chapter 2 Freedom MCQs",
+          "type": "html",
+          "file": "html/mcq2.12.html"
+        },
+        {
+          "title": "Chapter 3 Equality MCQs",
+          "type": "html",
+          "file": "html/mcq2.13.html"
+        },
+        {
+          "title": "Chapter 4 Social Justice MCQs",
+          "type": "html",
+          "file": "html/mcq2.14.html"
+        },
+        {
+          "title": "Chapter 5 Rights MCQs",
+          "type": "html",
+          "file": "html/mcq2.15.html"
+        },
+        {
+          "title": "Chapter 6 Citizenship MCQs",
+          "type": "html",
+          "file": "html/mcq2.16.html"
+        },
+        {
+          "title": "Chapter 7 Nationalism MCQs",
+          "type": "html",
+          "file": "html/mcq2.17.html"
+        },
+        {
+          "title": "Chapter 8 Secularism MCQs",
+          "type": "html",
+          "file": "html/mcq2.18.html"
+        },
+        {
+          "title": "Chapter 9 Peace MCQs",
+          "type": "html",
+          "file": "html/mcq2.19.html"
+        },
+        {
+          "title": "Chapter 10 Development MCQs",
+          "type": "html",
+          "file": "html/mcq2.20.html"
+        }
+      ]
+    }
+  ]
+}
