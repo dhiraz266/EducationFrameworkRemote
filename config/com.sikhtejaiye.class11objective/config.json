@@ -1,0 +1,964 @@
+{
+  "appName": "Class 11 All Subject Objective",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11objective"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Hindi (हिन्दी)",
+      "chapters": [
+        {
+          "title": "नमक का दारोगा",
+          "type": "html",
+          "file": "html/hindi1.1.html"
+        },
+        {
+          "title": "मियाँ नसीरुद्दीन",
+          "type": "html",
+          "file": "html/hindi1.2.html"
+        },
+        {
+          "title": "अपू के साथ ढाई साल",
+          "type": "html",
+          "file": "html/hindi1.3.html"
+        },
+        {
+          "title": "विदाई-संभाषण",
+          "type": "html",
+          "file": "html/hindi1.4.html"
+        },
+        {
+          "title": "गलता लोहा",
+          "type": "html",
+          "file": "html/hindi1.5.html"
+        },
+        {
+          "title": "स्पीति में बारिश",
+          "type": "html",
+          "file": "html/hindi1.6.html"
+        },
+        {
+          "title": "रजनी",
+          "type": "html",
+          "file": "html/hindi1.7.html"
+        },
+        {
+          "title": "जामुन का पेड़",
+          "type": "html",
+          "file": "html/hindi1.8.html"
+        },
+        {
+          "title": "भारत माता",
+          "type": "html",
+          "file": "html/hindi1.9.html"
+        },
+        {
+          "title": "आत्मा का ताप",
+          "type": "html",
+          "file": "html/hindi1.10.html"
+        },
+        {
+          "title": "हम तौ एक एक करि जांनां, संतों देखत जग बौराना",
+          "type": "html",
+          "file": "html/hindi2.1.html"
+        },
+        {
+          "title": "मेरे तो गिरधर गोपाल दूसरो न कोई, पग घुँघरू बाधि मीरां नाची",
+          "type": "html",
+          "file": "html/hindi2.2.html"
+        },
+        {
+          "title": "पथिक",
+          "type": "html",
+          "file": "html/hindi2.3.html"
+        },
+        {
+          "title": "वे आँखें",
+          "type": "html",
+          "file": "html/hindi2.4.html"
+        },
+        {
+          "title": "घर की याद",
+          "type": "html",
+          "file": "html/hindi2.5.html"
+        },
+        {
+          "title": "चंपा काले-काले अच्छर नहीं चीन्हती",
+          "type": "html",
+          "file": "html/hindi2.6.html"
+        },
+        {
+          "title": "गजल",
+          "type": "html",
+          "file": "html/hindi2.7.html"
+        },
+        {
+          "title": "हे भूख! मत मचल, हे मेरे जूही के फूल जैसे ईश्वर",
+          "type": "html",
+          "file": "html/hindi2.8.html"
+        },
+        {
+          "title": "सबसे खतरनाक",
+          "type": "html",
+          "file": "html/hindi2.9.html"
+        },
+        {
+          "title": "आओ, मिलकर बचाएँ",
+          "type": "html",
+          "file": "html/hindi2.10.html"
+        }
+      ]
+    },
+    {
+      "title": "English (अंग्रेज़ी)",
+      "chapters": [
+        {
+          "title": "The Portrait of a Lady",
+          "type": "html",
+          "file": "html/english1.1.html"
+        },
+        {
+          "title": "We’re Not Afraid to Die… If We Can All Be Together",
+          "type": "html",
+          "file": "html/english1.2.html"
+        },
+        {
+          "title": "Discovering Tut: The Saga Continues",
+          "type": "html",
+          "file": "html/english1.3.html"
+        },
+        {
+          "title": "The landscape of the Soul",
+          "type": "html",
+          "file": "html/english1.4.html"
+        },
+        {
+          "title": "The Ailing Planet: the Green Movement’s Role",
+          "type": "html",
+          "file": "html/english1.5.html"
+        },
+        {
+          "title": "The Browning Version",
+          "type": "html",
+          "file": "html/english1.6.html"
+        },
+        {
+          "title": "The Adventure",
+          "type": "html",
+          "file": "html/english1.7.html"
+        },
+        {
+          "title": "Silk Road",
+          "type": "html",
+          "file": "html/english1.8.html"
+        },
+        {
+          "title": "A Photograph",
+          "type": "html",
+          "file": "html/english2.1.html"
+        },
+        {
+          "title": "The Laburnum Top",
+          "type": "html",
+          "file": "html/english2.2.html"
+        },
+        {
+          "title": "The Voice of the Rain",
+          "type": "html",
+          "file": "html/english2.3.html"
+        },
+        {
+          "title": "Childhood",
+          "type": "html",
+          "file": "html/english2.4.html"
+        },
+        {
+          "title": "Father to Son",
+          "type": "html",
+          "file": "html/english2.5.html"
+        }
+      ]
+    },
+    {
+      "title": "Physics (भौतिक विज्ञान)",
+      "chapters": [
+        {
+          "title": "भौतिक जगत",
+          "type": "html",
+          "file": "html/physics1.html"
+        },
+        {
+          "title": "मात्रक तथा मापन",
+          "type": "html",
+          "file": "html/physics2.html"
+        },
+        {
+          "title": "सरल रेखा में गति",
+          "type": "html",
+          "file": "html/physics3.html"
+        },
+        {
+          "title": "समतल में गति",
+          "type": "html",
+          "file": "html/physics4.html"
+        },
+        {
+          "title": "गति के नियम",
+          "type": "html",
+          "file": "html/physics5.html"
+        },
+        {
+          "title": "कार्य, उर्जा तथा शक्ति",
+          "type": "html",
+          "file": "html/physics6.html"
+        },
+        {
+          "title": "कणों के नियम तथा घूर्णी गति",
+          "type": "html",
+          "file": "html/physics7.html"
+        },
+        {
+          "title": "गुरुत्वाकर्षण",
+          "type": "html",
+          "file": "html/physics8.html"
+        },
+        {
+          "title": "ठोसों के यांत्रिक गुण",
+          "type": "html",
+          "file": "html/physics9.html"
+        },
+        {
+          "title": "तरलों के यांत्रिक गुण",
+          "type": "html",
+          "file": "html/physics10.html"
+        },
+        {
+          "title": "द्रव्य के तापीय गुण",
+          "type": "html",
+          "file": "html/physics11.html"
+        },
+        {
+          "title": "उष्मागतिकी",
+          "type": "html",
+          "file": "html/physics12.html"
+        },
+        {
+          "title": "अणुगति सिद्धांत",
+          "type": "html",
+          "file": "html/physics13.html"
+        },
+        {
+          "title": "दोलन",
+          "type": "html",
+          "file": "html/physics14.html"
+        },
+        {
+          "title": "तरंगें",
+          "type": "html",
+          "file": "html/physics15.html"
+        }
+      ]
+    },
+    {
+      "title": "Chemistry (रसायन विज्ञान)",
+      "chapters": [
+        {
+          "title": "रसायन विज्ञानं की कुछ मूल अवधारणाएं",
+          "type": "html",
+          "file": "html/chemistry1.html"
+        },
+        {
+          "title": "परमाणु की संरचना",
+          "type": "html",
+          "file": "html/chemistry2.html"
+        },
+        {
+          "title": "तत्वों का वर्गीकरण तथा गुणधर्मों में आवर्तिता",
+          "type": "html",
+          "file": "html/chemistry3.html"
+        },
+        {
+          "title": "रासायनिक आबंधन तथा आण्विक संरचना",
+          "type": "html",
+          "file": "html/chemistry4.html"
+        },
+        {
+          "title": "द्रव्य की अवस्थाएं",
+          "type": "html",
+          "file": "html/chemistry5.html"
+        },
+        {
+          "title": "उष्मागतिकी",
+          "type": "html",
+          "file": "html/chemistry6.html"
+        },
+        {
+          "title": "साम्यावस्था",
+          "type": "html",
+          "file": "html/chemistry7.html"
+        },
+        {
+          "title": "अपचयोपचय अभिक्रियाएँ",
+          "type": "html",
+          "file": "html/chemistry8.html"
+        },
+        {
+          "title": "हाइड्रोजन",
+          "type": "html",
+          "file": "html/chemistry9.html"
+        },
+        {
+          "title": "S – ब्लाक के तत्व",
+          "type": "html",
+          "file": "html/chemistry10.html"
+        },
+        {
+          "title": "P – ब्लाक के तत्व",
+          "type": "html",
+          "file": "html/chemistry11.html"
+        },
+        {
+          "title": "कार्बनिक रसायन – कुछ आधारभूत सिद्धांत तथा तकनीकें",
+          "type": "html",
+          "file": "html/chemistry12.html"
+        },
+        {
+          "title": "हाइड्रोकार्बन",
+          "type": "html",
+          "file": "html/chemistry13.html"
+        },
+        {
+          "title": "पर्यावरणीय रसायन",
+          "type": "html",
+          "file": "html/chemistry14.html"
+        }
+      ]
+    },
+    {
+      "title": "Biology (जीव विज्ञान)",
+      "chapters": [
+        {
+          "title": "जीव जगत",
+          "type": "html",
+          "file": "html/biology1.html"
+        },
+        {
+          "title": "जीव जगत का वर्गीकरण",
+          "type": "html",
+          "file": "html/biology2.html"
+        },
+        {
+          "title": "वनस्पति जगत",
+          "type": "html",
+          "file": "html/biology3.html"
+        },
+        {
+          "title": "प्राणी जगत",
+          "type": "html",
+          "file": "html/biology4.html"
+        },
+        {
+          "title": "पुष्पी पादपों की आकारिकी",
+          "type": "html",
+          "file": "html/biology5.html"
+        },
+        {
+          "title": "पुष्पी पादपों का शारीर",
+          "type": "html",
+          "file": "html/biology6.html"
+        },
+        {
+          "title": "प्राणियों में संरचनात्मक संगठन",
+          "type": "html",
+          "file": "html/biology7.html"
+        },
+        {
+          "title": "कोशिका जीवन की इकाई",
+          "type": "html",
+          "file": "html/biology8.html"
+        },
+        {
+          "title": "जैव अणु",
+          "type": "html",
+          "file": "html/biology9.html"
+        },
+        {
+          "title": "कोशिका चक्र और कोशिका विभाजन",
+          "type": "html",
+          "file": "html/biology10.html"
+        },
+        {
+          "title": "पौधों में परिवहन",
+          "type": "html",
+          "file": "html/biology11.html"
+        },
+        {
+          "title": "खनिज पोषण",
+          "type": "html",
+          "file": "html/biology12.html"
+        },
+        {
+          "title": "उच्च पादपों में प्रकाश-संश्लेषण",
+          "type": "html",
+          "file": "html/biology13.html"
+        },
+        {
+          "title": "पादप में श्वसन",
+          "type": "html",
+          "file": "html/biology14.html"
+        },
+        {
+          "title": "पादप वृद्धि एवं परिवर्धन",
+          "type": "html",
+          "file": "html/biology15.html"
+        },
+        {
+          "title": "पाचन एवं अवशोषण",
+          "type": "html",
+          "file": "html/biology16.html"
+        },
+        {
+          "title": "श्वसन और गैसों का विनिमय",
+          "type": "html",
+          "file": "html/biology17.html"
+        },
+        {
+          "title": "शरीर द्रव तथा परिसंचरण",
+          "type": "html",
+          "file": "html/biology18.html"
+        },
+        {
+          "title": "उत्सर्जी उत्पाद एवं उनका निष्कासन",
+          "type": "html",
+          "file": "html/biology19.html"
+        },
+        {
+          "title": "गमन एवं संचलन",
+          "type": "html",
+          "file": "html/biology20.html"
+        },
+        {
+          "title": "तंत्रिकीय नियंत्रण एवं समन्वय",
+          "type": "html",
+          "file": "html/biology21.html"
+        },
+        {
+          "title": "रासायनिक समन्वय तथा एकीकरण",
+          "type": "html",
+          "file": "html/biology22.html"
+        }
+      ]
+    },
+    {
+      "title": "History (इतिहास)",
+      "chapters": [
+        {
+          "title": "समय की शुरुआत से",
+          "type": "html",
+          "file": "html/history1.html"
+        },
+        {
+          "title": "लेखन कला और शहरी जीवन",
+          "type": "html",
+          "file": "html/history2.html"
+        },
+        {
+          "title": "तीन महाद्वीपों में फैला हुआ साम्राज्य",
+          "type": "html",
+          "file": "html/history3.html"
+        },
+        {
+          "title": "इस्लाम का उदय और विस्तार लगभग 570 – 1200 ईo",
+          "type": "html",
+          "file": "html/history4.html"
+        },
+        {
+          "title": "यायावर साम्राज्य",
+          "type": "html",
+          "file": "html/history5.html"
+        },
+        {
+          "title": "तीन वर्ग",
+          "type": "html",
+          "file": "html/history6.html"
+        },
+        {
+          "title": "बदलती हुई सांस्कृतिक परंपराएँ",
+          "type": "html",
+          "file": "html/history7.html"
+        },
+        {
+          "title": "संस्कृतियों का टकराव",
+          "type": "html",
+          "file": "html/history8.html"
+        },
+        {
+          "title": "औद्योगिक क्रांति",
+          "type": "html",
+          "file": "html/history9.html"
+        },
+        {
+          "title": "मूल निवासियों का विस्थापन",
+          "type": "html",
+          "file": "html/history10.html"
+        },
+        {
+          "title": "आधुनिकीकरण के रास्ते",
+          "type": "html",
+          "file": "html/history11.html"
+        }
+      ]
+    },
+    {
+      "title": "Geography (भूगोल)",
+      "chapters": [
+        {
+          "title": "भूगोल एक विषय के रूप में",
+          "type": "html",
+          "file": "html/geography1.1.html"
+        },
+        {
+          "title": "पृथ्वी की उत्पत्ति एवं विकास",
+          "type": "html",
+          "file": "html/geography1.2.html"
+        },
+        {
+          "title": "पृथ्वी की आंतरिक संरचना",
+          "type": "html",
+          "file": "html/geography1.3.html"
+        },
+        {
+          "title": "महासागरों और महाद्वीपों का वितरण",
+          "type": "html",
+          "file": "html/geography1.4.html"
+        },
+        {
+          "title": "खनिज एवं शैल",
+          "type": "html",
+          "file": "html/geography1.5.html"
+        },
+        {
+          "title": "भू – आकृतिक प्रक्रियाएँ",
+          "type": "html",
+          "file": "html/geography1.6.html"
+        },
+        {
+          "title": "भू -आकृतियाँ तथा उनका विकास",
+          "type": "html",
+          "file": "html/geography1.7.html"
+        },
+        {
+          "title": "वायुमंडल का संघटन तथा संरचना",
+          "type": "html",
+          "file": "html/geography1.8.html"
+        },
+        {
+          "title": "सौर विकिरण, ऊष्मा संतुलन एवं तापमान",
+          "type": "html",
+          "file": "html/geography1.9.html"
+        },
+        {
+          "title": "वायुमंडलीय परिसंचरण तथा मौसम प्रणालियाँ",
+          "type": "html",
+          "file": "html/geography1.10.html"
+        },
+        {
+          "title": "वायुमंडल में जल",
+          "type": "html",
+          "file": "html/geography1.11.html"
+        },
+        {
+          "title": "विश्व की जलवायु एवं जलवायु परिवर्तन",
+          "type": "html",
+          "file": "html/geography1.12.html"
+        },
+        {
+          "title": "महासागरीय जल",
+          "type": "html",
+          "file": "html/geography1.13.html"
+        },
+        {
+          "title": "महासागरीय जल संचलन",
+          "type": "html",
+          "file": "html/geography1.14.html"
+        },
+        {
+          "title": "पृथ्वी पर जीवन",
+          "type": "html",
+          "file": "html/geography1.15.html"
+        },
+        {
+          "title": "जैव -विविधता एवं संरसक्षण",
+          "type": "html",
+          "file": "html/geography1.16.html"
+        },
+        {
+          "title": "भारत-स्थिति",
+          "type": "html",
+          "file": "html/geography2.1.html"
+        },
+        {
+          "title": "संरचना तथा भू-आकृति विज्ञान",
+          "type": "html",
+          "file": "html/geography2.2.html"
+        },
+        {
+          "title": "अपवाह तंत्र",
+          "type": "html",
+          "file": "html/geography2.3.html"
+        },
+        {
+          "title": "जलवायु",
+          "type": "html",
+          "file": "html/geography2.4.html"
+        },
+        {
+          "title": "प्राकृतिक वनस्पति",
+          "type": "html",
+          "file": "html/geography2.5.html"
+        },
+        {
+          "title": "मृदा",
+          "type": "html",
+          "file": "html/geography2.6.html"
+        },
+        {
+          "title": "प्राकृतिक संकट तथा आपदाएँ",
+          "type": "html",
+          "file": "html/geography2.7.html"
+        }
+      ]
+    },
+    {
+      "title": "Economics (अर्थशास्त्र)",
+      "chapters": [
+        {
+          "title": "परिचय",
+          "type": "html",
+          "file": "html/economics1.1.html"
+        },
+        {
+          "title": "आँकड़ों का संग्रह",
+          "type": "html",
+          "file": "html/economics1.2.html"
+        },
+        {
+          "title": "आँकड़ों का संगठन",
+          "type": "html",
+          "file": "html/economics1.3.html"
+        },
+        {
+          "title": "आँकड़ों का प्रस्तुतीकरण",
+          "type": "html",
+          "file": "html/economics1.4.html"
+        },
+        {
+          "title": "केंद्रीय प्रवृत्ति की माप",
+          "type": "html",
+          "file": "html/economics1.5.html"
+        },
+        {
+          "title": "परिक्षेपण के माप",
+          "type": "html",
+          "file": "html/economics1.6.html"
+        },
+        {
+          "title": "सहसंबंध",
+          "type": "html",
+          "file": "html/economics1.7.html"
+        },
+        {
+          "title": "सूचकांक",
+          "type": "html",
+          "file": "html/economics1.8.html"
+        },
+        {
+          "title": "सांख्यिकीय विधियों के उपयोग",
+          "type": "html",
+          "file": "html/economics1.9.html"
+        },
+        {
+          "title": "स्वतंत्रता की पूर्व संध्या पर भारतीय अर्थव्यवस्था",
+          "type": "html",
+          "file": "html/economics2.1.html"
+        },
+        {
+          "title": "भारतीय अर्थव्यवस्था",
+          "type": "html",
+          "file": "html/economics2.2.html"
+        },
+        {
+          "title": "उदारीकरण, निजीकरण और वैश्वीकरण : एक समीक्षा",
+          "type": "html",
+          "file": "html/economics2.3.html"
+        },
+        {
+          "title": "निर्धनता",
+          "type": "html",
+          "file": "html/economics2.4.html"
+        },
+        {
+          "title": "भारत में मानव पूँजी का निर्माण",
+          "type": "html",
+          "file": "html/economics2.5.html"
+        },
+        {
+          "title": "ग्रामीण विकास",
+          "type": "html",
+          "file": "html/economics2.6.html"
+        },
+        {
+          "title": "रोजगार संवृद्धि, अनौपचारीकरण एवं अन्य मुद्दे",
+          "type": "html",
+          "file": "html/economics2.7.html"
+        },
+        {
+          "title": "आधारिक संरचना",
+          "type": "html",
+          "file": "html/economics2.8.html"
+        },
+        {
+          "title": "पर्यावरण और धारणीय विकास",
+          "type": "html",
+          "file": "html/economics2.9.html"
+        },
+        {
+          "title": "भारत और उसके पड़ोसी देशों के तुलनात्मक विकास अनुभव",
+          "type": "html",
+          "file": "html/economics2.10.html"
+        }
+      ]
+    },
+    {
+      "title": "Political Science (राजनीति विज्ञान)",
+      "chapters": [
+        {
+          "title": "संविधान- क्यों और कैसे?",
+          "type": "html",
+          "file": "html/politicalscience1.1.html"
+        },
+        {
+          "title": "भारतीय संविधान में अधिकार",
+          "type": "html",
+          "file": "html/politicalscience1.2.html"
+        },
+        {
+          "title": "चुनाव और प्रतिनिधित्व",
+          "type": "html",
+          "file": "html/politicalscience1.3.html"
+        },
+        {
+          "title": "कार्यपालिका",
+          "type": "html",
+          "file": "html/politicalscience1.4.html"
+        },
+        {
+          "title": "विधायिका",
+          "type": "html",
+          "file": "html/politicalscience1.5.html"
+        },
+        {
+          "title": "न्यायपालिका",
+          "type": "html",
+          "file": "html/politicalscience1.6.html"
+        },
+        {
+          "title": "संघवाद",
+          "type": "html",
+          "file": "html/politicalscience1.7.html"
+        },
+        {
+          "title": "स्थानीय शासन",
+          "type": "html",
+          "file": "html/politicalscience1.8.html"
+        },
+        {
+          "title": "संविधान- एक जीवंत दस्तावेज",
+          "type": "html",
+          "file": "html/politicalscience1.9.html"
+        },
+        {
+          "title": "संविधान का राजनीतिक दर्शन",
+          "type": "html",
+          "file": "html/politicalscience1.10.html"
+        },
+        {
+          "title": "राजनीतिक सिद्धांत- एक परिचय",
+          "type": "html",
+          "file": "html/politicalscience2.1.html"
+        },
+        {
+          "title": "स्वतंत्रता",
+          "type": "html",
+          "file": "html/politicalscience2.2.html"
+        },
+        {
+          "title": "समानता",
+          "type": "html",
+          "file": "html/politicalscience2.3.html"
+        },
+        {
+          "title": "सामाजिक न्याय",
+          "type": "html",
+          "file": "html/politicalscience2.4.html"
+        },
+        {
+          "title": "अधिकार",
+          "type": "html",
+          "file": "html/politicalscience2.5.html"
+        },
+        {
+          "title": "नागरिकता",
+          "type": "html",
+          "file": "html/politicalscience2.6.html"
+        },
+        {
+          "title": "राष्ट्रवाद",
+          "type": "html",
+          "file": "html/politicalscience2.7.html"
+        },
+        {
+          "title": "धर्मनिरपेक्षता",
+          "type": "html",
+          "file": "html/politicalscience2.8.html"
+        },
+        {
+          "title": "शांति",
+          "type": "html",
+          "file": "html/politicalscience2.9.html"
+        },
+        {
+          "title": "विकास",
+          "type": "html",
+          "file": "html/politicalscience2.10.html"
+        }
+      ]
+    },
+    {
+      "title": "Computer Science (कम्प्यूटर साइंस)",
+      "chapters": [
+        {
+          "title": "Computer Fundamental",
+          "type": "html",
+          "file": "html/computerscience1.html"
+        },
+        {
+          "title": "Number System",
+          "type": "html",
+          "file": "html/computerscience2.html"
+        },
+        {
+          "title": "Operating System and OPS concept",
+          "type": "html",
+          "file": "html/computerscience3.html"
+        },
+        {
+          "title": "Algorithm and Flowchart",
+          "type": "html",
+          "file": "html/computerscience4.html"
+        },
+        {
+          "title": "Introduction",
+          "type": "html",
+          "file": "html/computerscience5.html"
+        },
+        {
+          "title": "Constants and Variables",
+          "type": "html",
+          "file": "html/computerscience6.html"
+        },
+        {
+          "title": "Input-Output Statements",
+          "type": "html",
+          "file": "html/computerscience7.html"
+        },
+        {
+          "title": "Operators in C ++",
+          "type": "html",
+          "file": "html/computerscience8.html"
+        },
+        {
+          "title": "Control Statement",
+          "type": "html",
+          "file": "html/computerscience9.html"
+        },
+        {
+          "title": "Loop Control Structure",
+          "type": "html",
+          "file": "html/computerscience10.html"
+        },
+        {
+          "title": "Arrays",
+          "type": "html",
+          "file": "html/computerscience11.html"
+        },
+        {
+          "title": "Functions",
+          "type": "html",
+          "file": "html/computerscience12.html"
+        },
+        {
+          "title": "String",
+          "type": "html",
+          "file": "html/computerscience13.html"
+        },
+        {
+          "title": "Structure",
+          "type": "html",
+          "file": "html/computerscience14.html"
+        }
+      ]
+    }
+  ]
+}
