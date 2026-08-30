@@ -61,57 +61,57 @@
         {
           "title": "1) समय की शुरूआत",
           "type": "html",
-          "file": "html/mcq1.html"
+          "file": "html/part1.1.html"
         },
         {
           "title": "2) लेखन कला और शहरी जीवन",
           "type": "html",
-          "file": "html/mcq2.html"
+          "file": "html/part1.2.html"
         },
         {
           "title": "3) तीन महाद्वीपों में फैला साम्राज्य",
           "type": "html",
-          "file": "html/mcq3.html"
+          "file": "html/part1.3.html"
         },
         {
           "title": "4) इस्लाम का उदय और विस्तार",
           "type": "html",
-          "file": "html/mcq4.html"
+          "file": "html/part1.4.html"
         },
         {
           "title": "5) यायावर साम्राज्य",
           "type": "html",
-          "file": "html/mcq5.html"
+          "file": "html/part1.5.html"
         },
         {
           "title": "6) तीन वर्ग",
           "type": "html",
-          "file": "html/mcq6.html"
+          "file": "html/part1.6.html"
         },
         {
           "title": "7) बदलती हुई सांस्कृतिक परंपराएँ",
           "type": "html",
-          "file": "html/mcq7.html"
+          "file": "html/part1.7.html"
         },
         {
           "title": "8) संस्कृतियों का टकराव",
           "type": "html",
-          "file": "html/mcq8.html"
+          "file": "html/part1.8.html"
         },
         {
           "title": "9) औद्योगिक क्रांति",
           "type": "html",
-          "file": "html/mcq9.html"
+          "file": "html/part1.9.html"
         },
         {
           "title": "10) मूल निवासियों का विस्थापन",
           "type": "html",
-          "file": "html/mcq10.html"
+          "file": "html/part1.10.html"
         },
         {
           "title": "11) आधुनिकीकरण के रास्ते",
           "type": "html",
-          "file": "html/mcq11.html"
+          "file": "html/part1.11.html"
         }
       ]
     },
@@ -121,57 +121,57 @@
         {
           "title": "Chapter 1 From the Beginning of Time",
           "type": "html",
-          "file": "html/mcq2.1.html"
+          "file": "html/part2.1.html"
         },
         {
           "title": "Chapter 2 Writing and City Life",
           "type": "html",
-          "file": "html/mcq2.2.html"
+          "file": "html/part2.2.html"
         },
         {
           "title": "Chapter 3 An Empire Across Three Continents",
           "type": "html",
-          "file": "html/mcq2.3.html"
+          "file": "html/part2.3.html"
         },
         {
           "title": "Chapter 4 The Central Islamic Lands",
           "type": "html",
-          "file": "html/mcq2.4.html"
+          "file": "html/part2.4.html"
         },
         {
           "title": "Chapter 5 Nomadic Empires",
           "type": "html",
-          "file": "html/mcq2.5.html"
+          "file": "html/part2.5.html"
         },
         {
           "title": "Chapter 6 The Three Orders",
           "type": "html",
-          "file": "html/mcq2.6.html"
+          "file": "html/part2.6.html"
         },
         {
           "title": "Chapter 7 Changing Cultural Traditions",
           "type": "html",
-          "file": "html/mcq2.7.html"
+          "file": "html/part2.7.html"
         },
         {
           "title": "Chapter 8 Confrontation of Cultures",
           "type": "html",
-          "file": "html/mcq2.8.html"
+          "file": "html/part2.8.html"
         },
         {
           "title": "Chapter 9 The Industrial Revolution",
           "type": "html",
-          "file": "html/mcq2.9.html"
+          "file": "html/part2.9.html"
         },
         {
           "title": "Chapter 10 Displacing Indigenous Peoples",
           "type": "html",
-          "file": "html/mcq2.10.html"
+          "file": "html/part2.10.html"
         },
         {
           "title": "Chapter 11 Paths to Modernization",
           "type": "html",
-          "file": "html/mcq2.11.html"
+          "file": "html/part2.11.html"
         }
       ]
     },
@@ -181,57 +181,57 @@
         {
           "title": "1) समय की शुरूआत MCQs",
           "type": "html",
-          "file": "html/part1.1.html"
+          "file": "html/mcq1.html"
         },
         {
           "title": "2) लेखन कला और शहरी जीवन MCQs",
           "type": "html",
-          "file": "html/part1.2.html"
+          "file": "html/mcq2.html"
         },
         {
           "title": "3) तीन महाद्वीपों में फैला साम्राज्य MCQs",
           "type": "html",
-          "file": "html/part1.3.html"
+          "file": "html/mcq3.html"
         },
         {
           "title": "4) इस्लाम का उदय और विस्तार MCQs",
           "type": "html",
-          "file": "html/part1.4.html"
+          "file": "html/mcq4.html"
         },
         {
           "title": "5) यायावर साम्राज्य MCQs",
           "type": "html",
-          "file": "html/part1.5.html"
+          "file": "html/mcq5.html"
         },
         {
           "title": "6) तीन वर्ग MCQs",
           "type": "html",
-          "file": "html/part1.6.html"
+          "file": "html/mcq6.html"
         },
         {
           "title": "7) बदलती हुई सांस्कृतिक परंपराएँ MCQs",
           "type": "html",
-          "file": "html/part1.7.html"
+          "file": "html/mcq7.html"
         },
         {
           "title": "8) संस्कृतियों का टकराव MCQs",
           "type": "html",
-          "file": "html/part1.8.html"
+          "file": "html/mcq8.html"
         },
         {
           "title": "9) औद्योगिक क्रांति MCQs",
           "type": "html",
-          "file": "html/part1.9.html"
+          "file": "html/mcq9.html"
         },
         {
           "title": "10) मूल निवासियों का विस्थापन MCQs",
           "type": "html",
-          "file": "html/part1.10.html"
+          "file": "html/mcq10.html"
         },
         {
           "title": "11) आधुनिकीकरण के रास्ते MCQs",
           "type": "html",
-          "file": "html/part1.11.html"
+          "file": "html/mcq11.html"
         }
       ]
     },
@@ -241,57 +241,57 @@
         {
           "title": "Chapter 1 From the Beginning of Time MCQs",
           "type": "html",
-          "file": "html/part2.1.html"
+          "file": "html/mcq2.1.html"
         },
         {
           "title": "Chapter 2 Writing and City Life MCQs",
           "type": "html",
-          "file": "html/part2.2.html"
+          "file": "html/mcq2.2.html"
         },
         {
           "title": "Chapter 3 An Empire Across Three Continents MCQs",
           "type": "html",
-          "file": "html/part2.3.html"
+          "file": "html/mcq2.3.html"
         },
         {
           "title": "Chapter 4 The Central Islamic Lands MCQs",
           "type": "html",
-          "file": "html/part2.4.html"
+          "file": "html/mcq2.4.html"
         },
         {
           "title": "Chapter 5 Nomadic Empires MCQs",
           "type": "html",
-          "file": "html/part2.5.html"
+          "file": "html/mcq2.5.html"
         },
         {
           "title": "Chapter 6 The Three Orders MCQs",
           "type": "html",
-          "file": "html/part2.6.html"
+          "file": "html/mcq2.6.html"
         },
         {
           "title": "Chapter 7 Changing Cultural Traditions MCQs",
           "type": "html",
-          "file": "html/part2.7.html"
+          "file": "html/mcq2.7.html"
         },
         {
           "title": "Chapter 8 Confrontation of Cultures MCQs",
           "type": "html",
-          "file": "html/part2.8.html"
+          "file": "html/mcq2.8.html"
         },
         {
           "title": "Chapter 9 The Industrial Revolution MCQs",
           "type": "html",
-          "file": "html/part2.9.html"
+          "file": "html/mcq2.9.html"
         },
         {
           "title": "Chapter 10 Displacing Indigenous Peoples MCQs",
           "type": "html",
-          "file": "html/part2.10.html"
+          "file": "html/mcq2.10.html"
         },
         {
           "title": "Chapter 11 Paths to Modernization MCQs",
           "type": "html",
-          "file": "html/part2.11.html"
+          "file": "html/mcq2.11.html"
         }
       ]
     }
