@@ -1,0 +1,229 @@
+{
+  "appName": "Class 11 Accountancy Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11accountancy"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Accountancy Part 1",
+      "chapters": [
+        {
+          "title": "Chapter 1 Introduction to Accounting",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2 Theory Base of Accounting",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3 Recording of Transactions – I",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4 Recording of Transactions – II",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5 Bank Reconciliation Statement",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6 Trial Balance and Rectification of Errors",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7 Depreciation, Provisions and Reserves",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8 Bills of Exchange",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Accountancy Part 2",
+      "chapters": [
+        {
+          "title": "Chapter 1 Financial Statements – I",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 2 Financial Statements",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 3 Accounts from Incomplete Records",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 4 Accounting for Not-for-Profit Organisation",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 5 Applications of Computers in Accounting",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 6 Computerized Accounting System",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        },
+        {
+          "title": "Chapter 7 Structuring Database for Accounting",
+          "type": "pdf",
+          "file": "pdf/Part15.pdf"
+        },
+        {
+          "title": "Chapter 8 Accounting System Using Database Management System",
+          "type": "pdf",
+          "file": "pdf/Part16.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1 Introduction to Accounting MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2 Theory Base of Accounting MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3 Recording of Transactions – I MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4 Recording of Transactions – II MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5 Bank Reconciliation Statement MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6 Trial Balance and Rectification of Errors MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7 Depreciation, Provisions and Reserves MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8 Bills of Exchange MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9 Financial Statements – I MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10 Financial Statements MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11 Accounts from Incomplete Records MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12 Applications of Computers in Accounting MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 13 Computerized Accounting System MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 14 Structuring Database for Accounting MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Chapter 15 Accounting System Using Database Management System MCQ",
+          "type": "html",
+          "file": "html/mcq15.html"
+        }
+      ]
+    }
+  ]
+}
