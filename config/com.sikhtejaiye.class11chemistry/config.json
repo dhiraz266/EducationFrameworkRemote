@@ -1,0 +1,289 @@
+{
+  "appName": "Class 11 Chemistry Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11chemistry"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "CHEMISTRY",
+      "chapters": [
+        {
+          "title": "Chapter 1 Some Basic Concepts of Chemistry",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2 Structure of The Atom",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3 Classification of Elements and Periodicity in Properties",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4 Chemical Bonding and Molecular Structure",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5 States of Matter",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6 Thermodynamics",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7 Equilibrium",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8 Redox Reactions",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9 Hydrogen",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10 The sBlock Elements",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 11 The pBlock Elements",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12 Organic Chemistry: Some Basic Principles and Techniques",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 13 Hydrocarbons",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 14 Environmental Chemistry",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        }
+      ]
+    },
+    {
+      "title": "रसायन विज्ञान",
+      "chapters": [
+        {
+          "title": "Chapter 1 रसायन विज्ञान की कुछ मूल अवधारणाएँ",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2 परमाणु की संरचना",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3 तत्त्वों का वर्गीकरण एवं गुणधर्मों में आवर्तिता",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4 रासायनिक आबंधन तथा आण्विक संरचना",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5 द्रव्य की अवस्थाएँ",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6 ऊष्मागतिकी",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7 साम्यावस्था",
+          "type": "pdf",
+          "file": "pdf/Part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8 अपचयोपचय अभिक्रियाएँ",
+          "type": "pdf",
+          "file": "pdf/Part2.8.pdf"
+        },
+        {
+          "title": "Chapter 9 हाइड्रोजन",
+          "type": "pdf",
+          "file": "pdf/Part2.9.pdf"
+        },
+        {
+          "title": "Chapter 10 s-ब्लॉक तत्त्व",
+          "type": "pdf",
+          "file": "pdf/Part2.10.pdf"
+        },
+        {
+          "title": "Chapter 11 p-ब्लॉक तत्त्व",
+          "type": "pdf",
+          "file": "pdf/Part2.11.pdf"
+        },
+        {
+          "title": "Chapter 12 कार्बनिक रसायन : कुछ आधारभूत सिद्धान्त तथा तकनीकें",
+          "type": "pdf",
+          "file": "pdf/Part2.12.pdf"
+        },
+        {
+          "title": "Chapter 13 हाइड्रोकार्बन",
+          "type": "pdf",
+          "file": "pdf/Part2.13.pdf"
+        },
+        {
+          "title": "Chapter 14 पर्यावरणीय रसायन",
+          "type": "pdf",
+          "file": "pdf/Part2.14.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "रसायन विज्ञान MCQ",
+          "type": "html",
+          "file": "html/mcqhindi.html"
+        },
+        {
+          "title": "Chapter 1 Some Basic Concepts of Chemistry MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2 Structure of The Atom MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3 Classification of Elements and Periodicity in Properties MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4 Chemical Bonding and Molecular Structure MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5 States of Matter MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6 Thermodynamics MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7 Equilibrium MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8 Redox Reactions MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9 Hydrogen MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10 The sBlock Elements MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11 The pBlock Elements MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12 Organic Chemistry: Some Basic Principles and Techniques MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 13 Hydrocarbons MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 14 Environmental Chemistry MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        }
+      ]
+    }
+  ]
+}
