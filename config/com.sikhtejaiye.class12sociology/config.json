@@ -1,0 +1,294 @@
+{
+  "appName": "Class 12 Sociology Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12sociology"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "भारतीय समाज",
+      "chapters": [
+        {
+          "title": "1) भारतीय समाज : एक परिचय",
+          "type": "html",
+          "file": "html/hi/part1.1.html"
+        },
+        {
+          "title": "2) भारतीय समाज की जनसांख्यिकीय संरचना",
+          "type": "html",
+          "file": "html/hi/part1.2.html"
+        },
+        {
+          "title": "3) सामाजिक संस्थाएँ : निरंतरता एवं परिवर्तन",
+          "type": "html",
+          "file": "html/hi/part1.3.html"
+        },
+        {
+          "title": "4) बाज़ार एक सामाजिक संस्था के रूप में",
+          "type": "html",
+          "file": "html/hi/part1.4.html"
+        },
+        {
+          "title": "5) सामाजिक विषमता एवं बहिष्कार के स्वरूप",
+          "type": "html",
+          "file": "html/hi/part1.5.html"
+        },
+        {
+          "title": "6) सांस्कृतिक विविधता की चुनौतियाँ",
+          "type": "html",
+          "file": "html/hi/part1.6.html"
+        }
+      ]
+    },
+    {
+      "title": "भारत में सामाजिक परिवर्तन एवं विकास",
+      "chapters": [
+        {
+          "title": "1) संरचनात्मक परिवर्तन",
+          "type": "html",
+          "file": "html/hi/part2.1.html"
+        },
+        {
+          "title": "2) सांस्कृतिक परिवर्तन",
+          "type": "html",
+          "file": "html/hi/part2.2.html"
+        },
+        {
+          "title": "3) भारतीय लोकतंत्र की कहानियाँ",
+          "type": "html",
+          "file": "html/hi/part2.3.html"
+        },
+        {
+          "title": "4) ग्रामीण समाज में विकास एवं परिवर्तन",
+          "type": "html",
+          "file": "html/hi/part2.4.html"
+        },
+        {
+          "title": "5) औद्योगिक समाज में परिवर्तन और विकास",
+          "type": "html",
+          "file": "html/hi/part2.5.html"
+        },
+        {
+          "title": "6) भूमंडलीकरण और सामाजिक परिवर्तन",
+          "type": "html",
+          "file": "html/hi/part2.6.html"
+        },
+        {
+          "title": "7) जनसंपर्क साधन और जनसंचार",
+          "type": "html",
+          "file": "html/hi/part2.7.html"
+        },
+        {
+          "title": "8) सामाजिक आंदोलन",
+          "type": "html",
+          "file": "html/hi/part2.8.html"
+        }
+      ]
+    },
+    {
+      "title": "महत्वपूर्ण प्रश्न",
+      "chapters": [
+        {
+          "title": "Important Questions 1",
+          "type": "html",
+          "file": "html/hi/part3.1.html"
+        },
+        {
+          "title": "Important Questions 2",
+          "type": "html",
+          "file": "html/hi/part3.2.html"
+        },
+        {
+          "title": "Important Questions 3",
+          "type": "html",
+          "file": "html/hi/part3.3.html"
+        },
+        {
+          "title": "Important Questions 4",
+          "type": "html",
+          "file": "html/hi/part3.4.html"
+        },
+        {
+          "title": "Important Questions 5",
+          "type": "html",
+          "file": "html/hi/part3.5.html"
+        },
+        {
+          "title": "Important Questions 6",
+          "type": "html",
+          "file": "html/hi/part3.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Indian Society",
+      "chapters": [
+        {
+          "title": "1) Introducing Indian Society",
+          "type": "html",
+          "file": "html/en/part1.html"
+        },
+        {
+          "title": "2) The Demographic Structure of the Indian Society",
+          "type": "html",
+          "file": "html/en/part2.html"
+        },
+        {
+          "title": "3) Social Institutions: Continuity and Change",
+          "type": "html",
+          "file": "html/en/part3.html"
+        },
+        {
+          "title": "4) The Market as a Social Institution",
+          "type": "html",
+          "file": "html/en/part4.html"
+        },
+        {
+          "title": "5) Patterns of Social Inequality and Exclus",
+          "type": "html",
+          "file": "html/en/part5.html"
+        },
+        {
+          "title": "6) The Challenges of Cultural Diversity",
+          "type": "html",
+          "file": "html/en/part6.html"
+        },
+        {
+          "title": "7) Suggestions for Project Work",
+          "type": "html",
+          "file": "html/en/part7.html"
+        }
+      ]
+    },
+    {
+      "title": "Social Change and Development in India",
+      "chapters": [
+        {
+          "title": "1) Structural Change",
+          "type": "html",
+          "file": "html/en/part2.1.html"
+        },
+        {
+          "title": "2) Cultural Change",
+          "type": "html",
+          "file": "html/en/part2.2.html"
+        },
+        {
+          "title": "3) The Story of Indian Democracy",
+          "type": "html",
+          "file": "html/en/part2.3.html"
+        },
+        {
+          "title": "4) Change and Development in Rural Society",
+          "type": "html",
+          "file": "html/en/part2.4.html"
+        },
+        {
+          "title": "5) Change and Development in Industrial Society",
+          "type": "html",
+          "file": "html/en/part2.5.html"
+        },
+        {
+          "title": "6) Globalisation and Social Change",
+          "type": "html",
+          "file": "html/en/part2.6.html"
+        },
+        {
+          "title": "7) Mass Media and Communications",
+          "type": "html",
+          "file": "html/en/part2.7.html"
+        },
+        {
+          "title": "8) Social Movements",
+          "type": "html",
+          "file": "html/en/part2.8.html"
+        }
+      ]
+    },
+    {
+      "title": "Important Questions",
+      "chapters": [
+        {
+          "title": "Important Questions 1",
+          "type": "html",
+          "file": "html/en/part3.1.html"
+        },
+        {
+          "title": "Important Questions 2",
+          "type": "html",
+          "file": "html/en/part3.2.html"
+        },
+        {
+          "title": "Important Questions 3",
+          "type": "html",
+          "file": "html/en/part3.3.html"
+        },
+        {
+          "title": "Important Questions 4",
+          "type": "html",
+          "file": "html/en/part3.4.html"
+        },
+        {
+          "title": "Important Questions 5",
+          "type": "html",
+          "file": "html/en/part3.5.html"
+        },
+        {
+          "title": "Important Questions 6",
+          "type": "html",
+          "file": "html/en/part3.6.html"
+        }
+      ]
+    }
+  ]
+}
