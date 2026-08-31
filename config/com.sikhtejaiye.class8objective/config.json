@@ -1,0 +1,359 @@
+{
+  "appName": "Class 8 All Subject Objective",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class8objective"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Science (विज्ञान)",
+      "chapters": [
+        {
+          "title": "1) फसल उत्पादन एवं प्रबंध",
+          "type": "html",
+          "file": "html/science1.html"
+        },
+        {
+          "title": "2) सूक्ष्मजीव : मित्र एवं शत्रु",
+          "type": "html",
+          "file": "html/science2.html"
+        },
+        {
+          "title": "3) संश्लेषित रेशे और प्लास्टिक",
+          "type": "html",
+          "file": "html/science3.html"
+        },
+        {
+          "title": "4) पदार्थ : धातु और अधातु",
+          "type": "html",
+          "file": "html/science4.html"
+        },
+        {
+          "title": "5) कोयला और पेट्रोलियम",
+          "type": "html",
+          "file": "html/science5.html"
+        },
+        {
+          "title": "6) दहन एवं ज्वाला",
+          "type": "html",
+          "file": "html/science6.html"
+        },
+        {
+          "title": "7) पौधे एवं जंतुओं का संरक्षण",
+          "type": "html",
+          "file": "html/science7.html"
+        },
+        {
+          "title": "8) कोशिक - संरचना एवं प्रकार्य",
+          "type": "html",
+          "file": "html/science8.html"
+        },
+        {
+          "title": "9) जंतुओं में जनन",
+          "type": "html",
+          "file": "html/science9.html"
+        },
+        {
+          "title": "10) किशोरावस्था की ओर",
+          "type": "html",
+          "file": "html/science10.html"
+        },
+        {
+          "title": "11) बल तथा दाब",
+          "type": "html",
+          "file": "html/science11.html"
+        },
+        {
+          "title": "12) घर्षण",
+          "type": "html",
+          "file": "html/science12.html"
+        },
+        {
+          "title": "13) ध्वनि",
+          "type": "html",
+          "file": "html/science13.html"
+        },
+        {
+          "title": "14) विद्युत धारा के रासायनिक प्रभाव",
+          "type": "html",
+          "file": "html/science14.html"
+        },
+        {
+          "title": "15) कुछ प्राकृतिक परिघटनाएँ",
+          "type": "html",
+          "file": "html/science15.html"
+        },
+        {
+          "title": "16) प्रकाश",
+          "type": "html",
+          "file": "html/science16.html"
+        },
+        {
+          "title": "17) तारे एवं सौर परिवार",
+          "type": "html",
+          "file": "html/science17.html"
+        },
+        {
+          "title": "18) वायु तथा जल का प्रदूषण",
+          "type": "html",
+          "file": "html/science18.html"
+        }
+      ]
+    },
+    {
+      "title": "Social Science (सामाजिक विज्ञान)",
+      "chapters": [
+        {
+          "title": "1) आधुनिक काल में भारत का इतिहास",
+          "type": "html",
+          "file": "html/sst1.1.html"
+        },
+        {
+          "title": "2) व्यापार से साम्राज्य तक",
+          "type": "html",
+          "file": "html/sst1.2.html"
+        },
+        {
+          "title": "3) ग्रामीण जीवन एवं समाज",
+          "type": "html",
+          "file": "html/sst1.3.html"
+        },
+        {
+          "title": "4) उपनिवेशवाद और आदिवासी समाज",
+          "type": "html",
+          "file": "html/sst1.4.html"
+        },
+        {
+          "title": "5) शिल्प और उद्योग",
+          "type": "html",
+          "file": "html/sst1.5.html"
+        },
+        {
+          "title": "6) 1857 की क्रांति",
+          "type": "html",
+          "file": "html/sst1.6.html"
+        },
+        {
+          "title": "7) ब्रिटिश काल में शिक्षा",
+          "type": "html",
+          "file": "html/sst1.7.html"
+        },
+        {
+          "title": "8) महिलाओं की स्थिति में सुधार",
+          "type": "html",
+          "file": "html/sst1.8.html"
+        },
+        {
+          "title": "9) जाति व्यवस्था की चुनौतियाँ",
+          "type": "html",
+          "file": "html/sst1.9.html"
+        },
+        {
+          "title": "10) राष्ट्रीय आंदोलन",
+          "type": "html",
+          "file": "html/sst1.10.html"
+        },
+        {
+          "title": "11) संसाधन",
+          "type": "html",
+          "file": "html/sst2.1.html"
+        },
+        {
+          "title": "12) भूमि, मृदा, जल, प्राकृतिक वनस्पति और वन्य जीवन संसाधन",
+          "type": "html",
+          "file": "html/sst2.2.html"
+        },
+        {
+          "title": "13) खनिज और शक्ति संसाधन",
+          "type": "html",
+          "file": "html/sst2.3.html"
+        },
+        {
+          "title": "14) कृषि",
+          "type": "html",
+          "file": "html/sst2.4.html"
+        },
+        {
+          "title": "15) उद्योग",
+          "type": "html",
+          "file": "html/sst2.5.html"
+        },
+        {
+          "title": "16) मानव संसाधन",
+          "type": "html",
+          "file": "html/sst2.6.html"
+        },
+        {
+          "title": "17) संविधान",
+          "type": "html",
+          "file": "html/sst3.1.html"
+        },
+        {
+          "title": "18) भारतीय संविधान के आधारभूत मूल्य",
+          "type": "html",
+          "file": "html/sst3.2.html"
+        },
+        {
+          "title": "19) संसदीय शासन व्यवस्था",
+          "type": "html",
+          "file": "html/sst3.3.html"
+        },
+        {
+          "title": "20) न्यायपालिका",
+          "type": "html",
+          "file": "html/sst3.4.html"
+        },
+        {
+          "title": "21) सामाजिक न्याय",
+          "type": "html",
+          "file": "html/sst3.5.html"
+        },
+        {
+          "title": "22) आर्थिक क्षेत्र में सरकार की भूमिका",
+          "type": "html",
+          "file": "html/sst3.6.html"
+        },
+        {
+          "title": "23) सामाजिक समस्याएँ",
+          "type": "html",
+          "file": "html/sst3.7.html"
+        }
+      ]
+    },
+    {
+      "title": "Math (गणित)",
+      "chapters": [
+        {
+          "title": "1) परिमेय संख्या",
+          "type": "html",
+          "file": "html/math1.html"
+        },
+        {
+          "title": "2) वर्ग तथा वर्गमूल",
+          "type": "html",
+          "file": "html/math2.html"
+        },
+        {
+          "title": "3) घन और घनमूल",
+          "type": "html",
+          "file": "html/math3.html"
+        },
+        {
+          "title": "4) घातांक और घात",
+          "type": "html",
+          "file": "html/math4.html"
+        },
+        {
+          "title": "5) संख्याओं के साथ खेलना",
+          "type": "html",
+          "file": "html/math5.html"
+        },
+        {
+          "title": "6) बीजीय व्यंजक एवं सर्वसमिकाएं",
+          "type": "html",
+          "file": "html/math6.html"
+        },
+        {
+          "title": "7) गुणनखंड",
+          "type": "html",
+          "file": "html/math7.html"
+        },
+        {
+          "title": "8) एक चर वाले रैखिक समीकरण",
+          "type": "html",
+          "file": "html/math8.html"
+        },
+        {
+          "title": "9) राशियों की तुलना",
+          "type": "html",
+          "file": "html/math9.html"
+        },
+        {
+          "title": "10) सीधा और प्रतिलोम समानुपात",
+          "type": "html",
+          "file": "html/math10.html"
+        },
+        {
+          "title": "11) चतुर्भुजों को समझना",
+          "type": "html",
+          "file": "html/math11.html"
+        },
+        {
+          "title": "12) ठोस आकारों का चित्रण",
+          "type": "html",
+          "file": "html/math12.html"
+        },
+        {
+          "title": "13) प्रयोगिक ज्यामिति",
+          "type": "html",
+          "file": "html/math13.html"
+        },
+        {
+          "title": "14) द्विविमीय आकृति (2-D) का क्षेत्रफल",
+          "type": "html",
+          "file": "html/math14.html"
+        },
+        {
+          "title": "15) त्रिविमीय आकृति (3D) का क्षेत्रफल एवं आयतन",
+          "type": "html",
+          "file": "html/math15.html"
+        },
+        {
+          "title": "16) आँकड़ों का प्रबंधन",
+          "type": "html",
+          "file": "html/math16.html"
+        }
+      ]
+    }
+  ]
+}
