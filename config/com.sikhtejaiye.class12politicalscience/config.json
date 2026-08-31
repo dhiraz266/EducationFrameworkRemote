@@ -1,0 +1,449 @@
+{
+  "appName": "Class 12 Political Science",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12politicalscience"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "समकालीन विश्व राजनीति",
+      "chapters": [
+        {
+          "title": "अध्याय 1: शीतयुद्ध का दौर",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "अध्याय 2: दो ध्रुवीयता का अंत",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "अध्याय 3: समकालीन विश्व में अमरीकी वर्चस्व",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "अध्याय 4: सत्ता के वैकल्पिक केंद्र",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "अध्याय 5: समकालीन दक्षिण एशिया",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "अध्याय 6: अंतर्राष्ट्रीय संगठन",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "अध्याय 7: समकालीन विश्व में सुरक्षा",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "अध्याय 8: पर्यावरण और प्राकृतिक संसाधन",
+          "type": "html",
+          "file": "html/part1.8.html"
+        },
+        {
+          "title": "अध्याय 9: वैश्वीकरण",
+          "type": "html",
+          "file": "html/part1.9.html"
+        }
+      ]
+    },
+    {
+      "title": "स्वतंत्र भारत में राजनीति",
+      "chapters": [
+        {
+          "title": "अध्याय 1: राष्ट्र निर्माण की चुनोतिया",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "अध्याय 2: एक दल के प्रभुत्व का दौर",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "अध्याय 3: नियोजित विकास की राजनीति",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "अध्याय 4: भारत के विदेश संबंध",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "अध्याय 5: कांग्रेस प्रणाली चुनौतियॉ और पुनस्थापना",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "अध्याय 6: लोकतांत्रिक व्यवस्था का संकट",
+          "type": "html",
+          "file": "html/part2.6.html"
+        },
+        {
+          "title": "अध्याय 7: जन आंदोलनों का उदय",
+          "type": "html",
+          "file": "html/part2.7.html"
+        },
+        {
+          "title": "अध्याय 8: क्षेत्रीय आकांक्षएँ",
+          "type": "html",
+          "file": "html/part2.8.html"
+        },
+        {
+          "title": "अध्याय 9: भारतीय राजनीती नए बदलाव",
+          "type": "html",
+          "file": "html/part2.9.html"
+        }
+      ]
+    },
+    {
+      "title": "Contemporary World Politics",
+      "chapters": [
+        {
+          "title": "Chapter 1: The Cold War Era",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "Chapter 2: The End of Bipolarity",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "Chapter 3: US Hegemony in World Politics",
+          "type": "html",
+          "file": "html/part3.3.html"
+        },
+        {
+          "title": "Chapter 4: Alternative Centres of Power",
+          "type": "html",
+          "file": "html/part3.4.html"
+        },
+        {
+          "title": "Chapter 5: Contemporary South Asia",
+          "type": "html",
+          "file": "html/part3.5.html"
+        },
+        {
+          "title": "Chapter 6: International Organisations",
+          "type": "html",
+          "file": "html/part3.6.html"
+        },
+        {
+          "title": "Chapter 7: Security in the Contemporary World",
+          "type": "html",
+          "file": "html/part3.7.html"
+        },
+        {
+          "title": "Chapter 8: Environment and Natural Resources",
+          "type": "html",
+          "file": "html/part3.8.html"
+        },
+        {
+          "title": "Chapter 9: Globalisation",
+          "type": "html",
+          "file": "html/part3.9.html"
+        }
+      ]
+    },
+    {
+      "title": "Politics In India Since Independence",
+      "chapters": [
+        {
+          "title": "Chapter 1: Challenges of Nation Building",
+          "type": "html",
+          "file": "html/part4.1.html"
+        },
+        {
+          "title": "Chapter 2: Era of One Party Dominance",
+          "type": "html",
+          "file": "html/part4.2.html"
+        },
+        {
+          "title": "Chapter 3: Politics of Planned Development",
+          "type": "html",
+          "file": "html/part4.3.html"
+        },
+        {
+          "title": "Chapter 4: India’s External Relations",
+          "type": "html",
+          "file": "html/part4.4.html"
+        },
+        {
+          "title": "Chapter 5: Challenges to and Restoration of Congress System",
+          "type": "html",
+          "file": "html/part4.5.html"
+        },
+        {
+          "title": "Chapter 6: The Crisis of Democratic Order",
+          "type": "html",
+          "file": "html/part4.6.html"
+        },
+        {
+          "title": "Chapter 7: Rise of Popular Movements",
+          "type": "html",
+          "file": "html/part4.7.html"
+        },
+        {
+          "title": "Chapter 8: Regional Aspirations",
+          "type": "html",
+          "file": "html/part4.8.html"
+        },
+        {
+          "title": "Chapter 9: Recent Developments in Indian Politics",
+          "type": "html",
+          "file": "html/part4.9.html"
+        }
+      ]
+    },
+    {
+      "title": "राजनीति विज्ञान हिंदी MCQs",
+      "chapters": [
+        {
+          "title": "अध्याय 1: शीतयुद्ध का दौर MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "अध्याय 2: दो ध्रुवीयता का अंत MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "अध्याय 3: समकालीन विश्व में अमरीकी वर्चस्व MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "अध्याय 4: सत्ता के वैकल्पिक केंद्र MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "अध्याय 5: समकालीन दक्षिण एशिया MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "अध्याय 6: अंतर्राष्ट्रीय संगठन MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "अध्याय 7: समकालीन विश्व में सुरक्षा MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "अध्याय 8: पर्यावरण और प्राकृतिक संसाधन MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "अध्याय 9: वैश्वीकरण MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "अध्याय 1: राष्ट्र निर्माण की चुनोतिया MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "अध्याय 2: एक दल के प्रभुत्व का दौर MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "अध्याय 3: नियोजित विकास की राजनीति MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "अध्याय 4: भारत के विदेश संबंध MCQs",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "अध्याय 5: कांग्रेस प्रणाली चुनौतियॉ और पुनस्थापना MCQs",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "अध्याय 6: लोकतांत्रिक व्यवस्था का संकट MCQs",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "अध्याय 7: जन आंदोलनों का उदय MCQs",
+          "type": "html",
+          "file": "html/mcq16.html"
+        },
+        {
+          "title": "अध्याय 8: क्षेत्रीय आकांक्षएँ MCQs",
+          "type": "html",
+          "file": "html/mcq17.html"
+        },
+        {
+          "title": "अध्याय 9: भारतीय राजनीती नए बदलाव MCQs",
+          "type": "html",
+          "file": "html/mcq18.html"
+        }
+      ]
+    },
+    {
+      "title": "Political Science English MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1: The Cold War Era",
+          "type": "html",
+          "file": "html/mcq2.1.html"
+        },
+        {
+          "title": "Chapter 2: The End of Bipolarity MCQs",
+          "type": "html",
+          "file": "html/mcq2.2.html"
+        },
+        {
+          "title": "Chapter 3: US Hegemony in World Politics MCQs",
+          "type": "html",
+          "file": "html/mcq2.3.html"
+        },
+        {
+          "title": "Chapter 4: Alternative Centres of Power MCQs",
+          "type": "html",
+          "file": "html/mcq2.4.html"
+        },
+        {
+          "title": "Chapter 5: Contemporary South Asia MCQs",
+          "type": "html",
+          "file": "html/mcq2.5.html"
+        },
+        {
+          "title": "Chapter 6: International Organisations MCQs",
+          "type": "html",
+          "file": "html/mcq2.6.html"
+        },
+        {
+          "title": "Chapter 7: Security in the Contemporary World MCQs",
+          "type": "html",
+          "file": "html/mcq2.7.html"
+        },
+        {
+          "title": "Chapter 8: Environment and Natural Resources MCQs",
+          "type": "html",
+          "file": "html/mcq2.8.html"
+        },
+        {
+          "title": "Chapter 9: Globalisation MCQs",
+          "type": "html",
+          "file": "html/mcq2.9.html"
+        },
+        {
+          "title": "Chapter 1: Challenges of Nation Building MCQs",
+          "type": "html",
+          "file": "html/mcq2.10.html"
+        },
+        {
+          "title": "Chapter 2: Era of One Party Dominance MCQs",
+          "type": "html",
+          "file": "html/mcq2.11.html"
+        },
+        {
+          "title": "Chapter 3: Politics of Planned Development MCQs",
+          "type": "html",
+          "file": "html/mcq2.12.html"
+        },
+        {
+          "title": "Chapter 4: India’s External Relations MCQs",
+          "type": "html",
+          "file": "html/mcq2.13.html"
+        },
+        {
+          "title": "Chapter 5: Challenges to and Restoration of Congress System MCQs",
+          "type": "html",
+          "file": "html/mcq2.14.html"
+        },
+        {
+          "title": "Chapter 6: The Crisis of Democratic Order MCQs",
+          "type": "html",
+          "file": "html/mcq2.15.html"
+        },
+        {
+          "title": "Chapter 7: Rise of Popular Movements MCQs",
+          "type": "html",
+          "file": "html/mcq2.16.html"
+        },
+        {
+          "title": "Chapter 8: Regional Aspirations MCQs",
+          "type": "html",
+          "file": "html/mcq2.17.html"
+        },
+        {
+          "title": "Chapter 9: Recent Developments in Indian Politics MCQs",
+          "type": "html",
+          "file": "html/mcq2.18.html"
+        }
+      ]
+    }
+  ]
+}
