@@ -1,0 +1,229 @@
+{
+  "appName": "Class 11 Maths NCERT Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11maths"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "कक्षा 11 गणित समाधान हिंदी",
+      "chapters": [
+        {
+          "title": "पाठ 1. सम्मुच्य",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "पाठ 2. संबंध एवं फलन",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "पाठ 3. त्रिकोणमितीय फलन",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "पाठ 4. गणितीय आगमन का सिद्धांत",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "पाठ 5. सम्मिश्र संख्याएँ और द्विघातीय समीकरण",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "पाठ 6. रैखिक असमिकाएँ",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "पाठ 7. क्रमचय एवं संचय",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "पाठ 8. द्विपद प्रमेय",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "पाठ 9. अनुक्रम तथा श्रेणी",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "पाठ 10. सरल रेखाएँ",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "पाठ 11. शांकव परिच्छेदन",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "पाठ 12. त्रिविमीय ज्यामिति का परिचय",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "पाठ 13. सीमा और अवकलज",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "पाठ 14. गणितीय विवेचन",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        },
+        {
+          "title": "पाठ 15. सांख्यिकी",
+          "type": "pdf",
+          "file": "pdf/Part15.pdf"
+        },
+        {
+          "title": "पाठ 16. प्रायिकता",
+          "type": "pdf",
+          "file": "pdf/Part16.pdf"
+        }
+      ]
+    },
+    {
+      "title": "कक्षा 11 गणित MCQs",
+      "chapters": [
+        {
+          "title": "पाठ 1. सम्मुच्य MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "पाठ 2. संबंध एवं फलन MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "पाठ 3. त्रिकोणमितीय फलन MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "पाठ 4. गणितीय आगमन का सिद्धांत MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "पाठ 5. सम्मिश्र संख्याएँ और द्विघातीय समीकरण MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "पाठ 6. रैखिक असमिकाएँ MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "पाठ 7. क्रमचय एवं संचय MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "पाठ 8. द्विपद प्रमेय MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "पाठ 9. अनुक्रम तथा श्रेणी MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "पाठ 10. सरल रेखाएँ MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "पाठ 11. शांकव परिच्छेदन MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "पाठ 12. त्रिविमीय ज्यामिति का परिचय MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "पाठ 13. सीमा और अवकलज MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "पाठ 14. गणितीय विवेचन MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "पाठ 15. सांख्यिकी MCQ",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "पाठ 16. प्रायिकता MCQ",
+          "type": "html",
+          "file": "html/mcq16.html"
+        }
+      ]
+    }
+  ]
+}
