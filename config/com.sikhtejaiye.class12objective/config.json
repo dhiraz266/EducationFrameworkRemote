@@ -1,0 +1,909 @@
+{
+  "appName": "Class 12 All Subject Objective",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12objective"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Hindi (हिन्दी)",
+      "chapters": [
+        {
+          "title": "1. आत्म-परिचय, एक गीत",
+          "type": "html",
+          "file": "html/hindi1.html"
+        },
+        {
+          "title": "2. पतंग",
+          "type": "html",
+          "file": "html/hindi2.html"
+        },
+        {
+          "title": "3. कविता के बहाने, बात सीधी थी पर",
+          "type": "html",
+          "file": "html/hindi3.html"
+        },
+        {
+          "title": "4. कैमरे में बंद अपाहिज",
+          "type": "html",
+          "file": "html/hindi4.html"
+        },
+        {
+          "title": "5. सहर्ष स्वीकारा है",
+          "type": "html",
+          "file": "html/hindi5.html"
+        },
+        {
+          "title": "6. उषा",
+          "type": "html",
+          "file": "html/hindi6.html"
+        },
+        {
+          "title": "7. बादल राग",
+          "type": "html",
+          "file": "html/hindi7.html"
+        },
+        {
+          "title": "8. कवितावली, लक्ष्मण-मूर्च्छा और राम का विलाप",
+          "type": "html",
+          "file": "html/hindi8.html"
+        },
+        {
+          "title": "9. रुबाइयाँ, गज़ल",
+          "type": "html",
+          "file": "html/hindi9.html"
+        },
+        {
+          "title": "10. छोटा मेरा खेत, बगुलों के पंख",
+          "type": "html",
+          "file": "html/hindi10.html"
+        },
+        {
+          "title": "11. भक्तिन",
+          "type": "html",
+          "file": "html/hindi2.1.html"
+        },
+        {
+          "title": "12. बाजार दर्शन",
+          "type": "html",
+          "file": "html/hindi2.2.html"
+        },
+        {
+          "title": "13. काले मेघा पानी दे",
+          "type": "html",
+          "file": "html/hindi2.3.html"
+        },
+        {
+          "title": "14. पहलवान की ढोलक",
+          "type": "html",
+          "file": "html/hindi2.4.html"
+        },
+        {
+          "title": "15. चार्ली चैप्लिन यानी हम सब",
+          "type": "html",
+          "file": "html/hindi2.5.html"
+        },
+        {
+          "title": "16. नमक",
+          "type": "html",
+          "file": "html/hindi2.6.html"
+        },
+        {
+          "title": "17. शिरीष के फूल",
+          "type": "html",
+          "file": "html/hindi2.7.html"
+        },
+        {
+          "title": "18. श्रम-विभाजन और जाति-प्रथा, मेरी कल्पना का आदर्श समाज",
+          "type": "html",
+          "file": "html/hindi2.8.html"
+        }
+      ]
+    },
+    {
+      "title": "English (अंग्रेज़ी)",
+      "chapters": [
+        {
+          "title": "1. The Last Lesson",
+          "type": "html",
+          "file": "html/english1.1.html"
+        },
+        {
+          "title": "2. Lost Spring",
+          "type": "html",
+          "file": "html/english1.2.html"
+        },
+        {
+          "title": "3. Deep Water",
+          "type": "html",
+          "file": "html/english1.3.html"
+        },
+        {
+          "title": "4. The Rattrap",
+          "type": "html",
+          "file": "html/english1.4.html"
+        },
+        {
+          "title": "5. Indigo",
+          "type": "html",
+          "file": "html/english1.5.html"
+        },
+        {
+          "title": "6. Poets and Pancakes",
+          "type": "html",
+          "file": "html/english1.6.html"
+        },
+        {
+          "title": "7. The Interview",
+          "type": "html",
+          "file": "html/english1.7.html"
+        },
+        {
+          "title": "8. Going Places",
+          "type": "html",
+          "file": "html/english1.8.html"
+        },
+        {
+          "title": "9. My Mother at Sixty-six",
+          "type": "html",
+          "file": "html/english2.1.html"
+        },
+        {
+          "title": "10. An Elementary School Classroom in a Slum",
+          "type": "html",
+          "file": "html/english2.2.html"
+        },
+        {
+          "title": "11. Keeping Quiet",
+          "type": "html",
+          "file": "html/english2.3.html"
+        },
+        {
+          "title": "12. A Thing of Beauty",
+          "type": "html",
+          "file": "html/english2.4.html"
+        },
+        {
+          "title": "13. A Roadside Stand",
+          "type": "html",
+          "file": "html/english2.5.html"
+        },
+        {
+          "title": "14. Aunt Jennifer’s Tigers",
+          "type": "html",
+          "file": "html/english2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Physics (भौतिक विज्ञान)",
+      "chapters": [
+        {
+          "title": "1. विधुत आवेश तथा क्षेत्र",
+          "type": "html",
+          "file": "html/physics1.html"
+        },
+        {
+          "title": "2. स्थिरवैधुत विभव तथा धारिता",
+          "type": "html",
+          "file": "html/physics2.html"
+        },
+        {
+          "title": "3. विधुत धारा",
+          "type": "html",
+          "file": "html/physics3.html"
+        },
+        {
+          "title": "4. गतिमान आवेश और चुम्बकत्त्व",
+          "type": "html",
+          "file": "html/physics4.html"
+        },
+        {
+          "title": "5. चुम्बकत्व एवं द्रव्य",
+          "type": "html",
+          "file": "html/physics5.html"
+        },
+        {
+          "title": "6. विधुत चुम्बकीय प्रेरण",
+          "type": "html",
+          "file": "html/physics6.html"
+        },
+        {
+          "title": "7. प्रत्यावर्ती धारा",
+          "type": "html",
+          "file": "html/physics7.html"
+        },
+        {
+          "title": "8. विधुत चुम्बकीय तरंगे",
+          "type": "html",
+          "file": "html/physics8.html"
+        },
+        {
+          "title": "9. किरण प्रकाशिकी एवं प्रकाशिक यन्त्र",
+          "type": "html",
+          "file": "html/physics9.html"
+        },
+        {
+          "title": "10. तरंग – प्रकाशिकी",
+          "type": "html",
+          "file": "html/physics10.html"
+        },
+        {
+          "title": "11. विकिरण तथा द्रव्य की द्वैत प्रकृति",
+          "type": "html",
+          "file": "html/physics11.html"
+        },
+        {
+          "title": "12. परमाणु",
+          "type": "html",
+          "file": "html/physics12.html"
+        },
+        {
+          "title": "13. नाभिक",
+          "type": "html",
+          "file": "html/physics13.html"
+        },
+        {
+          "title": "14. अर्धचालक इलेक्ट्रोनिकी",
+          "type": "html",
+          "file": "html/physics14.html"
+        },
+        {
+          "title": "15. संचार व्यवस्था",
+          "type": "html",
+          "file": "html/physics15.html"
+        }
+      ]
+    },
+    {
+      "title": "Chemistry (रसायन विज्ञान)",
+      "chapters": [
+        {
+          "title": "1. ठोस अवस्था",
+          "type": "html",
+          "file": "html/chemistry1.html"
+        },
+        {
+          "title": "2. विलयन",
+          "type": "html",
+          "file": "html/chemistry2.html"
+        },
+        {
+          "title": "3. वैधुत रसायन",
+          "type": "html",
+          "file": "html/chemistry3.html"
+        },
+        {
+          "title": "4. रासायनिक बल गतिकी",
+          "type": "html",
+          "file": "html/chemistry4.html"
+        },
+        {
+          "title": "5. पृष्ठ रसायन",
+          "type": "html",
+          "file": "html/chemistry5.html"
+        },
+        {
+          "title": "6. तत्त्वों के निष्कर्षण के सिद्धान्त एवं प्रक्रम",
+          "type": "html",
+          "file": "html/chemistry6.html"
+        },
+        {
+          "title": "7. p-खंड के तत्व",
+          "type": "html",
+          "file": "html/chemistry7.html"
+        },
+        {
+          "title": "8. d तथा f-खंड के तत्व",
+          "type": "html",
+          "file": "html/chemistry8.html"
+        },
+        {
+          "title": "9. उपसहसंयोजक यौगिक",
+          "type": "html",
+          "file": "html/chemistry9.html"
+        },
+        {
+          "title": "10. हैलोएल्कीन तथा हैलोऐरिन",
+          "type": "html",
+          "file": "html/chemistry10.html"
+        },
+        {
+          "title": "11. अल्कोहल, फेनोल और ईथर",
+          "type": "html",
+          "file": "html/chemistry11.html"
+        },
+        {
+          "title": "12. एलडीहाइड्स, केटोनस और कार्बोक्जिलिक एसिड",
+          "type": "html",
+          "file": "html/chemistry12.html"
+        },
+        {
+          "title": "13. नाइट्रोजन वाला कार्बनिक यौगिक(एमिन)",
+          "type": "html",
+          "file": "html/chemistry13.html"
+        },
+        {
+          "title": "14. जैविक अणु",
+          "type": "html",
+          "file": "html/chemistry14.html"
+        },
+        {
+          "title": "15. बहुलक",
+          "type": "html",
+          "file": "html/chemistry15.html"
+        },
+        {
+          "title": "16. दैनिक जीवन में रसायन विज्ञान",
+          "type": "html",
+          "file": "html/chemistry16.html"
+        }
+      ]
+    },
+    {
+      "title": "Biology (जीव विज्ञान)",
+      "chapters": [
+        {
+          "title": "1. जीवो में जनन",
+          "type": "html",
+          "file": "html/biology1.html"
+        },
+        {
+          "title": "2. पुष्पी पादपो में लैगिक जनन",
+          "type": "html",
+          "file": "html/biology2.html"
+        },
+        {
+          "title": "3. मानव जनन",
+          "type": "html",
+          "file": "html/biology3.html"
+        },
+        {
+          "title": "4. जनन स्वास्थ्य",
+          "type": "html",
+          "file": "html/biology4.html"
+        },
+        {
+          "title": "5. वंशागति और विविधता के सिद्धांत",
+          "type": "html",
+          "file": "html/biology5.html"
+        },
+        {
+          "title": "6. वंशागति के आणविक आधार",
+          "type": "html",
+          "file": "html/biology6.html"
+        },
+        {
+          "title": "7. विकास",
+          "type": "html",
+          "file": "html/biology7.html"
+        },
+        {
+          "title": "8. मानव स्वास्थ्य तथा रोग",
+          "type": "html",
+          "file": "html/biology8.html"
+        },
+        {
+          "title": "9. खाद्य उत्पादन में वृद्धि की कार्यनीति",
+          "type": "html",
+          "file": "html/biology9.html"
+        },
+        {
+          "title": "10. मानव कल्याण में सूक्ष्म जीव",
+          "type": "html",
+          "file": "html/biology10.html"
+        },
+        {
+          "title": "11. जैव प्रौद्योगिकी – सिद्धांत व प्रक्रम",
+          "type": "html",
+          "file": "html/biology11.html"
+        },
+        {
+          "title": "12. जैव प्रौद्योगिकी एवं उसके उपयोग",
+          "type": "html",
+          "file": "html/biology12.html"
+        },
+        {
+          "title": "13. जीव और समष्टियाँ",
+          "type": "html",
+          "file": "html/biology13.html"
+        },
+        {
+          "title": "14. पारितंत्र",
+          "type": "html",
+          "file": "html/biology14.html"
+        },
+        {
+          "title": "15. जीव विविधतता एवं संरक्षण",
+          "type": "html",
+          "file": "html/biology15.html"
+        },
+        {
+          "title": "16. पर्यावरण के मुद्दे",
+          "type": "html",
+          "file": "html/biology16.html"
+        }
+      ]
+    },
+    {
+      "title": "History (इतिहास)",
+      "chapters": [
+        {
+          "title": "1. ईंटे, मनके तथा अस्थियाँ – हड़प्पा सभ्यता",
+          "type": "html",
+          "file": "html/history1.html"
+        },
+        {
+          "title": "2. राजा किसान और नगर",
+          "type": "html",
+          "file": "html/history2.html"
+        },
+        {
+          "title": "3. बंधुत्व, जाति तथा वर्ग",
+          "type": "html",
+          "file": "html/history3.html"
+        },
+        {
+          "title": "4. विचारक, विश्वाश और इमारतें",
+          "type": "html",
+          "file": "html/history4.html"
+        },
+        {
+          "title": "5. यात्रियों के नजरिए",
+          "type": "html",
+          "file": "html/history5.html"
+        },
+        {
+          "title": "6. भक्ति-सूफ़ी परंपरा",
+          "type": "html",
+          "file": "html/history6.html"
+        },
+        {
+          "title": "7. एक साम्राज्य की राजधानी : विजयनगर",
+          "type": "html",
+          "file": "html/history7.html"
+        },
+        {
+          "title": "8. किसान, ज़मीदार और राज्य",
+          "type": "html",
+          "file": "html/history8.html"
+        },
+        {
+          "title": "9. शासक और विभिन्न इतिवृत",
+          "type": "html",
+          "file": "html/history9.html"
+        },
+        {
+          "title": "10. उपनिवेशवाद एवं देहात",
+          "type": "html",
+          "file": "html/history10.html"
+        },
+        {
+          "title": "11. विद्रोही और राज",
+          "type": "html",
+          "file": "html/history11.html"
+        },
+        {
+          "title": "12. औपनिवेशक शहर",
+          "type": "html",
+          "file": "html/history12.html"
+        },
+        {
+          "title": "13. महात्मा गाँधी और राष्ट्रीय आंदोलन",
+          "type": "html",
+          "file": "html/history13.html"
+        },
+        {
+          "title": "14. विभाजन को समझना",
+          "type": "html",
+          "file": "html/history14.html"
+        },
+        {
+          "title": "15. संविधान का निर्माण",
+          "type": "html",
+          "file": "html/history15.html"
+        }
+      ]
+    },
+    {
+      "title": "Geography (भूगोल)",
+      "chapters": [
+        {
+          "title": "1. मानव भूगोल: प्रकृति एंव विषय क्षेत्र",
+          "type": "html",
+          "file": "html/geography1.1.html"
+        },
+        {
+          "title": "2. विश्व जनसंख्या: वितरण, घनत्व और वृद्धि",
+          "type": "html",
+          "file": "html/geography1.2.html"
+        },
+        {
+          "title": "3. जनसंख्या संघटन",
+          "type": "html",
+          "file": "html/geography1.3.html"
+        },
+        {
+          "title": "4. मानव विकास",
+          "type": "html",
+          "file": "html/geography1.4.html"
+        },
+        {
+          "title": "5. प्राथमिक क्रियाएँ",
+          "type": "html",
+          "file": "html/geography1.5.html"
+        },
+        {
+          "title": "6. द्वितीयक क्रियाएँ",
+          "type": "html",
+          "file": "html/geography1.6.html"
+        },
+        {
+          "title": "7. तृतीयक एवं चतुर्थ क्रियाकलाप",
+          "type": "html",
+          "file": "html/geography1.7.html"
+        },
+        {
+          "title": "8. परिवहन एवं संचार",
+          "type": "html",
+          "file": "html/geography1.8.html"
+        },
+        {
+          "title": "9. अंतर्राष्ट्रीय व्यापार",
+          "type": "html",
+          "file": "html/geography1.9.html"
+        },
+        {
+          "title": "10. मानव बस्तियाँ",
+          "type": "html",
+          "file": "html/geography1.10.html"
+        },
+        {
+          "title": "11. जनसंख्या: वितरण घनत्व एवं वृद्धि",
+          "type": "html",
+          "file": "html/geography2.1.html"
+        },
+        {
+          "title": "12. प्रवास: प्रकार, कारण और परिणाम",
+          "type": "html",
+          "file": "html/geography2.2.html"
+        },
+        {
+          "title": "13. मानव विकास",
+          "type": "html",
+          "file": "html/geography2.3.html"
+        },
+        {
+          "title": "14. मानव बस्तियाँ",
+          "type": "html",
+          "file": "html/geography2.4.html"
+        },
+        {
+          "title": "15. भूसंसाधन तथा कृषि",
+          "type": "html",
+          "file": "html/geography2.5.html"
+        },
+        {
+          "title": "16. जल संसाधन",
+          "type": "html",
+          "file": "html/geography2.6.html"
+        },
+        {
+          "title": "17. खनिज तथा ऊर्जा संसाधन",
+          "type": "html",
+          "file": "html/geography2.7.html"
+        },
+        {
+          "title": "18. निर्माण उद्योग",
+          "type": "html",
+          "file": "html/geography2.8.html"
+        },
+        {
+          "title": "19. भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+          "type": "html",
+          "file": "html/geography2.9.html"
+        },
+        {
+          "title": "20. परिवहन तथा संचार",
+          "type": "html",
+          "file": "html/geography2.10.html"
+        },
+        {
+          "title": "21. अन्तर्राष्ट्रीय व्यापार",
+          "type": "html",
+          "file": "html/geography2.11.html"
+        },
+        {
+          "title": "22. भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे व समस्यायें",
+          "type": "html",
+          "file": "html/geography2.12.html"
+        }
+      ]
+    },
+    {
+      "title": "Economics (अर्थशास्त्र)",
+      "chapters": [
+        {
+          "title": "1. व्यष्टि एक परिचय",
+          "type": "html",
+          "file": "html/economics1.1.html"
+        },
+        {
+          "title": "2. उपभोक्ता के व्यव्हार का सिद्धांत",
+          "type": "html",
+          "file": "html/economics1.2.html"
+        },
+        {
+          "title": "3. उत्पादन और लागत",
+          "type": "html",
+          "file": "html/economics1.3.html"
+        },
+        {
+          "title": "4. पूर्ण प्रतिस्पर्धा की स्थिति में फर्म का सिद्धांत",
+          "type": "html",
+          "file": "html/economics1.4.html"
+        },
+        {
+          "title": "5. बाजार संतुलन",
+          "type": "html",
+          "file": "html/economics1.5.html"
+        },
+        {
+          "title": "6. प्रतिस्पर्धा रहित बाजार",
+          "type": "html",
+          "file": "html/economics1.6.html"
+        },
+        {
+          "title": "7. समष्टि एक परिचय",
+          "type": "html",
+          "file": "html/economics2.1.html"
+        },
+        {
+          "title": "8. राष्ट्रीय आय लेखांकन",
+          "type": "html",
+          "file": "html/economics2.2.html"
+        },
+        {
+          "title": "9. मुद्रा तथा बैंकिंग",
+          "type": "html",
+          "file": "html/economics2.3.html"
+        },
+        {
+          "title": "10. आय का निर्धारण",
+          "type": "html",
+          "file": "html/economics2.4.html"
+        },
+        {
+          "title": "11. सरकार – कार्य तथा क्षेत्र",
+          "type": "html",
+          "file": "html/economics2.5.html"
+        },
+        {
+          "title": "12. खुली अर्थ-व्यवस्था : समष्टि अर्थशास्त्र",
+          "type": "html",
+          "file": "html/economics2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Political Science (राजनीति विज्ञान)",
+      "chapters": [
+        {
+          "title": "1. शीत युद्ध का दौर",
+          "type": "html",
+          "file": "html/politicalscience1.1.html"
+        },
+        {
+          "title": "2. दो ध्रुवीयता का अंत",
+          "type": "html",
+          "file": "html/politicalscience1.2.html"
+        },
+        {
+          "title": "3. समकालीन विश्व में अमरीकी वर्चस्व",
+          "type": "html",
+          "file": "html/politicalscience1.3.html"
+        },
+        {
+          "title": "4. सत्ता के वैकल्पिक केन्द्र",
+          "type": "html",
+          "file": "html/politicalscience1.4.html"
+        },
+        {
+          "title": "5. समकालीन दक्षिण एशिया",
+          "type": "html",
+          "file": "html/politicalscience1.5.html"
+        },
+        {
+          "title": "6. अंतरराष्ट्रीय संगठन",
+          "type": "html",
+          "file": "html/politicalscience1.6.html"
+        },
+        {
+          "title": "7. समकालीन विश्व में सुरक्षा",
+          "type": "html",
+          "file": "html/politicalscience1.7.html"
+        },
+        {
+          "title": "8. पर्यावरण और प्राकृतिक संसाधन",
+          "type": "html",
+          "file": "html/politicalscience1.8.html"
+        },
+        {
+          "title": "9. वैश्वीकरण",
+          "type": "html",
+          "file": "html/politicalscience1.9.html"
+        },
+        {
+          "title": "10. राष्ट्र निर्माण की चुनौतियाँ",
+          "type": "html",
+          "file": "html/politicalscience2.1.html"
+        },
+        {
+          "title": "11. एक दल के प्रभुत्व का दौर",
+          "type": "html",
+          "file": "html/politicalscience2.2.html"
+        },
+        {
+          "title": "12. नियोजित विकास की राजनीति",
+          "type": "html",
+          "file": "html/politicalscience2.3.html"
+        },
+        {
+          "title": "13. भारत के विदेश संबंध",
+          "type": "html",
+          "file": "html/politicalscience2.4.html"
+        },
+        {
+          "title": "14. कांग्रेस प्रणालीः चुनौतियाँ व पुर्नस्थापना",
+          "type": "html",
+          "file": "html/politicalscience2.5.html"
+        },
+        {
+          "title": "15. संवैधानिक व्यवस्था का संकट",
+          "type": "html",
+          "file": "html/politicalscience2.6.html"
+        },
+        {
+          "title": "16. जन आंदोलन का उदय",
+          "type": "html",
+          "file": "html/politicalscience2.7.html"
+        },
+        {
+          "title": "17. क्षेत्रीय आकांक्षाये",
+          "type": "html",
+          "file": "html/politicalscience2.8.html"
+        },
+        {
+          "title": "18. भारतीय राजनीति में नए प्रवृत्तियों",
+          "type": "html",
+          "file": "html/politicalscience2.9.html"
+        }
+      ]
+    },
+    {
+      "title": "Computer Science (कम्प्यूटर साइंस)",
+      "chapters": [
+        {
+          "title": "1. Computer Fundamental",
+          "type": "html",
+          "file": "html/computerscience1.html"
+        },
+        {
+          "title": "2. Number System",
+          "type": "html",
+          "file": "html/computerscience2.html"
+        },
+        {
+          "title": "3. Operating System and OPS concept",
+          "type": "html",
+          "file": "html/computerscience3.html"
+        },
+        {
+          "title": "4. Algorithm and Flowchart",
+          "type": "html",
+          "file": "html/computerscience4.html"
+        },
+        {
+          "title": "5. Introduction",
+          "type": "html",
+          "file": "html/computerscience5.html"
+        },
+        {
+          "title": "6. Constants and Variables",
+          "type": "html",
+          "file": "html/computerscience6.html"
+        },
+        {
+          "title": "7. Input-Output Statements",
+          "type": "html",
+          "file": "html/computerscience7.html"
+        },
+        {
+          "title": "8. Operators in C ++",
+          "type": "html",
+          "file": "html/computerscience8.html"
+        },
+        {
+          "title": "9. Control Statement",
+          "type": "html",
+          "file": "html/computerscience9.html"
+        },
+        {
+          "title": "10. Loop Control Structure",
+          "type": "html",
+          "file": "html/computerscience10.html"
+        },
+        {
+          "title": "11. Arrays",
+          "type": "html",
+          "file": "html/computerscience11.html"
+        },
+        {
+          "title": "12. Functions",
+          "type": "html",
+          "file": "html/computerscience12.html"
+        },
+        {
+          "title": "13. String",
+          "type": "html",
+          "file": "html/computerscience13.html"
+        },
+        {
+          "title": "14. Structure",
+          "type": "html",
+          "file": "html/computerscience14.html"
+        }
+      ]
+    }
+  ]
+}
