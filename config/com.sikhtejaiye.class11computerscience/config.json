@@ -1,0 +1,179 @@
+{
+  "appName": "Class 11 Computer Science",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11computerscience"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Computer Science Solution",
+      "chapters": [
+        {
+          "title": "1. Computer overview and its Basics",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "2. Software Concepts",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "3. Data Representation",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "4. Microprocessor and Memory Concepts",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "5. Programming Methodology",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "6. Algorithms and Flowcharts",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "7. Introduction to Python",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "8. Getting Started with Python",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "9. Operators in Python",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "10. Functions",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "11. Conditional and Looping Constructs",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "12. Strings",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "13. Lists, Dictionaries and Tuples",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Computer Science MCQ 1",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Computer Science MCQ 2",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Computer Science MCQ 3",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Computer Science MCQ 4",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Computer Science MCQ 5",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Computer Science MCQ 6",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Computer Science MCQ 7",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Computer Science MCQ 8",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Computer Science MCQ 9",
+          "type": "html",
+          "file": "html/mcq9.html"
+        }
+      ]
+    }
+  ]
+}
