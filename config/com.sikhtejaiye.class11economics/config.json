@@ -1,0 +1,229 @@
+{
+  "appName": "Class 11 Economics Notes",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": true,
+    "showBottomPromotion": true,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11economics"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Indian Economic Development",
+      "chapters": [
+        {
+          "title": "Chapter 1 Indian Economy on the Eve of Independence",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2 Indian Economy 1950-1990",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3 Liberalisation, Privatisation and Globalisation -An Appraisal",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4 Poverty",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5 Human Capital Formation in India",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6 Rural Development",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7 Employment-Growth, Informalisation and Related Issues",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8 Infrastructure",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9 Environment Sustainable Development",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10 Comparative Development Experience of India with its Neighbours",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Statistics for Economics",
+      "chapters": [
+        {
+          "title": "Chapter 1 Introduction",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2 Collection of Data",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3 Organisation of Data",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4 Presentation of Data",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5 Measures of Central Tendency",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6 Measures of Dispersion",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7 Correlation",
+          "type": "pdf",
+          "file": "pdf/Part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8 Index Numbers",
+          "type": "pdf",
+          "file": "pdf/Part2.8.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQ",
+      "chapters": [
+        {
+          "title": "Chapter 1 Indian Economy on the Eve of Independence MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2 Indian Economy 1950 199 MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3 Liberalisation, Privatisation and Globalisation -An Appraisal MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4 Poverty MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5 Human Capital Formation in India MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6 Rural Development MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7 Employment-Growth, Informalisation and Related Issues MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8 Infrastructure MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9 Environment Sustainable Development MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10 Comparative Development Experience of India with its Neighbours MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 1 Introduction MCQ",
+          "type": "html",
+          "file": "html/mcq2.1.html"
+        },
+        {
+          "title": "Chapter 2 Collection, Organisation and Presentation of Data MCQ",
+          "type": "html",
+          "file": "html/mcq2.2.html"
+        },
+        {
+          "title": "Chapter 5 Measures of Central Tendency MCQ",
+          "type": "html",
+          "file": "html/mcq2.3.html"
+        }
+      ]
+    }
+  ]
+}
