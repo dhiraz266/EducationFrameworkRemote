@@ -1,0 +1,234 @@
+{
+  "appName": "Class 12 Computer Science",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12computerscience"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "C++ Solution",
+      "chapters": [
+        {
+          "title": "Chapter 1: C++ Revision Tour",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Object-Oriented Programming in C++",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: Implementation of OOP Concepts in C++",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Constructor and Destructor",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Inheritance",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: Data File Handling",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: Pointers",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: Arrays",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: Stack",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10: Queue",
+          "type": "pdf",
+          "file": "pdf/Part0.pdf"
+        },
+        {
+          "title": "Chapter 11: Database Concepts",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12: Structured Query Language",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 13: Boolean Algebra",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 14: Networking and Open Source Concepts",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Python Solution",
+      "chapters": [
+        {
+          "title": "Chapter 1: Review of Python",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2: Object-Oriented Programming Concepts",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3: Lists Manipulation and Implementation",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4: Database Concepts",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5: Structured Query Language",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6: Boolean Algebra",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "1. Cascading Style Sheets and JavaScript MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "2. Classes and Objects In Java MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "3. Creating HTML Forms Using KompoZer MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "4. Designing Simple Website Using KompoZer MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "5. Exception Handling In Java MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "6. File Handling MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "7. File System MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "8. Introduction To eCommerce MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "9. Introduction To mCommerce MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "10. Java Basics MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "11. Object Oriented Concepts MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "12. Publishing Documents Using Latex MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        }
+      ]
+    }
+  ]
+}
