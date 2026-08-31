@@ -1,0 +1,1079 @@
+{
+  "appName": "All English Grammar Rules",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.englishgrammar"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Tense",
+      "chapters": [
+        {
+          "title": "Tense Chart",
+          "type": "html",
+          "file": "html/Chart.html"
+        },
+        {
+          "title": "Present Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense1.html"
+        },
+        {
+          "title": "Present Continuous Tense",
+          "type": "html",
+          "file": "html/Tense2.html"
+        },
+        {
+          "title": "Present Perfect Tense",
+          "type": "html",
+          "file": "html/Tense3.html"
+        },
+        {
+          "title": "Present Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense4.html"
+        },
+        {
+          "title": "Past Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense5.html"
+        },
+        {
+          "title": "Past Continuous Tense",
+          "type": "html",
+          "file": "html/Tense6.html"
+        },
+        {
+          "title": "Past Perfect Tense",
+          "type": "html",
+          "file": "html/Tense7.html"
+        },
+        {
+          "title": "Past Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense8.html"
+        },
+        {
+          "title": "Future Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense9.html"
+        },
+        {
+          "title": "Future Continuous Tense",
+          "type": "html",
+          "file": "html/Tense10.html"
+        },
+        {
+          "title": "Future Perfect Tense",
+          "type": "html",
+          "file": "html/Tense11.html"
+        },
+        {
+          "title": "Future Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense12.html"
+        },
+        {
+          "title": "Present Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense13.html"
+        },
+        {
+          "title": "Present Continuous Tense",
+          "type": "html",
+          "file": "html/Tense14.html"
+        },
+        {
+          "title": "Present Perfect Tense",
+          "type": "html",
+          "file": "html/Tense15.html"
+        },
+        {
+          "title": "Present Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense16.html"
+        },
+        {
+          "title": "Past Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense17.html"
+        },
+        {
+          "title": "Past Continuous Tense",
+          "type": "html",
+          "file": "html/Tense18.html"
+        },
+        {
+          "title": "Past Perfect Tense",
+          "type": "html",
+          "file": "html/Tense19.html"
+        },
+        {
+          "title": "Past Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense20.html"
+        },
+        {
+          "title": "Future Indefinite Tense",
+          "type": "html",
+          "file": "html/Tense21.html"
+        },
+        {
+          "title": "Future Continuous Tense",
+          "type": "html",
+          "file": "html/Tense22.html"
+        },
+        {
+          "title": "Future Perfect Tense",
+          "type": "html",
+          "file": "html/Tense23.html"
+        },
+        {
+          "title": "Future Perfect Continuous Tense",
+          "type": "html",
+          "file": "html/Tense24.html"
+        }
+      ]
+    },
+    {
+      "title": "English Grammar",
+      "chapters": [
+        {
+          "title": "Articles-A, An or The",
+          "type": "html",
+          "file": "html/Grammar1.html"
+        },
+        {
+          "title": "Double Future",
+          "type": "html",
+          "file": "html/Grammar2.html"
+        },
+        {
+          "title": "Double Past",
+          "type": "html",
+          "file": "html/Grammar3.html"
+        },
+        {
+          "title": "Rule of 'ING'",
+          "type": "html",
+          "file": "html/Grammar4.html"
+        },
+        {
+          "title": "Use of It and There",
+          "type": "html",
+          "file": "html/Grammar5.html"
+        },
+        {
+          "title": "Use of Keep on / Go on / Carry on",
+          "type": "html",
+          "file": "html/Grammar6.html"
+        },
+        {
+          "title": "Use of Let",
+          "type": "html",
+          "file": "html/Grammar7.html"
+        },
+        {
+          "title": "Use of Make",
+          "type": "html",
+          "file": "html/Grammar8.html"
+        },
+        {
+          "title": "Affirmative Sentences (सकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar9.html"
+        },
+        {
+          "title": "Negative Sentences (नकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar10.html"
+        },
+        {
+          "title": "Interrogative Sentences (प्रश्नवाचक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar11.html"
+        },
+        {
+          "title": "Memorable Points",
+          "type": "html",
+          "file": "html/Grammar12.html"
+        },
+        {
+          "title": "Affirmative Sentences (सकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar13.html"
+        },
+        {
+          "title": "Negative Sentences (नकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar14.html"
+        },
+        {
+          "title": "Interrogative Sentences (प्रश्नवाचक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar15.html"
+        },
+        {
+          "title": "Memorable Points",
+          "type": "html",
+          "file": "html/Grammar16.html"
+        },
+        {
+          "title": "सकारात्मक वाक्य (Affirmative Sentences)",
+          "type": "html",
+          "file": "html/Grammar17.html"
+        },
+        {
+          "title": "नकारात्मक वाक्य (Negative Sentences)",
+          "type": "html",
+          "file": "html/Grammar18.html"
+        },
+        {
+          "title": "प्रश्नवाचक वाक्य (Interrogative Sentences)",
+          "type": "html",
+          "file": "html/Grammar19.html"
+        },
+        {
+          "title": "Affirmative Sentences (सकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar20.html"
+        },
+        {
+          "title": "Negative Sentences (नकारात्मक वाक्य)",
+          "type": "html",
+          "file": "html/Grammar21.html"
+        },
+        {
+          "title": "Note Before Useing",
+          "type": "html",
+          "file": "html/Grammar22.html"
+        },
+        {
+          "title": "I.D. (पहचान)",
+          "type": "html",
+          "file": "html/Grammar23.html"
+        },
+        {
+          "title": "Dare as an ordinary verb",
+          "type": "html",
+          "file": "html/Grammar24.html"
+        },
+        {
+          "title": "Dare as an auxiliary verb",
+          "type": "html",
+          "file": "html/Grammar25.html"
+        },
+        {
+          "title": "Dare + object + infinitive",
+          "type": "html",
+          "file": "html/Grammar26.html"
+        },
+        {
+          "title": "Notes: Before Using",
+          "type": "html",
+          "file": "html/Grammar27.html"
+        },
+        {
+          "title": "Use of This, these, that, those",
+          "type": "html",
+          "file": "html/Grammar28.html"
+        },
+        {
+          "title": "Use Capital Letters?",
+          "type": "html",
+          "file": "html/Grammar29.html"
+        },
+        {
+          "title": "Use of Apostrophes",
+          "type": "html",
+          "file": "html/Grammar30.html"
+        },
+        {
+          "title": "Introductory There",
+          "type": "html",
+          "file": "html/Grammar31.html"
+        },
+        {
+          "title": "Introductory it",
+          "type": "html",
+          "file": "html/Grammar32.html"
+        },
+        {
+          "title": "Guidelines for Using Capital Letters",
+          "type": "html",
+          "file": "html/Grammar33.html"
+        },
+        {
+          "title": "Omission of A/An/the",
+          "type": "html",
+          "file": "html/Grammar34.html"
+        },
+        {
+          "title": "Hindi-English Alphabet",
+          "type": "html",
+          "file": "html/Grammar35.html"
+        },
+        {
+          "title": "Imperative, Negative and Interrogative Sentences",
+          "type": "html",
+          "file": "html/Grammar36.html"
+        },
+        {
+          "title": "Letters (A to Z)",
+          "type": "html",
+          "file": "html/Grammar37.html"
+        },
+        {
+          "title": "Writing Names in English",
+          "type": "html",
+          "file": "html/Grammar38.html"
+        },
+        {
+          "title": "Noun - संज्ञा",
+          "type": "html",
+          "file": "html/Grammar39.html"
+        },
+        {
+          "title": "Pronoun - सर्वनाम",
+          "type": "html",
+          "file": "html/Grammar40.html"
+        },
+        {
+          "title": "Verb - क्रिया",
+          "type": "html",
+          "file": "html/Grammar41.html"
+        },
+        {
+          "title": "Adjective - विशेषण",
+          "type": "html",
+          "file": "html/Grammar42.html"
+        },
+        {
+          "title": "Adverb - क्रिया-विशेषण",
+          "type": "html",
+          "file": "html/Grammar43.html"
+        },
+        {
+          "title": "Preposition - पूर्वसर्ग",
+          "type": "html",
+          "file": "html/Grammar44.html"
+        },
+        {
+          "title": "Preposition List - पूर्वसर्ग सुची",
+          "type": "html",
+          "file": "html/Grammar45.html"
+        },
+        {
+          "title": "Conjunctions - समुच्चयबोधक",
+          "type": "html",
+          "file": "html/Grammar46.html"
+        },
+        {
+          "title": "Interjection - विस्मयादिबोधक",
+          "type": "html",
+          "file": "html/Grammar47.html"
+        },
+        {
+          "title": "Is/Am/Are (है/हूँ/हो) Rules",
+          "type": "html",
+          "file": "html/Grammar48.html"
+        },
+        {
+          "title": "Was/Were (था/थी/थे) Rules",
+          "type": "html",
+          "file": "html/Grammar49.html"
+        },
+        {
+          "title": "Present Tense Rules",
+          "type": "html",
+          "file": "html/Grammar50.html"
+        },
+        {
+          "title": "Past Tense Rules",
+          "type": "html",
+          "file": "html/Grammar51.html"
+        },
+        {
+          "title": "Future Tense Rules",
+          "type": "html",
+          "file": "html/Grammar52.html"
+        },
+        {
+          "title": "May Rules",
+          "type": "html",
+          "file": "html/Grammar53.html"
+        },
+        {
+          "title": "Might Rules",
+          "type": "html",
+          "file": "html/Grammar54.html"
+        },
+        {
+          "title": "May have / Might have Rules",
+          "type": "html",
+          "file": "html/Grammar55.html"
+        },
+        {
+          "title": "Can Rules",
+          "type": "html",
+          "file": "html/Grammar56.html"
+        },
+        {
+          "title": "Could Rules",
+          "type": "html",
+          "file": "html/Grammar57.html"
+        },
+        {
+          "title": "Will be able to Rules",
+          "type": "html",
+          "file": "html/Grammar58.html"
+        },
+        {
+          "title": "Shall/Will Rules",
+          "type": "html",
+          "file": "html/Grammar59.html"
+        },
+        {
+          "title": "Should And Ought To Rules",
+          "type": "html",
+          "file": "html/Grammar60.html"
+        },
+        {
+          "title": "Would Rules",
+          "type": "html",
+          "file": "html/Grammar61.html"
+        },
+        {
+          "title": "Must Rules",
+          "type": "html",
+          "file": "html/Grammar62.html"
+        },
+        {
+          "title": "Need Rules",
+          "type": "html",
+          "file": "html/Grammar63.html"
+        },
+        {
+          "title": "Dare Rules",
+          "type": "html",
+          "file": "html/Grammar64.html"
+        },
+        {
+          "title": "Have/Has Rules",
+          "type": "html",
+          "file": "html/Grammar65.html"
+        }
+      ]
+    },
+    {
+      "title": "Active Voice",
+      "chapters": [
+        {
+          "title": "Active Voice of Present Indefinite Tense",
+          "type": "html",
+          "file": "html/AV1.html"
+        },
+        {
+          "title": "Active Voice of Present Continuous Tense",
+          "type": "html",
+          "file": "html/AV2.html"
+        },
+        {
+          "title": "Active Voice of Present Perfect Tense",
+          "type": "html",
+          "file": "html/AV3.html"
+        },
+        {
+          "title": "Active Voice of Past Indefinite Tense",
+          "type": "html",
+          "file": "html/AV4.html"
+        },
+        {
+          "title": "Active Voice of Past Continuous Tense",
+          "type": "html",
+          "file": "html/AV5.html"
+        },
+        {
+          "title": "Active Voice of Past Perfect Tense",
+          "type": "html",
+          "file": "html/AV6.html"
+        },
+        {
+          "title": "Active Voice of Future Indefinite Tense",
+          "type": "html",
+          "file": "html/AV7.html"
+        },
+        {
+          "title": "Active Voice of Future Perfect Tense",
+          "type": "html",
+          "file": "html/AV8.html"
+        },
+        {
+          "title": "Active Voice of W-Family Words",
+          "type": "html",
+          "file": "html/AV9.html"
+        },
+        {
+          "title": "Active Voice of Imperative Sentence",
+          "type": "html",
+          "file": "html/AV10.html"
+        },
+        {
+          "title": "Active Voice of Sentences of Modals",
+          "type": "html",
+          "file": "html/AV11.html"
+        },
+        {
+          "title": "Active Voice of Sentences of Infinitives",
+          "type": "html",
+          "file": "html/AV12.html"
+        },
+        {
+          "title": "Active Voice of Miscellaneous Sentences",
+          "type": "html",
+          "file": "html/AV13.html"
+        }
+      ]
+    },
+    {
+      "title": "Passive Voice",
+      "chapters": [
+        {
+          "title": "Passive Voice of Present Indefinite Tense Rule",
+          "type": "html",
+          "file": "html/PV1.html"
+        },
+        {
+          "title": "Passive Voice of Present Continuous Tense Rule",
+          "type": "html",
+          "file": "html/PV2.html"
+        },
+        {
+          "title": "Passive Voice of Present Perfect Tense Rule",
+          "type": "html",
+          "file": "html/PV3.html"
+        },
+        {
+          "title": "Passive Voice of Past Indefinite Tense Rule",
+          "type": "html",
+          "file": "html/PV4.html"
+        },
+        {
+          "title": "Passive Voice of Past Continuous Tense Rule",
+          "type": "html",
+          "file": "html/PV5.html"
+        },
+        {
+          "title": "Passive Voice of Past Perfect Tense Rule",
+          "type": "html",
+          "file": "html/PV6.html"
+        },
+        {
+          "title": "Passive Voice of Future Indefinite Tense Rule",
+          "type": "html",
+          "file": "html/PV7.html"
+        },
+        {
+          "title": "Passive Voice of Future Perfect Tense Rule",
+          "type": "html",
+          "file": "html/PV8.html"
+        },
+        {
+          "title": "Passive Voice of W-Family Sentence",
+          "type": "html",
+          "file": "html/PV9.html"
+        }
+      ]
+    },
+    {
+      "title": "Verb",
+      "chapters": [
+        {
+          "title": "Basic usage of 'I'm'",
+          "type": "html",
+          "file": "html/Verb1.html"
+        },
+        {
+          "title": "Variations of 'I'm in/at/on' का प्रयोग",
+          "type": "html",
+          "file": "html/Verb2.html"
+        },
+        {
+          "title": "I'm good at का प्रयोग",
+          "type": "html",
+          "file": "html/Verb3.html"
+        },
+        {
+          "title": "I'm + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb4.html"
+        },
+        {
+          "title": "I'm getting का प्रयोग",
+          "type": "html",
+          "file": "html/Verb5.html"
+        },
+        {
+          "title": "I'm trying + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb6.html"
+        },
+        {
+          "title": "I'm gonna + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb7.html"
+        },
+        {
+          "title": "I have + (noun) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb8.html"
+        },
+        {
+          "title": "I have + (past participle) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb9.html"
+        },
+        {
+          "title": "I used to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb10.html"
+        },
+        {
+          "title": "I have to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb11.html"
+        },
+        {
+          "title": "I wanna + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb12.html"
+        },
+        {
+          "title": "I gotta + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb13.html"
+        },
+        {
+          "title": "I would like to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb14.html"
+        },
+        {
+          "title": "I plan to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb15.html"
+        },
+        {
+          "title": "I've decided to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb16.html"
+        },
+        {
+          "title": "I was about to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb17.html"
+        },
+        {
+          "title": "I didn't mean to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb18.html"
+        },
+        {
+          "title": "I don't have time to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb19.html"
+        },
+        {
+          "title": "I promise not to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb20.html"
+        },
+        {
+          "title": "I'm calling to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb21.html"
+        },
+        {
+          "title": "I'm working on + (noun)",
+          "type": "html",
+          "file": "html/Verb22.html"
+        },
+        {
+          "title": "I'm sorry to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb23.html"
+        },
+        {
+          "title": "I'm thinking of + (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb24.html"
+        },
+        {
+          "title": "I'll help you + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb25.html"
+        },
+        {
+          "title": "I'm dying to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb26.html"
+        },
+        {
+          "title": "It's my turn to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb27.html"
+        },
+        {
+          "title": "It's hard for me to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb28.html"
+        },
+        {
+          "title": "I'm having a hard time + (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb29.html"
+        },
+        {
+          "title": "I think I should + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb30.html"
+        },
+        {
+          "title": "I've heard that + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb31.html"
+        },
+        {
+          "title": "It occurred to me that (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb32.html"
+        },
+        {
+          "title": "Let me + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb33.html"
+        },
+        {
+          "title": "Thank you for",
+          "type": "html",
+          "file": "html/Verb34.html"
+        },
+        {
+          "title": "Can I + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb35.html"
+        },
+        {
+          "title": "Can I get + (noun)",
+          "type": "html",
+          "file": "html/Verb36.html"
+        },
+        {
+          "title": "I'm not sure if (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb37.html"
+        },
+        {
+          "title": "Do you mind if I + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb38.html"
+        },
+        {
+          "title": "I don't know what to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb39.html"
+        },
+        {
+          "title": "I should have + (past participle)",
+          "type": "html",
+          "file": "html/Verb40.html"
+        },
+        {
+          "title": "How often do you",
+          "type": "html",
+          "file": "html/Verb41.html"
+        },
+        {
+          "title": "Do you want me to + (verb)का प्रयोग",
+          "type": "html",
+          "file": "html/Verb42.html"
+        },
+        {
+          "title": "What do you think about (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb43.html"
+        },
+        {
+          "title": "Why don't we + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb44.html"
+        },
+        {
+          "title": "It's too bad that",
+          "type": "html",
+          "file": "html/Verb45.html"
+        },
+        {
+          "title": "You could have + (past participle)",
+          "type": "html",
+          "file": "html/Verb46.html"
+        },
+        {
+          "title": "If I were you, I would + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb47.html"
+        },
+        {
+          "title": "It's gonna be + (adjective)",
+          "type": "html",
+          "file": "html/Verb48.html"
+        },
+        {
+          "title": "It looks like + (noun)",
+          "type": "html",
+          "file": "html/Verb49.html"
+        },
+        {
+          "title": "That's why + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb50.html"
+        },
+        {
+          "title": "It's time to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb51.html"
+        },
+        {
+          "title": "The point is that + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb52.html"
+        },
+        {
+          "title": "How was + (noun)",
+          "type": "html",
+          "file": "html/Verb53.html"
+        },
+        {
+          "title": "How about + (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb54.html"
+        },
+        {
+          "title": "What if + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb55.html"
+        },
+        {
+          "title": "How much does it cost to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb56.html"
+        },
+        {
+          "title": "How come + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb57.html"
+        },
+        {
+          "title": "What are the chances of + (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb58.html"
+        },
+        {
+          "title": "There is something wrong with + (noun)",
+          "type": "html",
+          "file": "html/Verb59.html"
+        },
+        {
+          "title": "Let's not + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb60.html"
+        },
+        {
+          "title": "Let's say that + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb61.html"
+        },
+        {
+          "title": "There's no need to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb62.html"
+        },
+        {
+          "title": "It takes + (time) + to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb63.html"
+        },
+        {
+          "title": "Please make sure that + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb64.html"
+        },
+        {
+          "title": "Here's to + (noun)",
+          "type": "html",
+          "file": "html/Verb65.html"
+        },
+        {
+          "title": "It's no use + (verb-ing) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb66.html"
+        },
+        {
+          "title": "There's no way + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb67.html"
+        },
+        {
+          "title": "It's very kind of you to + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb68.html"
+        },
+        {
+          "title": "There's nothing + (subject) + can + (verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb69.html"
+        },
+        {
+          "title": "has it that + (subject + verb) का प्रयोग",
+          "type": "html",
+          "file": "html/Verb70.html"
+        }
+      ]
+    },
+    {
+      "title": "Modals",
+      "chapters": [
+        {
+          "title": "May (सकता है)",
+          "type": "html",
+          "file": "html/Modals1.html"
+        },
+        {
+          "title": "Might (सकता है/सकता था)",
+          "type": "html",
+          "file": "html/Modals2.html"
+        },
+        {
+          "title": "May have / Might have",
+          "type": "html",
+          "file": "html/Modals3.html"
+        },
+        {
+          "title": "Can (सकता है)",
+          "type": "html",
+          "file": "html/Modals4.html"
+        },
+        {
+          "title": "Could (सकता है/सकता था)",
+          "type": "html",
+          "file": "html/Modals5.html"
+        },
+        {
+          "title": "Will be able to",
+          "type": "html",
+          "file": "html/Modals6.html"
+        },
+        {
+          "title": "Shall/Will",
+          "type": "html",
+          "file": "html/Modals7.html"
+        },
+        {
+          "title": "Should And Ought To",
+          "type": "html",
+          "file": "html/Modals8.html"
+        },
+        {
+          "title": "Would",
+          "type": "html",
+          "file": "html/Modals9.html"
+        },
+        {
+          "title": "Must (जरूर चाहिए,अवश्य चाहिए)",
+          "type": "html",
+          "file": "html/Modals10.html"
+        },
+        {
+          "title": "Need (ज़रूरत,आवश्यकता)",
+          "type": "html",
+          "file": "html/Modals11.html"
+        },
+        {
+          "title": "Dare (हिम्मत,साहस)",
+          "type": "html",
+          "file": "html/Modals12.html"
+        },
+        {
+          "title": "Used To",
+          "type": "html",
+          "file": "html/Modals13.html"
+        },
+        {
+          "title": "Have/Has (पास है/रखता है)",
+          "type": "html",
+          "file": "html/Modals14.html"
+        },
+        {
+          "title": "Polite Words (विनम्र शब्द)",
+          "type": "html",
+          "file": "html/Modals15.html"
+        },
+        {
+          "title": "Compulsion Sentenes (मजबूरी वाले वाक्य)",
+          "type": "html",
+          "file": "html/Modals16.html"
+        }
+      ]
+    }
+  ]
+}
