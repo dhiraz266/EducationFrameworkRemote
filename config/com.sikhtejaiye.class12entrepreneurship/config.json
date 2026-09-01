@@ -1,0 +1,104 @@
+{
+  "appName": "Class 12 Entrepreneurship",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12entrepreneurship"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Entrepreneurship Solution",
+      "chapters": [
+        {
+          "title": "Chapter 1: Entrepreneurial Opportunity",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Entrepreneurial Planning",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: Enterprise Marketing",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Enterprise Growth Strategies",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Business Arithmetic",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: Resource Mobilization",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Entrepreneurship Solution MCQs",
+      "chapters": [
+        {
+          "title": "Entrepreneurship MCQs 1",
+          "type": "html",
+          "file": "html/mcq1.html"
+        }
+      ]
+    }
+  ]
+}
