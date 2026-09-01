@@ -1,0 +1,259 @@
+{
+  "appName": "Class 10 Sanskrit Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class10sanskritnotes"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "शेमुशी भाग 2",
+      "chapters": [
+        {
+          "title": "Chapter 1 शुचिपर्यावरणम्",
+          "type": "html",
+          "file": "html/part1.html"
+        },
+        {
+          "title": "Chapter 2 बुद्धिर्बलवती सदा",
+          "type": "html",
+          "file": "html/part2.html"
+        },
+        {
+          "title": "Chapter 3 व्यायामः सर्वदा पथ्यः",
+          "type": "html",
+          "file": "html/part3.html"
+        },
+        {
+          "title": "Chapter 4 शिशुलालनम्",
+          "type": "html",
+          "file": "html/part4.html"
+        },
+        {
+          "title": "Chapter 5 जननी तुल्यवत्सला",
+          "type": "html",
+          "file": "html/part5.html"
+        },
+        {
+          "title": "Chapter 6 सुभाषितानि",
+          "type": "html",
+          "file": "html/part6.html"
+        },
+        {
+          "title": "Chapter 7 सौहार्दं प्रकृतेः शोभा",
+          "type": "html",
+          "file": "html/part7.html"
+        },
+        {
+          "title": "Chapter 8 विचित्रः साक्षी",
+          "type": "html",
+          "file": "html/part8.html"
+        },
+        {
+          "title": "Chapter 9 सूक्तयः",
+          "type": "html",
+          "file": "html/part9.html"
+        },
+        {
+          "title": "Chapter 10 भूकंपविभीषिका",
+          "type": "html",
+          "file": "html/part10.html"
+        },
+        {
+          "title": "Chapter 11 प्राणेभ्योऽपि प्रियः सुह्रद्",
+          "type": "html",
+          "file": "html/part11.html"
+        },
+        {
+          "title": "Chapter 12 अनयोक्त्यः",
+          "type": "html",
+          "file": "html/part12.html"
+        }
+      ]
+    },
+    {
+      "title": "अभ्यासवान् भव भाग 2",
+      "chapters": [
+        {
+          "title": "Chapter 1 अपठितावबोधनम्",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "Chapter 2 पत्रलेखनम्",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "Chapter 3 अनुच्छेदलेखमन्",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "Chapter 4 चित्रवर्णनम्",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "Chapter 5 रचनानुवादः (वाक्यरचनाकौशलम्)",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "Chapter 6 सन्धिः",
+          "type": "html",
+          "file": "html/part2.6.html"
+        },
+        {
+          "title": "Chapter 7 समासा:",
+          "type": "html",
+          "file": "html/part2.7.html"
+        },
+        {
+          "title": "Chapter 8 प्रत्यया:",
+          "type": "html",
+          "file": "html/part2.8.html"
+        },
+        {
+          "title": "Chapter 9 अव्ययानि",
+          "type": "html",
+          "file": "html/part2.9.html"
+        },
+        {
+          "title": "Chapter 10 समय:",
+          "type": "html",
+          "file": "html/part2.10.html"
+        },
+        {
+          "title": "Chapter 11 वाच्यम्",
+          "type": "html",
+          "file": "html/part2.11.html"
+        },
+        {
+          "title": "Chapter 12 अशुद्धिसंशोधना",
+          "type": "html",
+          "file": "html/part2.12.html"
+        },
+        {
+          "title": "Chapter 13 मिश्रिताभ्यासः",
+          "type": "html",
+          "file": "html/part2.13.html"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1 शुचिपर्यावरणम् MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2 बुद्धिर्बलवती सदा MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3 व्यायामः सर्वदा पथ्यः MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4 शिशुलालनम् MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5 जननी तुल्यवत्सला MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6 सुभाषितानि MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7 सौहार्दं प्रकृतेः शोभा MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8 विचित्रः साक्षी MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9 सूक्तयः MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10 भूकंपविभीषिका MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11 प्राणेभ्योऽपि प्रियः सुह्रद् MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12 अनयोक्त्यः MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        }
+      ]
+    }
+  ]
+}
