@@ -1,0 +1,304 @@
+{
+  "appName": "Class 11 Physics Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11physics"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "PHYSICS",
+      "chapters": [
+        {
+          "title": "Chapter 1 Physical World",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2 Units and Measurements",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3 Motion in a Straight Line",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4 Motion in a plane",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5 Laws of motion",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6 Work Energy and power",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7 System of particles and Rotational Motion",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8 Gravitation",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9 Mechanical Properties Of Solids",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10 Mechanical Properties Of Fluids",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 11 Thermal Properties of matter",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12 Thermodynamics",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 13 Kinetic Theory",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 14 Oscillations",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        },
+        {
+          "title": "Chapter 15 Waves",
+          "type": "pdf",
+          "file": "pdf/Part15.pdf"
+        }
+      ]
+    },
+    {
+      "title": "भौतिक विज्ञान",
+      "chapters": [
+        {
+          "title": "Chapter 1 भौतिक जगत",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2 मात्रक एवं मापन",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3 सरल रेखा में गति",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4 समतल में गति",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5 गति के नियम",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6 कार्य , ऊर्जा और शक्ति",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7 कणो के निकाय तथा घूर्णी गति",
+          "type": "pdf",
+          "file": "pdf/Part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8 गुरुत्वाकषर्ण",
+          "type": "pdf",
+          "file": "pdf/Part2.8.pdf"
+        },
+        {
+          "title": "Chapter 9 ठोसों के यांत्रिक गुण",
+          "type": "pdf",
+          "file": "pdf/Part2.9.pdf"
+        },
+        {
+          "title": "Chapter 10 तरलों के यांत्रिकी गुण",
+          "type": "pdf",
+          "file": "pdf/Part2.10.pdf"
+        },
+        {
+          "title": "Chapter 11 द्रव्य के तापीय गुण",
+          "type": "pdf",
+          "file": "pdf/Part2.11.pdf"
+        },
+        {
+          "title": "Chapter 12 उष्मागतिकी",
+          "type": "pdf",
+          "file": "pdf/Part2.12.pdf"
+        },
+        {
+          "title": "Chapter 13 अणुगति सिद्धांत",
+          "type": "pdf",
+          "file": "pdf/Part2.13.pdf"
+        },
+        {
+          "title": "Chapter 14 दोलन",
+          "type": "pdf",
+          "file": "pdf/Part2.14.pdf"
+        },
+        {
+          "title": "Chapter 15 तरंगें",
+          "type": "pdf",
+          "file": "pdf/Part2.15.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "भौतिक विज्ञान MCQ",
+          "type": "html",
+          "file": "html/mcqhindi.html"
+        },
+        {
+          "title": "Chapter 1 Physical World MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2 Units and Measurements MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3 Motion in a Straight Line MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4 Motion in a plane MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5 Laws of motion MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6 Work Energy and power MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7 System of particles and Rotational Motion MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8 Gravitation MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9 Mechanical Properties Of Solids MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10 Mechanical Properties Of Fluids MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11 Thermal Properties of matter MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12 Thermodynamics MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 13 Kinetic Theory MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 14 Oscillations MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Chapter 15 Waves MCQ",
+          "type": "html",
+          "file": "html/mcq15.html"
+        }
+      ]
+    }
+  ]
+}
