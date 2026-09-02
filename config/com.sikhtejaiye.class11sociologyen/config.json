@@ -1,0 +1,194 @@
+{
+  "appName": "Class 11 Sociology English",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11sociologyen"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Book 1 Introduction Sociology",
+      "chapters": [
+        {
+          "title": "1. Sociology and Society and its relationship with other Social Sciences",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "2. Basic Concepts and their use in Sociology",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "3. Understanding Social Institutions",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "4. Culture and Socialization",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "5. Doing Sociology: Research Methods",
+          "type": "html",
+          "file": "html/part1.5.html"
+        }
+      ]
+    },
+    {
+      "title": "Book 2 Understanding Society",
+      "chapters": [
+        {
+          "title": "1. Social Structure, Stratification and Processes in Society",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "2. Social Change and Social Order and Urban Society",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "3. Environment and Society",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "4. Introduction Western Sociologists",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "5. Indian Sociologists",
+          "type": "html",
+          "file": "html/part2.5.html"
+        }
+      ]
+    },
+    {
+      "title": "Important Questions",
+      "chapters": [
+        {
+          "title": "Important Questions 1",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "Important Questions 2",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "Important Questions 3",
+          "type": "html",
+          "file": "html/part3.3.html"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "1. Sociology and Society and its relationship with other Social Sciences MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "2. Basic Concepts and their use in Sociology MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "3. Understanding Social Institutions MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "4. Culture and Socialization MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "5. Doing Sociology: Research Methods MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "1. Social Structure, Stratification and Processes in Society MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "2. Social Change and Social Order and Urban Society MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "3. Environment and Society MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "4. Introduction Western Sociologists MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "5. Indian Sociologists MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        }
+      ]
+    }
+  ]
+}
