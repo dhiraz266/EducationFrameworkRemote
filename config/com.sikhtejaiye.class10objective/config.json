@@ -1,0 +1,589 @@
+{
+  "appName": "Class 10 All Subject Objective",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class10objective"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Hindi (हिन्दी)",
+      "chapters": [
+        {
+          "title": "क्षितिज: सूरदास के पद",
+          "type": "html",
+          "file": "html/hindi1.1.html"
+        },
+        {
+          "title": "क्षितिज: राम-लक्ष्मण-परशुराम संवाद",
+          "type": "html",
+          "file": "html/hindi1.2.html"
+        },
+        {
+          "title": "क्षितिज: सवैया और कवित्त",
+          "type": "html",
+          "file": "html/hindi1.3.html"
+        },
+        {
+          "title": "क्षितिज: आत्मकथ्य",
+          "type": "html",
+          "file": "html/hindi1.4.html"
+        },
+        {
+          "title": "क्षितिज: उत्साह और अट नहीं रही",
+          "type": "html",
+          "file": "html/hindi1.5.html"
+        },
+        {
+          "title": "क्षितिज: यह दंतुरहित मुस्कान और फसल",
+          "type": "html",
+          "file": "html/hindi1.6.html"
+        },
+        {
+          "title": "क्षितिज: छाया मत छूना",
+          "type": "html",
+          "file": "html/hindi1.7.html"
+        },
+        {
+          "title": "क्षितिज: कन्यादान",
+          "type": "html",
+          "file": "html/hindi1.8.html"
+        },
+        {
+          "title": "क्षितिज: संगतकार",
+          "type": "html",
+          "file": "html/hindi1.9.html"
+        },
+        {
+          "title": "क्षितिज: नेताजी का चश्मा",
+          "type": "html",
+          "file": "html/hindi1.10.html"
+        },
+        {
+          "title": "क्षितिज: बालगोबिन भगत",
+          "type": "html",
+          "file": "html/hindi1.11.html"
+        },
+        {
+          "title": "क्षितिज: लखनवी अंदाज़",
+          "type": "html",
+          "file": "html/hindi1.12.html"
+        },
+        {
+          "title": "क्षितिज: मानवीय करुणा की दिव्या चमक",
+          "type": "html",
+          "file": "html/hindi1.13.html"
+        },
+        {
+          "title": "क्षितिज: एक कहानी यह भी",
+          "type": "html",
+          "file": "html/hindi1.14.html"
+        },
+        {
+          "title": "क्षितिज: स्त्री शिक्षा के विरोधी कुतर्कों का खंडन",
+          "type": "html",
+          "file": "html/hindi1.15.html"
+        },
+        {
+          "title": "क्षितिज: नौबतखाने में इबादत",
+          "type": "html",
+          "file": "html/hindi1.16.html"
+        },
+        {
+          "title": "क्षितिज: संस्कृति",
+          "type": "html",
+          "file": "html/hindi1.17.html"
+        },
+        {
+          "title": "कृतिका: माता का अँचल",
+          "type": "html",
+          "file": "html/hindi2.1.html"
+        },
+        {
+          "title": "कृतिका: जॉर्ज पंचम की नाक",
+          "type": "html",
+          "file": "html/hindi2.2.html"
+        },
+        {
+          "title": "कृतिका: साना – साना हाथ जोड़ि…",
+          "type": "html",
+          "file": "html/hindi2.3.html"
+        },
+        {
+          "title": "कृतिका: एही ठैयाँ झुलनी हेरानी हो रामा!",
+          "type": "html",
+          "file": "html/hindi2.4.html"
+        },
+        {
+          "title": "कृतिका: मैं क्यों लिखता हूँ?",
+          "type": "html",
+          "file": "html/hindi2.5.html"
+        },
+        {
+          "title": "कृतिका: लेखक परिचय",
+          "type": "html",
+          "file": "html/hindi2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "English (अंग्रेज़ी)",
+      "chapters": [
+        {
+          "title": "Prose: A Letter to God",
+          "type": "html",
+          "file": "html/english1.1.html"
+        },
+        {
+          "title": "Prose: Nelson Mandela: Long Walk to Freedom",
+          "type": "html",
+          "file": "html/english1.2.html"
+        },
+        {
+          "title": "Prose: Two Stories about Flying",
+          "type": "html",
+          "file": "html/english1.3.html"
+        },
+        {
+          "title": "Prose: From the Diary of Anne Frank",
+          "type": "html",
+          "file": "html/english1.4.html"
+        },
+        {
+          "title": "Prose: The Hundred Dresses–I",
+          "type": "html",
+          "file": "html/english1.5.html"
+        },
+        {
+          "title": "Prose: The Hundred Dresses–II",
+          "type": "html",
+          "file": "html/english1.6.html"
+        },
+        {
+          "title": "Prose: Glimpses of India",
+          "type": "html",
+          "file": "html/english1.7.html"
+        },
+        {
+          "title": "Prose: Mijbil the Otter",
+          "type": "html",
+          "file": "html/english1.8.html"
+        },
+        {
+          "title": "Prose: Madam Rides the Bus",
+          "type": "html",
+          "file": "html/english1.9.html"
+        },
+        {
+          "title": "Prose: The Sermon at Benares",
+          "type": "html",
+          "file": "html/english1.10.html"
+        },
+        {
+          "title": "Prose: The Proposal",
+          "type": "html",
+          "file": "html/english1.11.html"
+        },
+        {
+          "title": "Supplementary: A Triumph of Surgery",
+          "type": "html",
+          "file": "html/english2.1.html"
+        },
+        {
+          "title": "Supplementary: The Thief’s Story",
+          "type": "html",
+          "file": "html/english2.2.html"
+        },
+        {
+          "title": "Supplementary: The Midnight Visitor",
+          "type": "html",
+          "file": "html/english2.3.html"
+        },
+        {
+          "title": "Supplementary: A Question of Trust",
+          "type": "html",
+          "file": "html/english2.4.html"
+        },
+        {
+          "title": "Supplementary: Footprints without Feet",
+          "type": "html",
+          "file": "html/english2.5.html"
+        },
+        {
+          "title": "Supplementary: The Making of a Scientist",
+          "type": "html",
+          "file": "html/english2.6.html"
+        },
+        {
+          "title": "Supplementary: The Necklace",
+          "type": "html",
+          "file": "html/english2.7.html"
+        },
+        {
+          "title": "Supplementary: The Hack Driver",
+          "type": "html",
+          "file": "html/english2.8.html"
+        },
+        {
+          "title": "Supplementary: Bholi",
+          "type": "html",
+          "file": "html/english2.9.html"
+        },
+        {
+          "title": "Supplementary: The Book That Saved the Earth",
+          "type": "html",
+          "file": "html/english2.10.html"
+        }
+      ]
+    },
+    {
+      "title": "Math (गणित)",
+      "chapters": [
+        {
+          "title": "वास्तविक संख्याएँ",
+          "type": "html",
+          "file": "html/math1.html"
+        },
+        {
+          "title": "बहुपद",
+          "type": "html",
+          "file": "html/math2.html"
+        },
+        {
+          "title": "दो चर वाले रैखिक समीकरण युग्म",
+          "type": "html",
+          "file": "html/math3.html"
+        },
+        {
+          "title": "द्विघात समीकरण",
+          "type": "html",
+          "file": "html/math4.html"
+        },
+        {
+          "title": "समांतर श्रेढियाँ",
+          "type": "html",
+          "file": "html/math5.html"
+        },
+        {
+          "title": "त्रिभुज",
+          "type": "html",
+          "file": "html/math6.html"
+        },
+        {
+          "title": "निर्देशांक ज्यामिति",
+          "type": "html",
+          "file": "html/math7.html"
+        },
+        {
+          "title": "त्रिकोणमिति का परिचय",
+          "type": "html",
+          "file": "html/math8.html"
+        },
+        {
+          "title": "त्रिकोणमिति के कुछ अनुप्रयोग",
+          "type": "html",
+          "file": "html/math9.html"
+        },
+        {
+          "title": "वृत",
+          "type": "html",
+          "file": "html/math10.html"
+        },
+        {
+          "title": "रचनाएँ",
+          "type": "html",
+          "file": "html/math11.html"
+        },
+        {
+          "title": "वृत्तों से संबंधित क्षेत्रफल",
+          "type": "html",
+          "file": "html/math12.html"
+        },
+        {
+          "title": "पृष्ठीय क्षेत्रफल और आयतन",
+          "type": "html",
+          "file": "html/math13.html"
+        },
+        {
+          "title": "सांख्यिकी",
+          "type": "html",
+          "file": "html/math14.html"
+        },
+        {
+          "title": "प्रायिकता",
+          "type": "html",
+          "file": "html/math15.html"
+        }
+      ]
+    },
+    {
+      "title": "Science (विज्ञान)",
+      "chapters": [
+        {
+          "title": "रासायनिक अभिक्रियाएं एवं समीकरण",
+          "type": "html",
+          "file": "html/science1.html"
+        },
+        {
+          "title": "अम्ल, क्षारक एवं लवण",
+          "type": "html",
+          "file": "html/science2.html"
+        },
+        {
+          "title": "धातु एवं अधातु",
+          "type": "html",
+          "file": "html/science3.html"
+        },
+        {
+          "title": "कार्बन एवं उसके यौगिक",
+          "type": "html",
+          "file": "html/science4.html"
+        },
+        {
+          "title": "तत्वों का आवर्त वर्गीकरण",
+          "type": "html",
+          "file": "html/science5.html"
+        },
+        {
+          "title": "जैव प्रक्रम",
+          "type": "html",
+          "file": "html/science6.html"
+        },
+        {
+          "title": "नियंत्रण एवं समन्वय",
+          "type": "html",
+          "file": "html/science7.html"
+        },
+        {
+          "title": "जीव जनन कैसे करते हैं?",
+          "type": "html",
+          "file": "html/science8.html"
+        },
+        {
+          "title": "आनुवंशिकता एवं जैव विकास",
+          "type": "html",
+          "file": "html/science9.html"
+        },
+        {
+          "title": "प्रकाश – परावर्तन तथा अपवर्तन",
+          "type": "html",
+          "file": "html/science10.html"
+        },
+        {
+          "title": "मानव नेत्र तथा रंगबिरंगा संसार",
+          "type": "html",
+          "file": "html/science11.html"
+        },
+        {
+          "title": "विधुत",
+          "type": "html",
+          "file": "html/science12.html"
+        },
+        {
+          "title": "विधुत धरा के चुंबकीय प्रभाव",
+          "type": "html",
+          "file": "html/science13.html"
+        },
+        {
+          "title": "ऊर्जा के स्रोत",
+          "type": "html",
+          "file": "html/science14.html"
+        },
+        {
+          "title": "हमारा पर्यावरण",
+          "type": "html",
+          "file": "html/science15.html"
+        },
+        {
+          "title": "प्राकृतिक संसाधनों का प्रबंधन",
+          "type": "html",
+          "file": "html/science16.html"
+        }
+      ]
+    },
+    {
+      "title": "Social Science (सामाजिक विज्ञान)",
+      "chapters": [
+        {
+          "title": "इतिहास: यूरोप में राष्ट्रवाद",
+          "type": "html",
+          "file": "html/sst1.1.html"
+        },
+        {
+          "title": "इतिहास: इंडो चाइना में राष्ट्रवादी आन्दोलन",
+          "type": "html",
+          "file": "html/sst1.2.html"
+        },
+        {
+          "title": "इतिहास: भारत में राष्ट्रवाद",
+          "type": "html",
+          "file": "html/sst1.3.html"
+        },
+        {
+          "title": "इतिहास: भुमंद्लिकृत विश्व का बनना",
+          "type": "html",
+          "file": "html/sst1.4.html"
+        },
+        {
+          "title": "इतिहास: औद्योगीकरण का युग",
+          "type": "html",
+          "file": "html/sst1.5.html"
+        },
+        {
+          "title": "इतिहास: काम आराम और जीवन",
+          "type": "html",
+          "file": "html/sst1.6.html"
+        },
+        {
+          "title": "इतिहास: मुद्रण संस्कृति और आधुनिक दुनियां",
+          "type": "html",
+          "file": "html/sst1.7.html"
+        },
+        {
+          "title": "इतिहास: उपन्यास, समाज और इतिहास",
+          "type": "html",
+          "file": "html/sst1.8.html"
+        },
+        {
+          "title": "भूगोल: संसाधन एवम विकास",
+          "type": "html",
+          "file": "html/sst2.1.html"
+        },
+        {
+          "title": "भूगोल: जल संसाधन",
+          "type": "html",
+          "file": "html/sst2.2.html"
+        },
+        {
+          "title": "भूगोल: कृषि",
+          "type": "html",
+          "file": "html/sst2.3.html"
+        },
+        {
+          "title": "भूगोल: खनिज और उर्जा संसाधन",
+          "type": "html",
+          "file": "html/sst2.4.html"
+        },
+        {
+          "title": "भूगोल: विनिर्माण उद्योग",
+          "type": "html",
+          "file": "html/sst2.5.html"
+        },
+        {
+          "title": "भूगोल: राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+          "type": "html",
+          "file": "html/sst2.6.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: सत्ता की साझेदारी",
+          "type": "html",
+          "file": "html/sst3.1.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: संघवाद",
+          "type": "html",
+          "file": "html/sst3.2.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: लोकतंत्र और विविधता",
+          "type": "html",
+          "file": "html/sst3.3.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: जाती धर्म और लैंगिक मसले",
+          "type": "html",
+          "file": "html/sst3.4.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: राजनितिक दल",
+          "type": "html",
+          "file": "html/sst3.5.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: लोकतंत्र के परिणाम",
+          "type": "html",
+          "file": "html/sst3.6.html"
+        },
+        {
+          "title": "राजनीतिक विज्ञान: लोकतंत्र की चुनोतियाँ",
+          "type": "html",
+          "file": "html/sst3.7.html"
+        },
+        {
+          "title": "अर्थशास्त्र: विकास",
+          "type": "html",
+          "file": "html/sst4.1.html"
+        },
+        {
+          "title": "अर्थशास्त्र: भारतीय अर्थव्यवस्था के क्षेत्रक",
+          "type": "html",
+          "file": "html/sst4.2.html"
+        },
+        {
+          "title": "अर्थशास्त्र: मुद्रा व साख",
+          "type": "html",
+          "file": "html/sst4.3.html"
+        },
+        {
+          "title": "अर्थशास्त्र: वैश्वीकरण और भारतीय अर्थव्यवस्था",
+          "type": "html",
+          "file": "html/sst4.4.html"
+        },
+        {
+          "title": "अर्थशास्त्र: उपभोक्ता अधिकार",
+          "type": "html",
+          "file": "html/sst4.5.html"
+        }
+      ]
+    }
+  ]
+}
