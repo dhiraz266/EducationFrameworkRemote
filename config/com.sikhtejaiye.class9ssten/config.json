@@ -1,0 +1,324 @@
+{
+  "appName": "Class 9 SST Solutions English",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 2,
+      "latestVersionName": "1.0.1",
+      "minimumVersion": 2,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class9ssten"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 3,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "History-India and the Contemporary World I",
+      "chapters": [
+        {
+          "title": "Chapter 1- The French Revolution",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "Chapter 2- Socialism in Europe and the Russian Revolution",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "Chapter 3- Nazism and the Rise of Hitler",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "Chapter 4- Forest Society and Colonialism",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "Chapter 5- Pastoralists in the Modern World",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "Chapter 6- Peasants and Farmers",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "Chapter 7- History and Sport: The Story of Cricket",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "Chapter 8- Clothing: A Social History",
+          "type": "html",
+          "file": "html/part1.8.html"
+        }
+      ]
+    },
+    {
+      "title": "Geography-Contemporary India I",
+      "chapters": [
+        {
+          "title": "Chapter 1- India - Size and Location",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "Chapter 2- Physical Features of India",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "Chapter 3- Drainage",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "Chapter 4- Climate",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "Chapter 5- Natural Vegetation and Wildlife",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "Chapter 6- Population",
+          "type": "html",
+          "file": "html/part2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Civics-Democratic Politics I",
+      "chapters": [
+        {
+          "title": "Chapter 1- Democracy in the Contemporary World",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "Chapter 2- What is Democracy? Why Democracy?",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "Chapter 3- Constitutional Design",
+          "type": "html",
+          "file": "html/part3.3.html"
+        },
+        {
+          "title": "Chapter 4- Electoral Politics",
+          "type": "html",
+          "file": "html/part3.4.html"
+        },
+        {
+          "title": "Chapter 5- Working of Institutions",
+          "type": "html",
+          "file": "html/part3.5.html"
+        },
+        {
+          "title": "Chapter 6- Democratic Rights",
+          "type": "html",
+          "file": "html/part3.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Economics",
+      "chapters": [
+        {
+          "title": "Chapter 1- The Story of Village Palampur",
+          "type": "html",
+          "file": "html/part4.1.html"
+        },
+        {
+          "title": "Chapter 2- People as Resource",
+          "type": "html",
+          "file": "html/part4.2.html"
+        },
+        {
+          "title": "Chapter 3- Poverty as a Challenge",
+          "type": "html",
+          "file": "html/part4.3.html"
+        },
+        {
+          "title": "Chapter 4- Food Security in India",
+          "type": "html",
+          "file": "html/part4.4.html"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "History: Chapter 1- The French Revolution MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "History: Chapter 2- Socialism in Europe and the Russian Revolution MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "History: Chapter 3- Nazism and the Rise of Hitler MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "History: Chapter 4- Forest Society and Colonialism MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "History: Chapter 5- Pastoralists in the Modern World MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "History: Chapter 6- Peasants and Farmers MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "History: Chapter 7- History and Sport: The Story of Cricket MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "History: Chapter 8- Clothing: A Social History MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Geography: Chapter 1- India - Size and Location MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Geography: Chapter 2- Physical Features of India MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Geography: Chapter 3- Drainage MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Geography: Chapter 4- Climate MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Geography: Chapter 5- Natural Vegetation and Wildlife MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Geography: Chapter 6- Population MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Civics: Chapter 1- Democracy in the Contemporary World MCQ",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "Civics: Chapter 2- What is Democracy? Why Democracy? MCQ",
+          "type": "html",
+          "file": "html/mcq16.html"
+        },
+        {
+          "title": "Civics: Chapter 3- Constitutional Design MCQ",
+          "type": "html",
+          "file": "html/mcq17.html"
+        },
+        {
+          "title": "Civics: Chapter 4- Electoral Politics MCQ",
+          "type": "html",
+          "file": "html/mcq18.html"
+        },
+        {
+          "title": "Civics: Chapter 5- Working of Institutions MCQ",
+          "type": "html",
+          "file": "html/mcq19.html"
+        },
+        {
+          "title": "Civics: Chapter 6- Democratic Rights MCQ",
+          "type": "html",
+          "file": "html/mcq20.html"
+        },
+        {
+          "title": "Economics: Chapter 1- The Story of Village Palampur MCQ",
+          "type": "html",
+          "file": "html/mcq21.html"
+        },
+        {
+          "title": "Economics: Chapter 2- People as Resource MCQ",
+          "type": "html",
+          "file": "html/mcq22.html"
+        },
+        {
+          "title": "Economics: Chapter 3- Poverty as a Challenge MCQ",
+          "type": "html",
+          "file": "html/mcq23.html"
+        },
+        {
+          "title": "Economics: Chapter 4- Food Security in India MCQ",
+          "type": "html",
+          "file": "html/mcq24.html"
+        }
+      ]
+    }
+  ]
+}
