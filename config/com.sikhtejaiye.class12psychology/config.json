@@ -1,0 +1,239 @@
+{
+  "appName": "Class 12 Psychology Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12psychology"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Class 12 Psychology Solutions",
+      "chapters": [
+        {
+          "title": "Chapter 1: Intelligence And Aptitude",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Self And Personality",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: Human Strengths And Meeting Life Challenges",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Psychological Disorders",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Therapeutic Approaches And Counselling",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: Attitude And Social Cognition",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: Social Influence And Group Processes",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: Psychology And Life",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: Developing Psychological Skills",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10: VIVA-VOCE QUESTIONS",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        }
+      ]
+    },
+    {
+      "title": "कक्षा 12 मनोविज्ञान समाधान",
+      "chapters": [
+        {
+          "title": "Chapter 1: मनोवैज्ञानिक गुणों में विभिन्नताएँ",
+          "type": "html",
+          "file": "html/part1.html"
+        },
+        {
+          "title": "Chapter 2: आत्म एवं व्यक्तित्व",
+          "type": "html",
+          "file": "html/part2.html"
+        },
+        {
+          "title": "Chapter 3: जीवन की चुनौतियों का सामना",
+          "type": "html",
+          "file": "html/part3.html"
+        },
+        {
+          "title": "Chapter 4: मनोवैज्ञानिक विकार",
+          "type": "html",
+          "file": "html/part4.html"
+        },
+        {
+          "title": "Chapter 5: चिकित्सा उपागम",
+          "type": "html",
+          "file": "html/part5.html"
+        },
+        {
+          "title": "Chapter 6: अभिवृत्ति एवं सामाजिक संज्ञान",
+          "type": "html",
+          "file": "html/part6.html"
+        },
+        {
+          "title": "Chapter 7: सामाजिक प्रभाव एवं समूह प्रक्रम",
+          "type": "html",
+          "file": "html/part7.html"
+        },
+        {
+          "title": "Chapter 8: मनोविज्ञान एवं जीवन",
+          "type": "html",
+          "file": "html/part8.html"
+        },
+        {
+          "title": "Chapter 9: मनोवैज्ञानिक कौशलों का विकास",
+          "type": "html",
+          "file": "html/part9.html"
+        }
+      ]
+    },
+    {
+      "title": "Psychology MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1: Intelligence And Aptitude MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2: Self And Personality MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3: Human Strengths And Meeting Life Challenges MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4: Psychological Disorders MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5: Therapeutic Approaches And Counselling MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6: Attitude And Social Cognition MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7: Social Influence And Group Processes MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8: Psychology And Life MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9: Developing Psychological Skill MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        }
+      ]
+    },
+    {
+      "title": "मनोविज्ञान MCQs",
+      "chapters": [
+        {
+          "title": "12th Psychology Objective Questions Model Set 1 in Hindi",
+          "type": "html",
+          "file": "html/mcq2.1.html"
+        },
+        {
+          "title": "12th Psychology Objective Questions Model Set 2 in Hindi",
+          "type": "html",
+          "file": "html/mcq2.2.html"
+        },
+        {
+          "title": "12th Psychology Objective Questions Model Set 3 in Hindi",
+          "type": "html",
+          "file": "html/mcq2.3.html"
+        },
+        {
+          "title": "12th Psychology Objective Questions Model Set 4 in Hindi",
+          "type": "html",
+          "file": "html/mcq2.4.html"
+        }
+      ]
+    }
+  ]
+}
