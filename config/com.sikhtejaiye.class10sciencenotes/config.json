@@ -1,0 +1,229 @@
+{
+  "appName": "Class 10 Science Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 5,
+      "latestVersionName": "1.0.4",
+      "minimumVersion": 5,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class10sciencenotes"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 3,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "कक्षा 10 विज्ञान सॉल्यूशन",
+      "chapters": [
+        {
+          "title": "Chapter 1: रासायनिक अभिक्रिया एवं समीकरण",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: अम्ल, क्षारक एवं लवण",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: धातु एवं अधातु",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: कार्बन एवं उसके यौगिक",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: तत्वों का आवर्त वर्गीकरण",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: जैव प्रक्रम",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: नियंत्रण एवं समन्वय",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: जीवन जनन कैसे करते है",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: अनुवांशिकता एवं जैव विकास",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10: प्रकाश प्रवर्तन तथा अपवर्तन",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 11: मानव नेत्र एवं रंगबिंरंगा संसार",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12: विद्युत",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 13: विद्युत धारा के चुंबकीय प्रभाव",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 14: ऊर्जा के स्त्रोत",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        },
+        {
+          "title": "Chapter 15: हमारा पर्यावरण",
+          "type": "pdf",
+          "file": "pdf/Part15.pdf"
+        },
+        {
+          "title": "Chapter 16: प्राकृतिक संसाधनों का सम्पोषित प्रबंधन",
+          "type": "pdf",
+          "file": "pdf/Part16.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1: रासायनिक अभिक्रिया एवं समीकरण MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2: अम्ल, क्षारक एवं लवण MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3: धातु एवं अधातु MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4: कार्बन एवं उसके यौगिक MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5: तत्वों का आवर्त वर्गीकरण MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6: जैव प्रक्रम MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7: नियंत्रण एवं समन्वय MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8: जीवन जनन कैसे करते है MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9: अनुवांशिकता एवं जैव विकास MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10: प्रकाश प्रवर्तन तथा अपवर्तन MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11: मानव नेत्र एवं रंगबिंरंगा संसार MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12: विद्युत MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 13: विद्युत धारा के चुंबकीय प्रभाव MCQs",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 14: ऊर्जा के स्त्रोत MCQs",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Chapter 15: हमारा पर्यावरण MCQs",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "Chapter 16: प्राकृतिक संसाधनों का सम्पोषित प्रबंधन MCQs",
+          "type": "html",
+          "file": "html/mcq16.html"
+        }
+      ]
+    }
+  ]
+}
