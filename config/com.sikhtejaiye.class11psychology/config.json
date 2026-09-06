@@ -1,0 +1,134 @@
+{
+  "appName": "Class 11 Psychology Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11psychology"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "CLASS 11 PSYCHOLOGY SOLUTION",
+      "chapters": [
+        {
+          "title": "Chapter 1: What is Psychology?",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Methods of Enquiry in Psychology",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: The Bases of Human Behaviour",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Human Development",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Sensory, Attentional And Perceptual Processes",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: Learning",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: Human Memory",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: Thinking",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: Motivation And Emotion",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Psychology MCQ 1",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Psychology MCQ 2",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Psychology MCQ 3",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Psychology MCQ 4",
+          "type": "html",
+          "file": "html/mcq4.html"
+        }
+      ]
+    }
+  ]
+}
