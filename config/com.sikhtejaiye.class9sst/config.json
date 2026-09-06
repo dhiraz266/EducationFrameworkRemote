@@ -1,0 +1,324 @@
+{
+  "appName": "Class 9 Social Science",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class9sst"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "इकाई 1: इतिहास-भारत और समकालीन विश्व-I",
+      "chapters": [
+        {
+          "title": "पाठ 1) फ्रांसीसी क्रांति",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "पाठ 2) यूरोप में समाजवाद तथा रूसी क्रांति",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "पाठ 3) नात्सीवाद और हिटलर का उदय",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "पाठ 4) वन्य समाज और उपनिवेशवाद",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "पाठ 5) आधुनिक विश्व में चरवाहे",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "पाठ 6) किसान और काश्तकार",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "पाठ 7) इतिहास और खेल : क्रिकेट की कहानी",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "पाठ 8) पहनावे का सामाजिक इतिहास",
+          "type": "html",
+          "file": "html/part1.8.html"
+        }
+      ]
+    },
+    {
+      "title": "इकाई 2: भूगोल-समकालीन भारत-I",
+      "chapters": [
+        {
+          "title": "पाठ 1) भारत आकार और स्थिति",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "पाठ 2) भारत का भौतिक स्वरूप",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "पाठ 3) अपवाह",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "पाठ 4) जलवायु",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "पाठ 5) प्राकृतिक वनस्पति तथा वन्य प्राणी",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "पाठ 6) जनसंख्या",
+          "type": "html",
+          "file": "html/part2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "इकाई 3: राजनीति विज्ञान-लोकतांत्रिक राजनीति-I",
+      "chapters": [
+        {
+          "title": "पाठ 1 समकालीन विश्व में लोकतंत्र",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "पाठ 2 लोकतंत्र क्या? लोकतंत्र क्यों?",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "पाठ 3 संविधान निर्माण",
+          "type": "html",
+          "file": "html/part3.3.html"
+        },
+        {
+          "title": "पाठ 4 चुनावी राजनीति",
+          "type": "html",
+          "file": "html/part3.4.html"
+        },
+        {
+          "title": "पाठ 5 संस्थाओं का कामकाज",
+          "type": "html",
+          "file": "html/part3.5.html"
+        },
+        {
+          "title": "पाठ 6 लोकतांत्रिक अधिकार",
+          "type": "html",
+          "file": "html/part3.6.html"
+        }
+      ]
+    },
+    {
+      "title": "इकाई 4: अर्थशास्त्र-आर्थिक विकास की समझ-I",
+      "chapters": [
+        {
+          "title": "पाठ 1 पालमपुर गाँव की कहानी",
+          "type": "html",
+          "file": "html/part4.1.html"
+        },
+        {
+          "title": "पाठ 2 संसाधन के रूप में लोग",
+          "type": "html",
+          "file": "html/part4.2.html"
+        },
+        {
+          "title": "पाठ 3 निर्धनता एक चुनौती",
+          "type": "html",
+          "file": "html/part4.3.html"
+        },
+        {
+          "title": "पाठ 4 भारत में खाद्य सुरक्षा",
+          "type": "html",
+          "file": "html/part4.4.html"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "इतिहास: पाठ 1) फ्रांसीसी क्रांति MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "इतिहास: पाठ 2) यूरोप में समाजवाद तथा रूसी क्रांति MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "इतिहास: पाठ 3) नात्सीवाद और हिटलर का उदय MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "इतिहास: पाठ 4) वन्य समाज और उपनिवेशवाद MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "इतिहास: पाठ 5) आधुनिक विश्व में चरवाहे MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "इतिहास: पाठ 6) किसान और काश्तकार MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "इतिहास: पाठ 7) इतिहास और खेल : क्रिकेट की कहानी MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "इतिहास: पाठ 8) पहनावे का सामाजिक इतिहास MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "भूगोल: पाठ 1) भारत आकार और स्थिति MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "भूगोल: पाठ 2) भारत का भौतिक स्वरूप MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "भूगोल: पाठ 3) अपवाह MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "भूगोल: पाठ 4) जलवायु MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "भूगोल: पाठ 5) प्राकृतिक वनस्पति तथा वन्य प्राणी MCQs",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "भूगोल: पाठ 6) जनसंख्या MCQs",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 1 समकालीन विश्व में लोकतंत्र MCQs",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 2 लोकतंत्र क्या? लोकतंत्र क्यों? MCQs",
+          "type": "html",
+          "file": "html/mcq16.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 3 संविधान निर्माण MCQs",
+          "type": "html",
+          "file": "html/mcq17.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 4 चुनावी राजनीति MCQs",
+          "type": "html",
+          "file": "html/mcq18.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 5 संस्थाओं का कामकाज MCQs",
+          "type": "html",
+          "file": "html/mcq19.html"
+        },
+        {
+          "title": "राजनीति विज्ञान: पाठ 6 लोकतांत्रिक अधिकार MCQs",
+          "type": "html",
+          "file": "html/mcq20.html"
+        },
+        {
+          "title": "अर्थशास्त्र: पाठ 1 पालमपुर गाँव की कहानी MCQs",
+          "type": "html",
+          "file": "html/mcq21.html"
+        },
+        {
+          "title": "अर्थशास्त्र: पाठ 2 संसाधन के रूप में लोग MCQs",
+          "type": "html",
+          "file": "html/mcq22.html"
+        },
+        {
+          "title": "अर्थशास्त्र: पाठ 3 निर्धनता एक चुनौती MCQs",
+          "type": "html",
+          "file": "html/mcq23.html"
+        },
+        {
+          "title": "अर्थशास्त्र: पाठ 4 भारत में खाद्य सुरक्षा MCQs",
+          "type": "html",
+          "file": "html/mcq24.html"
+        }
+      ]
+    }
+  ]
+}
