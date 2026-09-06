@@ -1,0 +1,409 @@
+{
+  "appName": "Class 12 English NCERT Notes",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12english"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Flamingo (PROSE)",
+      "chapters": [
+        {
+          "title": "Chapter 1) The Last Lesson",
+          "type": "html",
+          "file": "html/part1.1.html"
+        },
+        {
+          "title": "Chapter 2) Lost Spring",
+          "type": "html",
+          "file": "html/part1.2.html"
+        },
+        {
+          "title": "Chapter 3) Deep Water",
+          "type": "html",
+          "file": "html/part1.3.html"
+        },
+        {
+          "title": "Chapter 4) The Rattrap",
+          "type": "html",
+          "file": "html/part1.4.html"
+        },
+        {
+          "title": "Chapter 5) Indigo",
+          "type": "html",
+          "file": "html/part1.5.html"
+        },
+        {
+          "title": "Chapter 6) Poets and Pancakes",
+          "type": "html",
+          "file": "html/part1.6.html"
+        },
+        {
+          "title": "Chapter 7) The Interview",
+          "type": "html",
+          "file": "html/part1.7.html"
+        },
+        {
+          "title": "Chapter 8) Going Places",
+          "type": "html",
+          "file": "html/part1.8.html"
+        }
+      ]
+    },
+    {
+      "title": "Flamingo (Poetry)",
+      "chapters": [
+        {
+          "title": "Chapter 1) My Mother at Sixty-six",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "Chapter 2) An Elementary School Classroom in a Slum",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "Chapter 3) Keeping Quiet",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "Chapter 4) A Thing of Beauty",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "Chapter 5) A Roadside Stand",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "Chapter 6) Aunt Jennifer’s Tigers",
+          "type": "html",
+          "file": "html/part2.6.html"
+        }
+      ]
+    },
+    {
+      "title": "Vistas",
+      "chapters": [
+        {
+          "title": "Chapter 1 The Third Level",
+          "type": "html",
+          "file": "html/part3.1.html"
+        },
+        {
+          "title": "Chapter 2 The Tiger King",
+          "type": "html",
+          "file": "html/part3.2.html"
+        },
+        {
+          "title": "Chapter 3 Journey to the end of the Earth",
+          "type": "html",
+          "file": "html/part3.3.html"
+        },
+        {
+          "title": "Chapter 4 The Enemy",
+          "type": "html",
+          "file": "html/part3.4.html"
+        },
+        {
+          "title": "Chapter 5 Should Wizard hit Mommy",
+          "type": "html",
+          "file": "html/part3.5.html"
+        },
+        {
+          "title": "Chapter 6 On the face of It",
+          "type": "html",
+          "file": "html/part3.6.html"
+        },
+        {
+          "title": "Chapter 7 Evans Tries an O-level",
+          "type": "html",
+          "file": "html/part3.7.html"
+        },
+        {
+          "title": "Chapter 8 Memories of Childhood",
+          "type": "html",
+          "file": "html/part3.8.html"
+        }
+      ]
+    },
+    {
+      "title": "Class 12 - English Solutions",
+      "chapters": [
+        {
+          "title": "(Prose) Chapter 1 A Girl with a Basket",
+          "type": "html",
+          "file": "html/partup1.1.html"
+        },
+        {
+          "title": "(Prose) Chapter 2 A Fellow Traveller",
+          "type": "html",
+          "file": "html/partup1.2.html"
+        },
+        {
+          "title": "(Prose) Chapter 3 The Secret of Health, Success and Power",
+          "type": "html",
+          "file": "html/partup1.3.html"
+        },
+        {
+          "title": "(Prose) Chapter 4 The Homecoming",
+          "type": "html",
+          "file": "html/partup1.4.html"
+        },
+        {
+          "title": "(Prose) Chapter 5 I am John’s Heart",
+          "type": "html",
+          "file": "html/partup1.5.html"
+        },
+        {
+          "title": "(Prose) Chapter 6 Women’s Education",
+          "type": "html",
+          "file": "html/partup1.6.html"
+        },
+        {
+          "title": "(Prose) Chapter 7 The Heritage of India",
+          "type": "html",
+          "file": "html/partup1.7.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 1 Character of a Happy Life",
+          "type": "html",
+          "file": "html/partup2.1.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 2 The True Beauty",
+          "type": "html",
+          "file": "html/partup2.2.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 3 On His Blindness",
+          "type": "html",
+          "file": "html/partup2.3.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 4 An Elegy Written in a Country Churchyard",
+          "type": "html",
+          "file": "html/partup2.4.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 5 A Lament",
+          "type": "html",
+          "file": "html/partup2.5.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 6 La Belle Dame Sans Merci",
+          "type": "html",
+          "file": "html/partup2.6.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 7 The Passing of Arthur",
+          "type": "html",
+          "file": "html/partup2.7.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 8 My Heaven",
+          "type": "html",
+          "file": "html/partup2.8.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 9 Stopping by Woods on a Snowy Evening",
+          "type": "html",
+          "file": "html/partup2.9.html"
+        },
+        {
+          "title": "(Short Poem) Chapter 10 The Song of the Free",
+          "type": "html",
+          "file": "html/partup2.10.html"
+        },
+        {
+          "title": "(Short Stories) Chapter 1 The Gold Watch",
+          "type": "html",
+          "file": "html/partup3.1.html"
+        },
+        {
+          "title": "(Short Stories) Chapter 2 An Astrologer’s Day",
+          "type": "html",
+          "file": "html/partup3.2.html"
+        },
+        {
+          "title": "(Short Stories) Chapter 3 The Lost Child",
+          "type": "html",
+          "file": "html/partup3.3.html"
+        },
+        {
+          "title": "(Short Stories) Chapter 4 A Special Experience",
+          "type": "html",
+          "file": "html/partup3.4.html"
+        }
+      ]
+    },
+    {
+      "title": "MCQ",
+      "chapters": [
+        {
+          "title": "Chapter 1) The Last Lesson MCQ",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2) Lost Spring MCQ",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3) Deep Water MCQ",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4) The Rattrap MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5) Indigo MCQ",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6) Poets and Pancakes MCQ",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7) The Interview MCQ",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8) Going Places MCQ",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 1) My Mother at Sixty-six MCQ",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 2) An Elementary School Classroom in a Slum MCQ",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 3) Keeping Quiet MCQ",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 4) A Thing of Beauty MCQ",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 5) A Roadside Stand MCQ",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 6) Aunt Jennifer’s Tigers MCQ",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Chapter 1) The Third Level MCQ",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "Chapter 2) The Tiger King MCQ",
+          "type": "html",
+          "file": "html/mcq16.html"
+        },
+        {
+          "title": "Chapter 3) Journey to the end of the Earth MCQ",
+          "type": "html",
+          "file": "html/mcq17.html"
+        },
+        {
+          "title": "Chapter 4) The Enemy MCQ",
+          "type": "html",
+          "file": "html/mcq18.html"
+        },
+        {
+          "title": "Chapter 5) Should Wizard hit Mommy MCQ",
+          "type": "html",
+          "file": "html/mcq19.html"
+        },
+        {
+          "title": "Chapter 6) On the face of It MCQ",
+          "type": "html",
+          "file": "html/mcq20.html"
+        },
+        {
+          "title": "Chapter 7) Evans Tries an O-level MCQ",
+          "type": "html",
+          "file": "html/mcq21.html"
+        },
+        {
+          "title": "Chapter 8) Memories of Childhood MCQ",
+          "type": "html",
+          "file": "html/mcq22.html"
+        }
+      ]
+    }
+  ]
+}
