@@ -5,9 +5,9 @@
     "internetRequired": true,
     "showTopPromotion": false,
     "showBottomPromotion": false,
-    "showBannerOnHome": true,
-    "showBannerOnChapter": true,
-    "showBannerOnReader": true,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
     "reward": {
       "enabled": true,
       "requiredVideos": 2,
@@ -112,11 +112,6 @@
           "title": "Chapter 11: Training in Sports",
           "type": "pdf",
           "file": "pdf/Part11.pdf"
-        },
-        {
-          "title": "Chapter 12: Training in Sports",
-          "type": "pdf",
-          "file": "pdf/Part12.pdf"
         }
       ]
     },
