@@ -1,0 +1,204 @@
+{
+  "appName": "Class 11 Physical Education",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class11physicaleducation"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 3,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Physical Education",
+      "chapters": [
+        {
+          "title": "Chapter 1: Changing Trends and Career in Physical Education",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Physical Fitness Wellness and Lifestyle",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: Olympic Value Education",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Yoga",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Doping",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: Physical Activity and Leadership Training",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: Test, Measurement and Evaluation",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: Fundamental of Anatomy and Physiology and Kinesiology",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: Kinesiology Biomechanics and Sports",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10: Psychology and Sports",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 11: Training in Sports",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12: Training in Sports",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        }
+      ]
+    },
+    {
+      "title": "शारीरिक शिक्षा",
+      "chapters": [
+        {
+          "title": "Chapter 1: शारीरिक शिक्षा में बदलती प्रवृत्तियाँ और कैरियर",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2: भारतीय ओलम्पिक संघ",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3: शारीरिक पुष्टि, सुयोग्यता और जीवन शैली",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4: विशेष आवश्यकताओं वाले बच्चों के लिए शारीरिक शिक्षा एवं खेल",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5: योग",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6: शारीरिक क्रियाएँ तथा नेतृत्व प्रशिक्षण",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7: परिक्षण, मापन और मूल्यांकन",
+          "type": "pdf",
+          "file": "pdf/Part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8: खेलों में शरीर रचना, शरीर क्रिया विज्ञान और किनजियोलॉजी के मूलभूत सिद्धांत",
+          "type": "pdf",
+          "file": "pdf/Part2.8.pdf"
+        },
+        {
+          "title": "Chapter 9: मनोविज्ञान एवं खेल",
+          "type": "pdf",
+          "file": "pdf/Part2.9.pdf"
+        },
+        {
+          "title": "Chapter 10: खेलकूद में प्रशिक्षण और डोपिंग",
+          "type": "pdf",
+          "file": "pdf/Part2.10.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MCQs",
+      "chapters": [
+        {
+          "title": "Physical Education English MCQ 1",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Physical Education English MCQ 2",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Physical Education English MCQ 3",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "शारीरिक शिक्षा HINDI MCQ",
+          "type": "html",
+          "file": "html/mcq4.html"
+        }
+      ]
+    }
+  ]
+}
