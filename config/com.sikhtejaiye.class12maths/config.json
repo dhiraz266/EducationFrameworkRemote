@@ -1,0 +1,199 @@
+{
+  "appName": "Class 12 Maths NCERT Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12maths"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 3,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Class 12 Maths Solutions",
+      "chapters": [
+        {
+          "title": "Chapter 1: Relations And Functions",
+          "type": "pdf",
+          "file": "pdf/Part1.1.pdf"
+        },
+        {
+          "title": "Chapter 2: Inverse Trigonometric Functions",
+          "type": "pdf",
+          "file": "pdf/Part1.2.pdf"
+        },
+        {
+          "title": "Chapter 3: Matrices",
+          "type": "pdf",
+          "file": "pdf/Part1.3.pdf"
+        },
+        {
+          "title": "Chapter 4: Determinants",
+          "type": "pdf",
+          "file": "pdf/Part1.4.pdf"
+        },
+        {
+          "title": "Chapter 5: Continuity And Differentiability",
+          "type": "pdf",
+          "file": "pdf/Part1.5.pdf"
+        },
+        {
+          "title": "Chapter 6: Application Of Derivatives",
+          "type": "pdf",
+          "file": "pdf/Part1.6.pdf"
+        },
+        {
+          "title": "Chapter 7: Integrals",
+          "type": "pdf",
+          "file": "pdf/Part1.7.pdf"
+        },
+        {
+          "title": "Chapter 8: Application Of Integrals",
+          "type": "pdf",
+          "file": "pdf/Part1.8.pdf"
+        },
+        {
+          "title": "Chapter 9: Differential Equations",
+          "type": "pdf",
+          "file": "pdf/Part1.9.pdf"
+        },
+        {
+          "title": "Chapter 10: Vector Algebra",
+          "type": "pdf",
+          "file": "pdf/Part1.10.pdf"
+        },
+        {
+          "title": "Chapter 11: Three Dimensional Geometry",
+          "type": "pdf",
+          "file": "pdf/Part1.11.pdf"
+        },
+        {
+          "title": "Chapter 12: Linear Programming",
+          "type": "pdf",
+          "file": "pdf/Part1.12.pdf"
+        },
+        {
+          "title": "Chapter 13: Probability",
+          "type": "pdf",
+          "file": "pdf/Part1.13.pdf"
+        }
+      ]
+    },
+    {
+      "title": "कक्षा 12 गणित समाधान",
+      "chapters": [
+        {
+          "title": "Chapter 1: संबंध एव फलन",
+          "type": "pdf",
+          "file": "pdf/Part2.1.pdf"
+        },
+        {
+          "title": "Chapter 2: प्रतिलोम तिरिकोंमितिया फलन",
+          "type": "pdf",
+          "file": "pdf/Part2.2.pdf"
+        },
+        {
+          "title": "Chapter 3: आव्यूह",
+          "type": "pdf",
+          "file": "pdf/Part2.3.pdf"
+        },
+        {
+          "title": "Chapter 4: सारणिक",
+          "type": "pdf",
+          "file": "pdf/Part2.4.pdf"
+        },
+        {
+          "title": "Chapter 5: सांतत्य और अवकलनीयता",
+          "type": "pdf",
+          "file": "pdf/Part2.5.pdf"
+        },
+        {
+          "title": "Chapter 6: अवकलज के अनुप्रयोग",
+          "type": "pdf",
+          "file": "pdf/Part2.6.pdf"
+        },
+        {
+          "title": "Chapter 7: समाकल",
+          "type": "pdf",
+          "file": "pdf/Part2.7.pdf"
+        },
+        {
+          "title": "Chapter 8: स्माकलो के अनुप्रयोग",
+          "type": "pdf",
+          "file": "pdf/Part2.8.pdf"
+        },
+        {
+          "title": "Chapter 9: अवकल समीकरण",
+          "type": "pdf",
+          "file": "pdf/Part2.9.pdf"
+        },
+        {
+          "title": "Chapter 10: सदिश बीजगणित",
+          "type": "pdf",
+          "file": "pdf/Part2.10.pdf"
+        },
+        {
+          "title": "Chapter 11: त्रिविमयि ज्यामिति",
+          "type": "pdf",
+          "file": "pdf/Part2.11.pdf"
+        },
+        {
+          "title": "Chapter 12: रैखिक प्रोग्रामन",
+          "type": "pdf",
+          "file": "pdf/Part2.12.pdf"
+        },
+        {
+          "title": "Chapter 13: प्रायिकता",
+          "type": "pdf",
+          "file": "pdf/Part2.13.pdf"
+        }
+      ]
+    }
+  ]
+}
