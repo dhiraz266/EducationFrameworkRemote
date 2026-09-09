@@ -1,0 +1,399 @@
+{
+  "appName": "Class 12 Chemistry Solutions",
+  "settings": {
+    "themeColor": "#009688",
+    "internetRequired": true,
+    "showTopPromotion": false,
+    "showBottomPromotion": false,
+    "showBannerOnHome": false,
+    "showBannerOnChapter": false,
+    "showBannerOnReader": false,
+    "reward": {
+      "enabled": true,
+      "requiredVideos": 2,
+      "duration": {
+        "value": 2,
+        "unit": "days"
+      }
+    },
+    "update": {
+      "enabled": true,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
+      "title": "New Update Available",
+      "message": "A better version of the app is now available.",
+      "releaseNotes": [
+        "Faster Search",
+        "Better Reader",
+        "Reward Improvements",
+        "Performance Optimizations"
+      ],
+      "positiveButton": "Update Now",
+      "negativeButton": "Later",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sikhtejaiye.class12chemistry"
+    },
+    "interstitial": {
+      "enabled": true,
+      "testMode": false,
+      "production": {
+        "backPressMinutes": 10,
+        "readingMinutes": 20,
+        "beforeDelaySeconds": 3,
+        "globalCooldownSeconds": 60
+      },
+      "testing": {
+        "backPressMinutes": 1,
+        "readingMinutes": 1,
+        "beforeDelaySeconds": 1,
+        "globalCooldownSeconds": 5
+      },
+      "showBeforeToast": true,
+      "showAfterToast": true,
+      "beforeToast": "An ad will be shown in a moment...",
+      "afterToast": "Remove Ads from the Menu"
+    }
+  },
+  "subjects": [
+    {
+      "title": "Class 12 Chemistry Solutions",
+      "chapters": [
+        {
+          "title": "Chapter 1: Solid States",
+          "type": "pdf",
+          "file": "pdf/Part1.pdf"
+        },
+        {
+          "title": "Chapter 2: Solutions",
+          "type": "pdf",
+          "file": "pdf/Part2.pdf"
+        },
+        {
+          "title": "Chapter 3: Electrochemistry",
+          "type": "pdf",
+          "file": "pdf/Part3.pdf"
+        },
+        {
+          "title": "Chapter 4: Chemical Kinetics",
+          "type": "pdf",
+          "file": "pdf/Part4.pdf"
+        },
+        {
+          "title": "Chapter 5: Surface Chemistry",
+          "type": "pdf",
+          "file": "pdf/Part5.pdf"
+        },
+        {
+          "title": "Chapter 6: General Principle and Processes of Isolation of Elements",
+          "type": "pdf",
+          "file": "pdf/Part6.pdf"
+        },
+        {
+          "title": "Chapter 7: The p-block Elements",
+          "type": "pdf",
+          "file": "pdf/Part7.pdf"
+        },
+        {
+          "title": "Chapter 8: The d-and f-Block Elements",
+          "type": "pdf",
+          "file": "pdf/Part8.pdf"
+        },
+        {
+          "title": "Chapter 9: Coordination Compounds",
+          "type": "pdf",
+          "file": "pdf/Part9.pdf"
+        },
+        {
+          "title": "Chapter 10: Haloalkanes and Haloarenes",
+          "type": "pdf",
+          "file": "pdf/Part10.pdf"
+        },
+        {
+          "title": "Chapter 11: Alcohols, Phenols and Ethers",
+          "type": "pdf",
+          "file": "pdf/Part11.pdf"
+        },
+        {
+          "title": "Chapter 12: Aldehydes, Ketones and Carboxylic Acids",
+          "type": "pdf",
+          "file": "pdf/Part12.pdf"
+        },
+        {
+          "title": "Chapter 13: Amines",
+          "type": "pdf",
+          "file": "pdf/Part13.pdf"
+        },
+        {
+          "title": "Chapter 14: Biomolecules",
+          "type": "pdf",
+          "file": "pdf/Part14.pdf"
+        },
+        {
+          "title": "Chapter 15: Polymers",
+          "type": "pdf",
+          "file": "pdf/Part15.pdf"
+        },
+        {
+          "title": "Chapter 16: Chemistry In Everyday Life",
+          "type": "pdf",
+          "file": "pdf/Part16.pdf"
+        }
+      ]
+    },
+    {
+      "title": "कक्षा 12 रसायन विज्ञान",
+      "chapters": [
+        {
+          "title": "Chapter 1: ठोस अवस्था",
+          "type": "html",
+          "file": "html/part2.1.html"
+        },
+        {
+          "title": "Chapter 2: विलयन",
+          "type": "html",
+          "file": "html/part2.2.html"
+        },
+        {
+          "title": "Chapter 3: वैधुतरसायन",
+          "type": "html",
+          "file": "html/part2.3.html"
+        },
+        {
+          "title": "Chapter 4: रासायनिक बलगतिकी",
+          "type": "html",
+          "file": "html/part2.4.html"
+        },
+        {
+          "title": "Chapter 5: पृष्ठ रसायन",
+          "type": "html",
+          "file": "html/part2.5.html"
+        },
+        {
+          "title": "Chapter 6: तत्वों के निष्कर्षण के सिद्धांत एवं प्रक्रम",
+          "type": "html",
+          "file": "html/part2.6.html"
+        },
+        {
+          "title": "Chapter 7: p-ब्लॉक के तत्व",
+          "type": "html",
+          "file": "html/part2.7.html"
+        },
+        {
+          "title": "Chapter 8: d- एवं f- ब्लॉक के तत्व",
+          "type": "html",
+          "file": "html/part2.8.html"
+        },
+        {
+          "title": "Chapter 9: उपसहसंयोजन यौगिक",
+          "type": "html",
+          "file": "html/part2.9.html"
+        },
+        {
+          "title": "Chapter 10: हैलाेऐक्लेन तथा हैलाेऐरिन",
+          "type": "html",
+          "file": "html/part2.10.html"
+        },
+        {
+          "title": "Chapter 11: ऐल्कोहॉल, फ़िनॉल एवं ईथर",
+          "type": "html",
+          "file": "html/part2.11.html"
+        },
+        {
+          "title": "Chapter 12: ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल",
+          "type": "html",
+          "file": "html/part2.12.html"
+        },
+        {
+          "title": "Chapter 13: ऐमीन",
+          "type": "html",
+          "file": "html/part2.13.html"
+        },
+        {
+          "title": "Chapter 14: जैव-अणु",
+          "type": "html",
+          "file": "html/part2.14.html"
+        },
+        {
+          "title": "Chapter 15: बहुलक",
+          "type": "html",
+          "file": "html/part2.15.html"
+        },
+        {
+          "title": "Chapter 16: दैनिक जीवन में रसायन",
+          "type": "html",
+          "file": "html/part2.16.html"
+        }
+      ]
+    },
+    {
+      "title": "Chemistry MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1: Solid States MCQs",
+          "type": "html",
+          "file": "html/mcq1.html"
+        },
+        {
+          "title": "Chapter 2: Solutions MCQs",
+          "type": "html",
+          "file": "html/mcq2.html"
+        },
+        {
+          "title": "Chapter 3: Electrochemistry MCQs",
+          "type": "html",
+          "file": "html/mcq3.html"
+        },
+        {
+          "title": "Chapter 4: Chemical Kinetics MCQs",
+          "type": "html",
+          "file": "html/mcq4.html"
+        },
+        {
+          "title": "Chapter 5: Surface Chemistry MCQs",
+          "type": "html",
+          "file": "html/mcq5.html"
+        },
+        {
+          "title": "Chapter 6: General Principle and Processes of Isolation of Elements MCQs",
+          "type": "html",
+          "file": "html/mcq6.html"
+        },
+        {
+          "title": "Chapter 7: The p-block Elements MCQs",
+          "type": "html",
+          "file": "html/mcq7.html"
+        },
+        {
+          "title": "Chapter 8: The d-and f-Block Elements MCQs",
+          "type": "html",
+          "file": "html/mcq8.html"
+        },
+        {
+          "title": "Chapter 9: Coordination Compounds MCQs",
+          "type": "html",
+          "file": "html/mcq9.html"
+        },
+        {
+          "title": "Chapter 10: Haloalkanes and Haloarenes MCQs",
+          "type": "html",
+          "file": "html/mcq10.html"
+        },
+        {
+          "title": "Chapter 11: Alcohols, Phenols and Ethers MCQs",
+          "type": "html",
+          "file": "html/mcq11.html"
+        },
+        {
+          "title": "Chapter 12: Aldehydes, Ketones and Carboxylic Acids MCQs",
+          "type": "html",
+          "file": "html/mcq12.html"
+        },
+        {
+          "title": "Chapter 13: Amines MCQs",
+          "type": "html",
+          "file": "html/mcq13.html"
+        },
+        {
+          "title": "Chapter 14: Biomolecules MCQs",
+          "type": "html",
+          "file": "html/mcq14.html"
+        },
+        {
+          "title": "Chapter 15: Polymers MCQs",
+          "type": "html",
+          "file": "html/mcq15.html"
+        },
+        {
+          "title": "Chapter 16: Chemistry In Everyday Life MCQs",
+          "type": "html",
+          "file": "html/mcq16.html"
+        }
+      ]
+    },
+    {
+      "title": "रसायन विज्ञान MCQs",
+      "chapters": [
+        {
+          "title": "Chapter 1: ठोस अवस्था MCQs",
+          "type": "html",
+          "file": "html/mcq2.1.html"
+        },
+        {
+          "title": "Chapter 2: विलयन MCQs",
+          "type": "html",
+          "file": "html/mcq2.2.html"
+        },
+        {
+          "title": "Chapter 3: वैधुतरसायन MCQs",
+          "type": "html",
+          "file": "html/mcq2.3.html"
+        },
+        {
+          "title": "Chapter 4: रासायनिक बलगतिकी MCQs",
+          "type": "html",
+          "file": "html/mcq2.4.html"
+        },
+        {
+          "title": "Chapter 5: पृष्ठ रसायन MCQs",
+          "type": "html",
+          "file": "html/mcq2.5.html"
+        },
+        {
+          "title": "Chapter 6: तत्वों के निष्कर्षण के सिद्धांत एवं प्रक्रम MCQs",
+          "type": "html",
+          "file": "html/mcq2.6.html"
+        },
+        {
+          "title": "Chapter 7: p-ब्लॉक के तत्व MCQs",
+          "type": "html",
+          "file": "html/mcq2.7.html"
+        },
+        {
+          "title": "Chapter 8: d- एवं f- ब्लॉक के तत्व MCQs",
+          "type": "html",
+          "file": "html/mcq2.8.html"
+        },
+        {
+          "title": "Chapter 9: उपसहसंयोजन यौगिक MCQs",
+          "type": "html",
+          "file": "html/mcq2.9.html"
+        },
+        {
+          "title": "Chapter 10: हैलाेऐक्लेन तथा हैलाेऐरिन MCQs",
+          "type": "html",
+          "file": "html/mcq2.10.html"
+        },
+        {
+          "title": "Chapter 11: ऐल्कोहॉल, फ़िनॉल एवं ईथर MCQs",
+          "type": "html",
+          "file": "html/mcq2.11.html"
+        },
+        {
+          "title": "Chapter 12: ऐल्डिहाइड, कीटोन एवं काबोंक्सिलिक अम्ल MCQs",
+          "type": "html",
+          "file": "html/mcq2.12.html"
+        },
+        {
+          "title": "Chapter 13: ऐमीन MCQs",
+          "type": "html",
+          "file": "html/mcq2.13.html"
+        },
+        {
+          "title": "Chapter 14: जैव-अणु MCQs",
+          "type": "html",
+          "file": "html/mcq2.14.html"
+        },
+        {
+          "title": "Chapter 15: बहुलक MCQs",
+          "type": "html",
+          "file": "html/mcq2.15.html"
+        },
+        {
+          "title": "Chapter 16: दैनिक जीवन में रसायन MCQs",
+          "type": "html",
+          "file": "html/mcq2.16.html"
+        }
+      ]
+    }
+  ]
+}
