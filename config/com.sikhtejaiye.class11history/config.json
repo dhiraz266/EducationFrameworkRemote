@@ -5,9 +5,9 @@
     "internetRequired": true,
     "showTopPromotion": false,
     "showBottomPromotion": false,
-    "showBannerOnHome": false,
-    "showBannerOnChapter": false,
-    "showBannerOnReader": false,
+    "showBannerOnHome": true,
+    "showBannerOnChapter": true,
+    "showBannerOnReader": true,
     "reward": {
       "enabled": true,
       "requiredVideos": 2,
@@ -18,9 +18,9 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 1,
-      "latestVersionName": "1.0.0",
-      "minimumVersion": 1,
+      "latestVersion": 3,
+      "latestVersionName": "1.0.2",
+      "minimumVersion": 3,
       "title": "New Update Available",
       "message": "A better version of the app is now available.",
       "releaseNotes": [
@@ -37,8 +37,8 @@
       "enabled": true,
       "testMode": false,
       "production": {
-        "backPressMinutes": 10,
-        "readingMinutes": 20,
+        "backPressMinutes": 3,
+        "readingMinutes": 6,
         "beforeDelaySeconds": 1,
         "globalCooldownSeconds": 60
       },
