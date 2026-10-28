@@ -18,9 +18,9 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 5,
-      "latestVersionName": "1.0.4",
-      "minimumVersion": 5,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
       "title": "New Update Available",
       "message": "A better version of the app is now available.",
       "releaseNotes": [
