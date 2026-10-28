@@ -18,9 +18,9 @@
     },
     "update": {
       "enabled": true,
-      "latestVersion": 6,
-      "latestVersionName": "1.0.5",
-      "minimumVersion": 6,
+      "latestVersion": 1,
+      "latestVersionName": "1.0.0",
+      "minimumVersion": 1,
       "title": "New Update Available",
       "message": "A better version of the app is now available.",
       "releaseNotes": [
@@ -37,8 +37,8 @@
       "enabled": true,
       "testMode": false,
       "production": {
-        "backPressMinutes": 3,
-        "readingMinutes": 6,
+        "backPressMinutes": 5,
+        "readingMinutes": 10,
         "beforeDelaySeconds": 1,
         "globalCooldownSeconds": 60
       },
